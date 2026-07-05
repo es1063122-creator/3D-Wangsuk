@@ -1,0 +1,33 @@
+{
+  "group": "C605_OUTER_CIP",
+  "entity_count": 1,
+  "entities": [
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "CIRCLE",
+      "layer": "00-CIP",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 249.9999999999999,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [],
+      "center": {
+        "x": -15771512.286255408,
+        "y": 3451002.2527804137,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": true,
+      "has_position": false,
+      "has_points": false
+    }
+  ]
+}

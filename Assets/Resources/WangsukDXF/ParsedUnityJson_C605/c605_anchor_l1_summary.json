@@ -1,0 +1,11 @@
+{
+  "source": "C:\\UnityProjects\\SafeAR_Wangsuk_Viewer\\Assets\\StreamingAssets\\WangsukDXF\\SourceDXF\\unzipped\\dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+  "layer_count": {
+    "Anchor_1단": 6498,
+    "ANCHOR": 2128
+  },
+  "min_body_length": 1000.0,
+  "body_count": 454,
+  "skipped_short": 7264,
+  "out_json": "C:\\UnityProjects\\SafeAR_Wangsuk_Viewer\\Assets\\StreamingAssets\\WangsukDXF\\ParsedUnityJson_C605\\c605_anchor_l1.json"
+}

@@ -1,0 +1,403 @@
+지층/토사/EL 관련 DXF 검색 결과
+====================================================================================================
+
+[score 10] 가시설합본.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\가시설합본.dxf
+hits: EL+, EL+31.34, EL+31.54, EL+32.44, EL+33.24, EL+33.54, EL+35.04, EL+35.09, EL+35.44, GH
+----------------------------------------------------------------------------------------------------
+[score 10] C-111 가배수로계획평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-111 가배수로계획평면도.dxf
+hits: EL+, EL+31.34, EL+31.54, EL+32.44, EL+33.24, EL+33.54, EL+35.04, EL+35.09, EL+35.44, GH
+----------------------------------------------------------------------------------------------------
+[score 10] C-119~125 토공산출근거(1)~(7).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-119~125 토공산출근거(1)~(7).dxf
+hits: EL+, EL+31.34, EL+31.54, EL+32.44, EL+33.24, EL+33.54, EL+35.04, EL+35.09, EL+35.44, GH
+----------------------------------------------------------------------------------------------------
+[score 10] C-605 굴착계획 평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\6.가시설공사\C-605 굴착계획 평면도.dxf
+hits: EL+, EL+31.34, EL+31.54, EL+32.44, EL+33.24, EL+33.54, EL+35.04, EL+35.09, EL+35.44, GH
+----------------------------------------------------------------------------------------------------
+[score 10] C-629 계측계획 평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\6.가시설공사\C-629 계측계획 평면도.dxf
+hits: EL+, EL+31.34, EL+31.54, EL+32.44, EL+33.24, EL+33.54, EL+35.04, EL+35.09, EL+35.44, GH
+----------------------------------------------------------------------------------------------------
+[score 10] C-637 앵커시험 위치 평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\6.가시설공사\C-637 앵커시험 위치 평면도.dxf
+hits: EL+, EL+31.34, EL+31.54, EL+32.44, EL+33.24, EL+33.54, EL+35.04, EL+35.09, EL+35.44, GH
+----------------------------------------------------------------------------------------------------
+[score 10] C-641 그라우팅 시험시공 평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\6.가시설공사\C-641 그라우팅 시험시공 평면도.dxf
+hits: EL+, EL+31.34, EL+31.54, EL+32.44, EL+33.24, EL+33.54, EL+35.04, EL+35.09, EL+35.44, GH
+----------------------------------------------------------------------------------------------------
+[score 10] C-643 공사중 배수 계획도 .dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\6.가시설공사\C-643 공사중 배수 계획도 .dxf
+hits: EL+, EL+31.34, EL+31.54, EL+32.44, EL+33.24, EL+33.54, EL+35.04, EL+35.09, EL+35.44, GH
+----------------------------------------------------------------------------------------------------
+[score 10] C-644 비탈면 보호덮개 평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\6.가시설공사\C-644 비탈면 보호덮개 평면도.dxf
+hits: EL+, EL+31.34, EL+31.54, EL+32.44, EL+33.24, EL+33.54, EL+35.04, EL+35.09, EL+35.44, GH
+----------------------------------------------------------------------------------------------------
+[score 10] C-646 암발파 계획 평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\6.가시설공사\C-646 암발파 계획 평면도.dxf
+hits: EL+, EL+31.34, EL+31.54, EL+32.44, EL+33.24, EL+33.54, EL+35.04, EL+35.09, EL+35.44, GH
+----------------------------------------------------------------------------------------------------
+[score 3] C-601 공사개요 및 주요시방.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\6.가시설공사\C-601 공사개요 및 주요시방.dxf
+hits: EL+, EL+31.34, GH
+----------------------------------------------------------------------------------------------------
+[score 2] C-106~110 단지횡단면도(1)~(5).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-106~110 단지횡단면도(1)~(5).dxf
+hits: BH, GH
+----------------------------------------------------------------------------------------------------
+[score 2] C-648 흙막이시공 및 해체 순서도 (1).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\6.가시설공사\C-648 흙막이시공 및 해체 순서도 (1).dxf
+hits: EL-, GH
+----------------------------------------------------------------------------------------------------
+[score 1] 가시설 상세도 합본.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\가시설 상세도 합본.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] 단면도 모음.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\단면도 모음.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] AG-000 표지 (남양주왕숙 A-6BL 설계검증완료).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\0.공통\AG-000 표지 (남양주왕숙 A-6BL 설계검증완료).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] AG-109 단지배치도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\0.공통\AG-109 단지배치도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] BASE.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\0.공통\BASE.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-001~002 도면목록표(1)~(2).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\0.공통\C-001~002 도면목록표(1)~(2).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] SHEET_남양주왕숙 A-6BL-C-Infra.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\0.공통\SHEET_남양주왕숙 A-6BL-C-Infra.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-101 택지조성계획평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-101 택지조성계획평면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-102 공사계획평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-102 공사계획평면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-103 주요대표단면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-103 주요대표단면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-104 측점위치도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-104 측점위치도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-105 단지종단면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-105 단지종단면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-112 가배수로및침사지상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-112 가배수로및침사지상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-113 방호울타리 예시도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-113 방호울타리 예시도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-114 세륜시설상세도(수조식+자동식).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-114 세륜시설상세도(수조식+자동식).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-115~117 가공조경석 전개도(1)~(3).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-115~117 가공조경석 전개도(1)~(3).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-118 가공조경석쌓기상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-118 가공조경석쌓기상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] SHEET_남양주왕숙 A-6BL-C-Infra.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\SHEET_남양주왕숙 A-6BL-C-Infra.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-201 복합계획평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-201 복합계획평면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-202 우수유역구분도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-202 우수유역구분도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-203 우수계획평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-203 우수계획평면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-204~207 우수관로종단면도(1)~(4).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-204~207 우수관로종단면도(1)~(4).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-208 오수계획평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-208 오수계획평면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-209~211 오수관로종단면도(1)~(3).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-209~211 오수관로종단면도(1)~(3).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-212 자갈배수층평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-212 자갈배수층평면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-213 자갈배수층 예시도 및 유공관 단면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-213 자갈배수층 예시도 및 유공관 단면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-214 유 공 관 예 시 도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-214 유 공 관 예 시 도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-215 1호 맨홀 상세도(슬래브식,D900).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-215 1호 맨홀 상세도(슬래브식,D900).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-216 2호 맨홀 상세도(슬래브식,D1200).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-216 2호 맨홀 상세도(슬래브식,D1200).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-217 특2호 맨홀 일반도 (1.2X1.2,H-1.2m~H-4.0m).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-217 특2호 맨홀 일반도 (1.2X1.2,H-1.2m~H-4.0m).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-218 특2호 맨홀 배근도 (1.2X1.2,H-1.2m~H-4.0m).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-218 특2호 맨홀 배근도 (1.2X1.2,H-1.2m~H-4.0m).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-219 조립식 PC맨홀(D900) 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-219 조립식 PC맨홀(D900) 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-220 조립식 PC맨홀(1.2×1.2) 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-220 조립식 PC맨홀(1.2×1.2) 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-221 주철재 맨홀 뚜껑 예시도(차도부).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-221 주철재 맨홀 뚜껑 예시도(차도부).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-222 주철재 맨홀 뚜껑 예시도(보도및녹지부).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-222 주철재 맨홀 뚜껑 예시도(보도및녹지부).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-223 P.E원형 맨홀 거푸집 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-223 P.E원형 맨홀 거푸집 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-224 맨홀 발디딤쇠 설치 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-224 맨홀 발디딤쇠 설치 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-225 맨 홀 인 버 트 상 세 도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-225 맨 홀 인 버 트 상 세 도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-226 맨 홀 연 결 상 세 도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-226 맨 홀 연 결 상 세 도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-227 원심력철근콘크리트관 상세도(고무링접합).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-227 원심력철근콘크리트관 상세도(고무링접합).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-228 진동및전압철근콘크리트관 상세도(고무링접합).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-228 진동및전압철근콘크리트관 상세도(고무링접합).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-229 P.V.C 이중벽관 상세도(1).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-229 P.V.C 이중벽관 상세도(1).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-230 P.V.C 이중벽관 상세도(2).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-230 P.V.C 이중벽관 상세도(2).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-231 우 수 강 성 기 초 상 세 도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-231 우 수 강 성 기 초 상 세 도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-232 오·배수 연성관 기초 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-232 오·배수 연성관 기초 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-233 관 로 다 짐 예 시 도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-233 관 로 다 짐 예 시 도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-234 조경수직드레인펌핑관연결 상세도(수도용경질염화비닐관).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-234 조경수직드레인펌핑관연결 상세도(수도용경질염화비닐관).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-235 건물오수관연결상세도 (수도용경질염화비닐관).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-235 건물오수관연결상세도 (수도용경질염화비닐관).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-236 건물오수관연결상세도 (배수용주철관).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-236 건물오수관연결상세도 (배수용주철관).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-237 우수연결관접속상세도 (본관천공+PVC접속구).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-237 우수연결관접속상세도 (본관천공+PVC접속구).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-238 집수정상세도 (450X450,H-1200,일반부).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-238 집수정상세도 (450X450,H-1200,일반부).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-239 집수정상세도 (450X450,H-800,구조물상부).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-239 집수정상세도 (450X450,H-800,구조물상부).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-240 재생플라스틱빗물받이 상세도(410x510x940).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-240 재생플라스틱빗물받이 상세도(410x510x940).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-241 재생플라스틱빗물받이 상세도(410x510x400).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-241 재생플라스틱빗물받이 상세도(410x510x400).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-242 콘크리트 빗물받이 상세도(구조물상부).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-242 콘크리트 빗물받이 상세도(구조물상부).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-243 콘크리트 빗물받이 상세도(일반부).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-243 콘크리트 빗물받이 상세도(일반부).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-244 선홈통받이상세도 (450X600)-TYPE1.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-244 선홈통받이상세도 (450X600)-TYPE1.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-245 선홈통받이상세도 (450X600)-TYPE2.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-245 선홈통받이상세도 (450X600)-TYPE2.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-246 트랜치형측구 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-246 트랜치형측구 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-247 횡단 배수로 상세도(무소음트랜치).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-247 횡단 배수로 상세도(무소음트랜치).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-248 관표시 비닐 테이프 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-248 관표시 비닐 테이프 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-249 원형수로관 상세도(1).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-249 원형수로관 상세도(1).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-250 원형수로관 상세도(2).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-250 원형수로관 상세도(2).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-251 앵글, 그레이팅 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-251 앵글, 그레이팅 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-252 원형수로관 집수정 규격도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-252 원형수로관 집수정 규격도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-253 원형수로관 집수정 연결 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-253 원형수로관 집수정 연결 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-254 원형수로관 종점부 봉입 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-254 원형수로관 종점부 봉입 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-255 재활용품보관소배수 연결위치도(구조물상부).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-255 재활용품보관소배수 연결위치도(구조물상부).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-256 재활용품보관소배수 연결위치도(일반부).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-256 재활용품보관소배수 연결위치도(일반부).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-257 C.C.TV및공기압시험예시도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\C-257 C.C.TV및공기압시험예시도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] MI-004 옥외 공동구 관로도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\MI-004 옥외 공동구 관로도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] SHEET_남양주왕숙 A-6BL-C-Infra.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\2.배수공사\SHEET_남양주왕숙 A-6BL-C-Infra.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-301 상수계획평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\3.상수공사\C-301 상수계획평면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-302 급수관매설 및 구조물인입 시공 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\3.상수공사\C-302 급수관매설 및 구조물인입 시공 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-303 제수변 보호 박스 상세도 (1.8X2.5X1.5).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\3.상수공사\C-303 제수변 보호 박스 상세도 (1.8X2.5X1.5).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-304 제수변 보호통 상세도-1.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\3.상수공사\C-304 제수변 보호통 상세도-1.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-305 제수변 보호통 상세도-2.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\3.상수공사\C-305 제수변 보호통 상세도-2.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-306 주철재 맨홀뚜껑 및 틀상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\3.상수공사\C-306 주철재 맨홀뚜껑 및 틀상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-307 상수관 표시 비닐 테이프 상세도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\3.상수공사\C-307 상수관 표시 비닐 테이프 상세도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-308 이 형 관 보 호 공 상 세 도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\3.상수공사\C-308 이 형 관 보 호 공 상 세 도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] SHEET_남양주왕숙 A-6BL-C-Infra.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\3.상수공사\SHEET_남양주왕숙 A-6BL-C-Infra.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-401 포장계획평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\4.포장공사\C-401 포장계획평면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-402 도로 및 보차도 평면도.dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\4.포장공사\C-402 도로 및 보차도 평면도.dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-403~404 도로 및 보차도 표준 단면도(1)~(2).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\4.포장공사\C-403~404 도로 및 보차도 표준 단면도(1)~(2).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-405 공동주택 내 도로 및 주차장(1).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\4.포장공사\C-405 공동주택 내 도로 및 주차장(1).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-406 공동주택 내 도로 및 주차장(2).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\4.포장공사\C-406 공동주택 내 도로 및 주차장(2).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------
+[score 1] C-407 포 장 단 면 도(1).dxf
+path: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\4.포장공사\C-407 포 장 단 면 도(1).dxf
+hits: GH
+----------------------------------------------------------------------------------------------------

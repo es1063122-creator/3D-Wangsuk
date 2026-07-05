@@ -1,0 +1,259 @@
+﻿using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
+
+public class WangsukViewerUI : MonoBehaviour
+{
+    public WangsukFullModelBuilder builder;
+    public ModelGroupRegistry registry;
+    public WangsukFitView fitView;
+
+    private Canvas canvas;
+
+    private void Start()
+    {
+        if (builder == null) builder = FindObjectOfType<WangsukFullModelBuilder>();
+        if (registry == null) registry = FindObjectOfType<ModelGroupRegistry>();
+        if (fitView == null) fitView = FindObjectOfType<WangsukFitView>();
+
+        if (fitView == null && Camera.main != null)
+            fitView = Camera.main.gameObject.AddComponent<WangsukFitView>();
+
+        EnsureEventSystem();
+        CreateUI();
+    }
+
+    private void EnsureEventSystem()
+    {
+        if (FindObjectOfType<EventSystem>() != null)
+            return;
+
+        GameObject eventObj = new GameObject("EventSystem");
+        eventObj.AddComponent<EventSystem>();
+        eventObj.AddComponent<StandaloneInputModule>();
+    }
+
+    private void CreateUI()
+    {
+        GameObject canvasObj = new GameObject("Wangsuk_UI_Canvas");
+        canvas = canvasObj.AddComponent<Canvas>();
+        canvas.renderMode = RenderMode.ScreenSpaceOverlay;
+
+        CanvasScaler scaler = canvasObj.AddComponent<CanvasScaler>();
+        scaler.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
+        scaler.referenceResolution = new Vector2(1920, 1080);
+
+        canvasObj.AddComponent<GraphicRaycaster>();
+
+        CreateButton("PF+CIP 생성", 20, -20, 140, 40, () =>
+        {
+            if (builder != null)
+            {
+                builder.BuildAll();
+                if (fitView != null) fitView.Fit3D();
+            }
+        });
+
+        CreateButton("3D뷰", 170, -20, 80, 40, () =>
+        {
+            if (fitView != null) fitView.Fit3D();
+        });
+
+        CreateButton("평면뷰", 260, -20, 90, 40, () =>
+        {
+            if (fitView != null) fitView.FitTopView();
+        });
+
+        CreateButton("PF", 20, -70, 60, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("PF_HPILE");
+        });
+
+        CreateButton("CIP", 90, -70, 60, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("CIP");
+        });
+
+        CreateButton("띠장", 160, -70, 70, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("WALE");
+        });
+
+        CreateButton("버팀", 240, -70, 70, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("STRUT_L1");
+        });
+
+        CreateButton("코너버팀", 320, -70, 90, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("CORNER_STRUT_L1");
+        });
+
+        CreateButton("앵커", 420, -70, 70, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("ANCHOR_L1");
+        });
+
+        CreateButton("굴착면", 580, -70, 80, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("EXCAVATION_FACE");
+        });
+
+        CreateButton("바닥", 670, -70, 70, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("EXCAVATION_BOTTOM");
+        });
+
+        CreateButton("EL글씨", 750, -70, 80, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("BOTTOM_EL_TEXT");
+        });
+
+        CreateButton("지층", 840, -70, 70, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("SOIL_ROCK_LAYER");
+        });
+
+        CreateButton("지층글씨", 920, -70, 90, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("SOIL_ROCK_TEXT");
+        });
+
+        CreateButton("구간EL", 1020, -70, 80, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("SECTION_EL_TEXT");
+        });
+
+        CreateButton("PILE구간", 1110, -70, 90, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("PILE_SECTION_MARKER");
+        });
+
+        CreateButton("바닥구분", 1210, -70, 90, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("BOTTOM_ZONE_LINE");
+        });
+
+        CreateSoilLegendUI();
+
+        CreateButton("전체보기", 20, -116, 90, 36, () =>
+        {
+            if (registry != null) registry.ShowAll();
+        });
+
+        CreateButton("전체숨김", 120, -116, 90, 36, () =>
+        {
+            if (registry != null) registry.HideAll();
+        });
+    }
+
+    private void CreateButton(string text, float x, float y, float w, float h, UnityEngine.Events.UnityAction action)
+    {
+        GameObject btnObj = new GameObject("BTN_" + text);
+        btnObj.transform.SetParent(canvas.transform, false);
+
+        RectTransform rt = btnObj.AddComponent<RectTransform>();
+        rt.anchorMin = new Vector2(0, 1);
+        rt.anchorMax = new Vector2(0, 1);
+        rt.pivot = new Vector2(0, 1);
+        rt.anchoredPosition = new Vector2(x, y);
+        rt.sizeDelta = new Vector2(w, h);
+
+        Image img = btnObj.AddComponent<Image>();
+        img.color = new Color(0.08f, 0.08f, 0.08f, 0.92f);
+
+        Button btn = btnObj.AddComponent<Button>();
+        btn.targetGraphic = img;
+        btn.onClick.AddListener(action);
+
+        GameObject txtObj = new GameObject("Text");
+        txtObj.transform.SetParent(btnObj.transform, false);
+
+        RectTransform trt = txtObj.AddComponent<RectTransform>();
+        trt.anchorMin = Vector2.zero;
+        trt.anchorMax = Vector2.one;
+        trt.offsetMin = Vector2.zero;
+        trt.offsetMax = Vector2.zero;
+
+        Text t = txtObj.AddComponent<Text>();
+        t.text = text;
+        t.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        t.fontSize = 15;
+        t.color = Color.white;
+        t.alignment = TextAnchor.MiddleCenter;
+        t.raycastTarget = false;
+    }
+
+    private void CreateSoilLegendUI()
+    {
+        GameObject panel = new GameObject("UI_SoilRockLegend");
+        panel.transform.SetParent(canvas.transform, false);
+
+        RectTransform rt = panel.AddComponent<RectTransform>();
+        rt.anchorMin = new Vector2(1f, 1f);
+        rt.anchorMax = new Vector2(1f, 1f);
+        rt.pivot = new Vector2(1f, 1f);
+        rt.anchoredPosition = new Vector2(-20f, -20f);
+        rt.sizeDelta = new Vector2(250f, 185f);
+
+        Image bg = panel.AddComponent<Image>();
+        bg.color = new Color(0f, 0f, 0f, 0.62f);
+
+        CreateLegendTitle(panel.transform, "지층 범례", 0, -18);
+        CreateLegendRow(panel.transform, "매립층", new Color(0.45f, 0.25f, 0.08f, 0.85f), 0, -48);
+        CreateLegendRow(panel.transform, "퇴적층", new Color(0.78f, 0.55f, 0.22f, 0.85f), 0, -76);
+        CreateLegendRow(panel.transform, "풍화토", new Color(0.95f, 0.72f, 0.18f, 0.90f), 0, -104);
+        CreateLegendRow(panel.transform, "풍화암", new Color(0.34f, 0.34f, 0.32f, 0.95f), 0, -132);
+        CreateLegendText(panel.transform, "굴착저면 EL(+29.54~31.00)", 0, -162, 15);
+    }
+
+    private void CreateLegendTitle(Transform parent, string label, float x, float y)
+    {
+        CreateLegendText(parent, label, x, y, 17);
+    }
+
+    private void CreateLegendRow(Transform parent, string label, Color color, float x, float y)
+    {
+        GameObject box = new GameObject("LegendBox_" + label);
+        box.transform.SetParent(parent, false);
+
+        RectTransform brt = box.AddComponent<RectTransform>();
+        brt.anchorMin = new Vector2(0f, 1f);
+        brt.anchorMax = new Vector2(0f, 1f);
+        brt.pivot = new Vector2(0f, 1f);
+        brt.anchoredPosition = new Vector2(18f, y - 4f);
+        brt.sizeDelta = new Vector2(34f, 18f);
+
+        Image img = box.AddComponent<Image>();
+        img.color = color;
+
+        CreateLegendText(parent, label, 70f, y, 15);
+    }
+
+    private void CreateLegendText(Transform parent, string label, float x, float y, int fontSize)
+    {
+        GameObject obj = new GameObject("LegendText_" + label);
+        obj.transform.SetParent(parent, false);
+
+        RectTransform tr = obj.AddComponent<RectTransform>();
+        tr.anchorMin = new Vector2(0f, 1f);
+        tr.anchorMax = new Vector2(0f, 1f);
+        tr.pivot = new Vector2(0f, 1f);
+        tr.anchoredPosition = new Vector2(18f + x, y);
+        tr.sizeDelta = new Vector2(220f, 26f);
+
+        Text txt = obj.AddComponent<Text>();
+        txt.text = label;
+        txt.fontSize = fontSize;
+        txt.color = Color.white;
+        txt.alignment = TextAnchor.MiddleLeft;
+
+        Font font = Font.CreateDynamicFontFromOSFont("Malgun Gothic", fontSize);
+        if (font == null)
+            font = Font.CreateDynamicFontFromOSFont("Arial", fontSize);
+
+        txt.font = font;
+    }
+
+}
+

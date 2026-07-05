@@ -1,0 +1,1175 @@
+[
+  {
+    "file": "C-612 굴착계획 전개도 (1).dxf",
+    "pile_range": "P001~P067",
+    "clusters": [
+      {
+        "level_index_bottom_to_top": 1,
+        "y_avg": 3056084.147854027,
+        "y_min": 3055505.576373521,
+        "y_max": 3056505.576470391,
+        "x_min": -15247300.79042351,
+        "x_max": -15149694.87446528,
+        "entity_count": 14,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -15247300.79042351,
+            "x_max": -15149694.87446528,
+            "sum_length": 281103.7319857627,
+            "layers": "C-WALE,C-WALE,C-WALE,C-WALE,WALE,WALE,C-WALE,C-WALE,WALE,WALE,WALE,WALE,WALE,WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)39.50",
+          "EL(+)40.00",
+          "EL(+)40.50"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 2,
+        "y_avg": 3057955.576418962,
+        "y_min": 3056905.576373524,
+        "y_max": 3058505.576470386,
+        "x_min": -15247300.79042335,
+        "x_max": -15149694.87446528,
+        "entity_count": 16,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -15247300.79042335,
+            "x_max": -15149694.87446528,
+            "sum_length": 401103.7319848202,
+            "layers": "C-WALE,C-WALE,C-WALE,C-WALE,WALE,WALE,C-WALE,C-WALE,C-WALE,C-WALE,WALE,WALE,WALE,WALE,WALE,WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)39.50",
+          "EL(+)40.00",
+          "EL(+)40.50",
+          "H-300x300x10x15"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 3,
+        "y_avg": 3058980.576733957,
+        "y_min": 3058905.576373524,
+        "y_max": 3059205.576373524,
+        "x_min": -15211104.87446514,
+        "x_max": -15151104.87446529,
+        "entity_count": 2,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -15211104.87446514,
+            "x_max": -15151104.87446529,
+            "sum_length": 120000.74998780226,
+            "layers": "C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)40.00",
+          "EL(+)40.50",
+          "H-300x300x10x15",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "C-613 굴착계획 전개도 (2).dxf",
+    "pile_range": "P067~P131",
+    "clusters": [
+      {
+        "level_index_bottom_to_top": 1,
+        "y_avg": 3054739.012852082,
+        "y_min": 3054405.576373489,
+        "y_max": 3055105.700110046,
+        "x_min": -15079431.49439622,
+        "x_max": -15048347.43037393,
+        "entity_count": 9,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -15079431.49439622,
+            "x_max": -15048347.43037393,
+            "sum_length": 93252.18632676321,
+            "layers": "C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)32.44"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 2,
+        "y_avg": 3055405.6794865117,
+        "y_min": 3055405.576373491,
+        "y_max": 3055405.700110046,
+        "x_min": -15079431.49439622,
+        "x_max": -15048347.43037393,
+        "entity_count": 3,
+        "type_guess": "H 또는 2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -15079431.49439622,
+            "x_max": -15048347.43037393,
+            "sum_length": 31084.058277312182,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)32.44"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 3,
+        "y_avg": 3057238.9922293783,
+        "y_min": 3056905.576373489,
+        "y_max": 3057605.700108892,
+        "x_min": -15120781.52512995,
+        "x_max": -15025997.43037406,
+        "entity_count": 9,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -15120781.52512995,
+            "x_max": -15025997.43037406,
+            "sum_length": 284352.24978354014,
+            "layers": "C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)35.44",
+          "EL(+)41.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 4,
+        "y_avg": 3057905.658863758,
+        "y_min": 3057905.576373491,
+        "y_max": 3057905.700108892,
+        "x_min": -15120781.51938246,
+        "x_max": -15025997.43037406,
+        "entity_count": 3,
+        "type_guess": "H 또는 2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -15120781.51938246,
+            "x_max": -15025997.43037406,
+            "sum_length": 94784.07176619954,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)35.44",
+          "EL(+)41.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 5,
+        "y_avg": 3059738.992234078,
+        "y_min": 3059405.576373489,
+        "y_max": 3060105.700108892,
+        "x_min": -15120781.52512995,
+        "x_max": -15025998.53276516,
+        "entity_count": 9,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -15120781.52512995,
+            "x_max": -15025998.53276516,
+            "sum_length": 284348.9426088594,
+            "layers": "C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)35.44",
+          "EL(+)41.00",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 6,
+        "y_avg": 3060405.5763735124,
+        "y_min": 3060405.576373491,
+        "y_max": 3060405.576373524,
+        "x_min": -15120781.51938246,
+        "x_max": -15025998.53276516,
+        "entity_count": 3,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -15120781.51938246,
+            "x_max": -15025998.53276516,
+            "sum_length": 94782.9751225207,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)41.00",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "C-614 굴착계획 전개도 (3).dxf",
+    "pile_range": "P131~P196",
+    "clusters": [
+      {
+        "level_index_bottom_to_top": 1,
+        "y_avg": 3055039.0334260794,
+        "y_min": 3054705.700108889,
+        "y_max": 3055405.700108892,
+        "x_min": -14926370.06807101,
+        "x_max": -14899220.06806131,
+        "entity_count": 3,
+        "type_guess": "H 또는 2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14926370.06807101,
+            "x_max": -14899220.06806131,
+            "sum_length": 81448.8918796666,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)33.24",
+          "EL(+)35.04"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 2,
+        "y_avg": 3055705.7000604575,
+        "y_min": 3055705.700012023,
+        "y_max": 3055705.700108892,
+        "x_min": -14926370.06806127,
+        "x_max": -14899220.06806131,
+        "entity_count": 1,
+        "type_guess": "H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14926370.06806127,
+            "x_max": -14899220.06806131,
+            "sum_length": 27149.99999995902,
+            "layers": "C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)33.24",
+          "EL(+)35.04"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 3,
+        "y_avg": 3057239.033474512,
+        "y_min": 3056905.70010889,
+        "y_max": 3057605.700108893,
+        "x_min": -14995720.06804469,
+        "x_max": -14899220.06806131,
+        "entity_count": 3,
+        "type_guess": "H 또는 2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14995720.06804469,
+            "x_max": -14899220.06806131,
+            "sum_length": 289499.9942026492,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)33.24",
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)41.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 4,
+        "y_avg": 3057905.700108892,
+        "y_min": 3057905.700108892,
+        "y_max": 3057905.700108892,
+        "x_min": -14995720.0622972,
+        "x_max": -14899220.06806131,
+        "entity_count": 1,
+        "type_guess": "H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14995720.0622972,
+            "x_max": -14899220.06806131,
+            "sum_length": 96499.99423588999,
+            "layers": "C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)41.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 5,
+        "y_avg": 3059739.033474512,
+        "y_min": 3059405.70010889,
+        "y_max": 3060105.700108893,
+        "x_min": -14995720.06804469,
+        "x_max": -14899220.06806131,
+        "entity_count": 3,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -14995720.06804469,
+            "x_max": -14899220.06806131,
+            "sum_length": 289499.9942026492,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)41.00",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 6,
+        "y_avg": 3060405.5763735236,
+        "y_min": 3060405.576373523,
+        "y_max": 3060405.576373524,
+        "x_min": -14995720.06804461,
+        "x_max": -14899220.07380872,
+        "entity_count": 1,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -14995720.06804461,
+            "x_max": -14899220.07380872,
+            "sum_length": 96499.99423588999,
+            "layers": "C-WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)41.00",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "C-615 굴착계획 전개도 (4).dxf",
+    "pile_range": "P196~P248",
+    "clusters": [
+      {
+        "level_index_bottom_to_top": 1,
+        "y_avg": 3054705.7001299183,
+        "y_min": 3054405.700100568,
+        "y_max": 3055005.700205753,
+        "x_min": -14862263.25848377,
+        "x_max": -14784263.24850445,
+        "entity_count": 4,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14862263.25848377,
+            "x_max": -14784263.24850445,
+            "sum_length": 162300.01995496824,
+            "layers": "C-WALE,C-WALE,WALE,WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)33.24",
+          "EL(+)35.04",
+          "EL(+)35.09"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 2,
+        "y_avg": 3055555.700108892,
+        "y_min": 3055405.700108892,
+        "y_max": 3055705.700108892,
+        "x_min": -14862263.25848377,
+        "x_max": -14784263.25866655,
+        "entity_count": 2,
+        "type_guess": "H 또는 2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14862263.25848377,
+            "x_max": -14784263.25866655,
+            "sum_length": 155999.99963443726,
+            "layers": "C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)33.24",
+          "EL(+)35.04",
+          "EL(+)35.09"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 3,
+        "y_avg": 3056905.7001299188,
+        "y_min": 3056605.700100569,
+        "y_max": 3057205.700205753,
+        "x_min": -14862263.25848377,
+        "x_max": -14784263.25866656,
+        "entity_count": 4,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14862263.25848377,
+            "x_max": -14784263.25866656,
+            "sum_length": 162300.01995496824,
+            "layers": "C-WALE,C-WALE,WALE,WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)33.24",
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)41.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 4,
+        "y_avg": 3057755.700108892,
+        "y_min": 3057605.700108892,
+        "y_max": 3057905.700108892,
+        "x_min": -14862263.25848377,
+        "x_max": -14784263.25866655,
+        "entity_count": 2,
+        "type_guess": "H 또는 2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14862263.25848377,
+            "x_max": -14784263.25866655,
+            "sum_length": 155999.99963443726,
+            "layers": "C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)41.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 5,
+        "y_avg": 3059405.7001805557,
+        "y_min": 3059105.700201842,
+        "y_max": 3059705.700205753,
+        "x_min": -14862263.25848377,
+        "x_max": -14784263.2485146,
+        "entity_count": 4,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -14862263.25848377,
+            "x_max": -14784263.2485146,
+            "sum_length": 162300.01995496824,
+            "layers": "C-WALE,C-WALE,WALE,WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)41.00",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 6,
+        "y_avg": 3060255.638241207,
+        "y_min": 3060105.700108892,
+        "y_max": 3060405.576373523,
+        "x_min": -14862263.25848377,
+        "x_max": -14784263.25866655,
+        "entity_count": 2,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -14862263.25848377,
+            "x_max": -14784263.25866655,
+            "sum_length": 155999.99388702773,
+            "layers": "C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)41.00",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "C-616 굴착계획 전개도 (5).dxf",
+    "pile_range": "P248~P306",
+    "clusters": [
+      {
+        "level_index_bottom_to_top": 1,
+        "y_avg": 3053238.892633505,
+        "y_min": 3052905.559266634,
+        "y_max": 3053605.559269135,
+        "x_min": -14690030.36159734,
+        "x_max": -14650879.38678311,
+        "entity_count": 3,
+        "type_guess": "H 또는 2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14690030.36159734,
+            "x_max": -14650879.38678311,
+            "sum_length": 117450.97479757108,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.54"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 2,
+        "y_avg": 3054545.643810883,
+        "y_min": 3053905.559266635,
+        "y_max": 3055005.700205753,
+        "x_min": -14736494.25909489,
+        "x_max": -14650879.38678311,
+        "entity_count": 5,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14736494.25909489,
+            "x_max": -14722729.3867807,
+            "sum_length": 34059.72313736544,
+            "layers": "C-WALE,C-WALE,WALE,WALE"
+          },
+          {
+            "x_min": -14690029.38678311,
+            "x_max": -14650879.38678311,
+            "sum_length": 39150.0,
+            "layers": "C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.54",
+          "EL(+)33.24",
+          "EL(+)35.04",
+          "EL(+)35.09"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 3,
+        "y_avg": 3055665.6156105315,
+        "y_min": 3055405.559263529,
+        "y_max": 3056105.559266276,
+        "x_min": -14736494.25909489,
+        "x_max": -14650879.25919529,
+        "entity_count": 5,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14736494.25909489,
+            "x_max": -14722729.3867807,
+            "sum_length": 27529.744628380984,
+            "layers": "C-WALE,C-WALE"
+          },
+          {
+            "x_min": -14693029.25919559,
+            "x_max": -14650879.25919529,
+            "sum_length": 126450.00000089034,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.54",
+          "EL(+)33.24",
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)41.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 4,
+        "y_avg": 3057043.12023655,
+        "y_min": 3056405.559263531,
+        "y_max": 3057605.700108892,
+        "x_min": -14736494.2591152,
+        "x_max": -14650879.25919529,
+        "entity_count": 8,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14736494.2591152,
+            "x_max": -14650879.25919529,
+            "sum_length": 263524.8506584211,
+            "layers": "C-WALE,C-WALE,C-WALE,WALE,WALE,C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)33.24",
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)41.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 5,
+        "y_avg": 3058005.5827410854,
+        "y_min": 3057905.559264635,
+        "y_max": 3058205.559270379,
+        "x_min": -14736494.2591152,
+        "x_max": -14650879.25919529,
+        "entity_count": 3,
+        "type_guess": "H 또는 2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14736494.2591152,
+            "x_max": -14650879.25919529,
+            "sum_length": 127615.12750752659,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)35.04",
+          "EL(+)35.09",
+          "EL(+)41.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 6,
+        "y_avg": 3059405.663626742,
+        "y_min": 3059105.694830846,
+        "y_max": 3059705.700205753,
+        "x_min": -14736494.2591152,
+        "x_max": -14650879.25919529,
+        "entity_count": 4,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -14736494.2591152,
+            "x_max": -14650879.25919529,
+            "sum_length": 177759.97834297887,
+            "layers": "C-WALE,C-WALE,WALE,WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)41.00",
+          "H-300x300x10x15",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 7,
+        "y_avg": 3060255.567819079,
+        "y_min": 3060105.559264635,
+        "y_max": 3060405.576373523,
+        "x_min": -14736494.2591152,
+        "x_max": -14650879.25919529,
+        "entity_count": 2,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -14736494.2591152,
+            "x_max": -14650879.25919529,
+            "sum_length": 171229.99409264213,
+            "layers": "C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)41.00",
+          "H-300x300x10x15",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "C-617 굴착계획 전개도 (6).dxf",
+    "pile_range": "P306~P365",
+    "clusters": [
+      {
+        "level_index_bottom_to_top": 1,
+        "y_avg": 3052905.5586251696,
+        "y_min": 3052605.553891765,
+        "y_max": 3053205.559365996,
+        "x_min": -14614400.43745176,
+        "x_max": -14525900.6926274,
+        "entity_count": 8,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14614400.43745176,
+            "x_max": -14525900.6926274,
+            "sum_length": 189599.25511904046,
+            "layers": "C-WALE,C-WALE,WALE,WALE,WALE,WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.34",
+          "EL(+)31.54"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 2,
+        "y_avg": 3053755.5592799494,
+        "y_min": 3053605.55926666,
+        "y_max": 3053905.559314962,
+        "x_min": -14614400.43745176,
+        "x_max": -14525900.69262742,
+        "entity_count": 4,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14614400.43745176,
+            "x_max": -14525900.69262742,
+            "sum_length": 176999.23447297886,
+            "layers": "C-WALE,C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.34",
+          "EL(+)31.54"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 3,
+        "y_avg": 3055405.558665667,
+        "y_min": 3055105.553992056,
+        "y_max": 3055705.559366948,
+        "x_min": -14614400.56503958,
+        "x_max": -14525900.69262997,
+        "entity_count": 8,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14614400.56503958,
+            "x_max": -14525900.69262997,
+            "sum_length": 189599.5101398284,
+            "layers": "C-WALE,C-WALE,WALE,WALE,WALE,WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.34",
+          "EL(+)31.54",
+          "EL(+)40.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 4,
+        "y_avg": 3056472.225507759,
+        "y_min": 3056105.559209883,
+        "y_max": 3056905.55936695,
+        "x_min": -14614400.56503958,
+        "x_max": -14525900.69262998,
+        "entity_count": 6,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14614400.56503958,
+            "x_max": -14525900.69262998,
+            "sum_length": 183299.4999881768,
+            "layers": "C-WALE,C-WALE,WALE,WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)40.00",
+          "EL(+)41.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 5,
+        "y_avg": 3057505.558946177,
+        "y_min": 3057205.553992057,
+        "y_max": 3057905.559415252,
+        "x_min": -14614400.56503958,
+        "x_max": -14525900.69262748,
+        "entity_count": 7,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14614400.56503958,
+            "x_max": -14525900.69262748,
+            "sum_length": 241799.62723370543,
+            "layers": "C-WALE,C-WALE,C-WALE,WALE,WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)40.00",
+          "EL(+)41.00"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 6,
+        "y_avg": 3058372.225950096,
+        "y_min": 3058205.559264634,
+        "y_max": 3058605.559318388,
+        "x_min": -14614400.56503958,
+        "x_max": -14525900.6926274,
+        "entity_count": 3,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -14614400.56503958,
+            "x_max": -14525900.6926274,
+            "sum_length": 118499.87241213955,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)40.00",
+          "EL(+)41.00",
+          "H-300x300x10x15"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 7,
+        "y_avg": 3059355.558453432,
+        "y_min": 3059105.553992057,
+        "y_max": 3059705.55936695,
+        "x_min": -14614400.56503958,
+        "x_max": -14552750.6926275,
+        "entity_count": 6,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -14614400.56503958,
+            "x_max": -14552750.6926275,
+            "sum_length": 129599.7653323783,
+            "layers": "C-WALE,C-WALE,WALE,WALE,WALE,WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)41.00",
+          "H-300x300x10x15",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 8,
+        "y_avg": 3060255.5326093775,
+        "y_min": 3060105.559264635,
+        "y_max": 3060405.576373523,
+        "x_min": -14614400.56503958,
+        "x_max": -14555900.6926274,
+        "entity_count": 2,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -14614400.56503958,
+            "x_max": -14555900.6926274,
+            "sum_length": 116999.73907700932,
+            "layers": "C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)41.00",
+          "H-300x300x10x15",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "C-618 굴착계획 전개도 (7).dxf",
+    "pile_range": "P365~P428",
+    "clusters": [
+      {
+        "level_index_bottom_to_top": 1,
+        "y_avg": 3053548.3819671595,
+        "y_min": 3053220.243276727,
+        "y_max": 3053912.451277375,
+        "x_min": -14430701.16933515,
+        "x_max": -14396201.0189674,
+        "entity_count": 3,
+        "type_guess": "H 또는 2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14430701.16933515,
+            "x_max": -14396201.0189674,
+            "sum_length": 103500.45110175759,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.54",
+          "EL(+)31.94",
+          "EL(+)33.54",
+          "EL(+)35.44"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 2,
+        "y_avg": 3054212.4512505126,
+        "y_min": 3054212.45122365,
+        "y_max": 3054212.451277375,
+        "x_min": -14430701.16933515,
+        "x_max": -14396201.01896785,
+        "entity_count": 1,
+        "type_guess": "H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14430701.16933515,
+            "x_max": -14396201.01896785,
+            "sum_length": 34500.150367299095,
+            "layers": "C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.54",
+          "EL(+)31.94",
+          "EL(+)33.54",
+          "EL(+)35.44"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 3,
+        "y_avg": 3056535.270745522,
+        "y_min": 3055420.243276727,
+        "y_max": 3057005.788397757,
+        "x_min": -14489701.13912868,
+        "x_max": -14396201.01896743,
+        "entity_count": 15,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14489701.13912868,
+            "x_max": -14396201.01896743,
+            "sum_length": 283000.82542592473,
+            "layers": "WALE,WALE,WALE,WALE,C-WALE,C-WALE,C-WALE,WALE,WALE,WALE,WALE,C-WALE,C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.54",
+          "EL(+)31.94",
+          "EL(+)33.54",
+          "EL(+)35.44",
+          "EL(+)39.50",
+          "EL(+)40.00",
+          "EL(+)40.50"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 4,
+        "y_avg": 3057482.3964722008,
+        "y_min": 3057213.127148879,
+        "y_max": 3057905.335149526,
+        "x_min": -14470351.01143776,
+        "x_max": -14396201.01896747,
+        "entity_count": 4,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14470351.01143776,
+            "x_max": -14444551.01143795,
+            "sum_length": 25799.99999981001,
+            "layers": "C-WALE"
+          },
+          {
+            "x_min": -14430701.16933523,
+            "x_max": -14396201.01896747,
+            "sum_length": 103500.45110178739,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)33.54",
+          "EL(+)35.44",
+          "EL(+)39.50",
+          "EL(+)40.50"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 5,
+        "y_avg": 3059037.122117917,
+        "y_min": 3058205.335095801,
+        "y_max": 3059605.78839847,
+        "x_min": -14489701.13912868,
+        "x_max": -14396201.01896792,
+        "entity_count": 13,
+        "type_guess": "2H 더블띠장",
+        "x_ranges": [
+          {
+            "x_min": -14489701.13912868,
+            "x_max": -14396201.01896792,
+            "sum_length": 205300.37432395108,
+            "layers": "WALE,WALE,WALE,WALE,C-WALE,C-WALE,C-WALE,C-WALE,WALE,WALE,WALE,WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "2H-300x300x10x15",
+          "EL(+)35.44",
+          "EL(+)39.50",
+          "EL(+)40.00",
+          "EL(+)40.50",
+          "H-300x300x10x15",
+          "WALE",
+          "젣嫄곗떇 E/ANCHOR"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "C-619 굴착계획 전개도 (8).dxf",
+    "pile_range": "P428~P492,P001",
+    "clusters": [
+      {
+        "level_index_bottom_to_top": 1,
+        "y_avg": 3053548.381967166,
+        "y_min": 3053220.243276739,
+        "y_max": 3053912.451277375,
+        "x_min": -14364980.39014376,
+        "x_max": -14303330.39014292,
+        "entity_count": 3,
+        "type_guess": "H 또는 2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14364980.39014376,
+            "x_max": -14303330.39014292,
+            "sum_length": 184950.00000104122,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.54",
+          "EL(+)32.44",
+          "EL(+)33.24"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 2,
+        "y_avg": 3054212.4512505187,
+        "y_min": 3054212.451223662,
+        "y_max": 3054212.451277375,
+        "x_min": -14364980.39014332,
+        "x_max": -14303330.39014292,
+        "entity_count": 1,
+        "type_guess": "H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14364980.39014332,
+            "x_max": -14303330.39014292,
+            "sum_length": 61650.00000040047,
+            "layers": "C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.54",
+          "EL(+)32.44",
+          "EL(+)33.24"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 3,
+        "y_avg": 3055959.9900802462,
+        "y_min": 3055420.243276741,
+        "y_max": 3056505.580896709,
+        "x_min": -14364980.39014373,
+        "x_max": -14268848.39766395,
+        "entity_count": 8,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14364980.39014373,
+            "x_max": -14298830.23977569,
+            "sum_length": 264600.60147020407,
+            "layers": "C-WALE,C-WALE,C-WALE,C-WALE"
+          },
+          {
+            "x_min": -14278130.39012944,
+            "x_max": -14268848.39766395,
+            "sum_length": 37127.95836697519,
+            "layers": "C-WALE,C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)31.54",
+          "EL(+)32.44",
+          "EL(+)33.24",
+          "EL(+)35.04",
+          "EL(+)38.09",
+          "EL(+)39.50"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 4,
+        "y_avg": 3057763.6964896573,
+        "y_min": 3057213.127148894,
+        "y_max": 3058205.580896704,
+        "x_min": -14364980.39014369,
+        "x_max": -14268848.39766395,
+        "entity_count": 7,
+        "type_guess": "2H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14364980.39014369,
+            "x_max": -14294330.23977566,
+            "sum_length": 282600.6014701817,
+            "layers": "C-WALE,C-WALE,C-WALE,C-WALE"
+          },
+          {
+            "x_min": -14282630.39014039,
+            "x_max": -14268848.39766395,
+            "sum_length": 41345.97168182768,
+            "layers": "C-WALE,C-WALE,C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)33.24",
+          "EL(+)35.04",
+          "EL(+)38.09",
+          "EL(+)39.50"
+        ]
+      },
+      {
+        "level_index_bottom_to_top": 5,
+        "y_avg": 3058505.5808967035,
+        "y_min": 3058505.580896703,
+        "y_max": 3058505.580896704,
+        "x_min": -14282630.39014039,
+        "x_max": -14268848.40341144,
+        "entity_count": 1,
+        "type_guess": "H 후보",
+        "x_ranges": [
+          {
+            "x_min": -14282630.39014039,
+            "x_max": -14268848.40341144,
+            "sum_length": 13781.986728949472,
+            "layers": "C-WALE"
+          }
+        ],
+        "near_texts": [
+          "EL(+)35.04"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+C-605 STRUT 길이/각도 검토
+========================================================================================================================
+
+STRUT count: 85
+
+length >= 1000 후보: 33
+length < 1000 후보: 52
+
+[긴 STRUT 후보 length >= 1000]
+001 | len=10818.7 | angle=-118.70 | center=(-15777523.0, 3349092.8) | type=LINE
+002 | len=10243.7 | angle=61.30 | center=(-15777444.5, 3349548.6) | type=LINE
+003 | len=9943.7 | angle=-118.70 | center=(-15777253.4, 3349273.0) | type=LINE
+004 | len=7707.5 | angle=151.30 | center=(-15810183.3, 3338395.0) | type=LINE
+005 | len=7707.5 | angle=61.30 | center=(-15776158.5, 3348345.8) | type=LINE
+006 | len=7132.5 | angle=-28.70 | center=(-15809727.5, 3338316.5) | type=LINE
+007 | len=7132.5 | angle=-118.70 | center=(-15776500.2, 3348034.1) | type=LINE
+008 | len=6832.5 | angle=151.30 | center=(-15810003.1, 3338125.4) | type=LINE
+009 | len=6832.5 | angle=61.30 | center=(-15776165.0, 3348021.6) | type=LINE
+010 | len=4879.0 | angle=-118.70 | center=(-15774918.0, 3347666.7) | type=LINE
+011 | len=4879.0 | angle=-28.70 | center=(-15810862.4, 3337154.6) | type=LINE
+012 | len=4304.0 | angle=61.30 | center=(-15774839.5, 3348122.5) | type=LINE
+013 | len=4304.0 | angle=151.30 | center=(-15811174.1, 3337496.2) | type=LINE
+014 | len=4004.0 | angle=-28.70 | center=(-15811186.6, 3337161.0) | type=LINE
+015 | len=4004.0 | angle=-118.70 | center=(-15774648.4, 3347846.9) | type=LINE
+016 | len=2050.6 | angle=61.30 | center=(-15747831.0, 3365486.5) | type=LINE
+017 | len=2050.6 | angle=135.00 | center=(-15974532.8, 3305177.8) | type=LINE
+018 | len=2050.6 | angle=-28.70 | center=(-15787568.2, 3501360.0) | type=LINE
+019 | len=2050.6 | angle=61.30 | center=(-15773677.5, 3346987.6) | type=LINE
+020 | len=2050.6 | angle=151.30 | center=(-15811541.5, 3335914.1) | type=LINE
+021 | len=1643.5 | angle=45.00 | center=(-15974676.7, 3362771.7) | type=LINE
+022 | len=1475.6 | angle=-28.70 | center=(-15811085.7, 3335835.5) | type=LINE
+023 | len=1475.6 | angle=-118.70 | center=(-15774019.2, 3346675.9) | type=LINE
+024 | len=1475.6 | angle=-45.00 | center=(-15974117.4, 3304974.5) | type=LINE
+025 | len=1475.6 | angle=151.30 | center=(-15788024.0, 3501438.5) | type=LINE
+026 | len=1475.6 | angle=-118.70 | center=(-15748172.6, 3365174.8) | type=LINE
+027 | len=1343.5 | angle=-135.00 | center=(-15974782.8, 3362877.8) | type=LINE
+028 | len=1175.6 | angle=-28.70 | center=(-15787748.3, 3501629.6) | type=LINE
+029 | len=1175.6 | angle=151.30 | center=(-15811361.3, 3335644.4) | type=LINE
+030 | len=1175.6 | angle=61.30 | center=(-15773684.0, 3346663.4) | type=LINE
+031 | len=1175.6 | angle=61.30 | center=(-15747837.5, 3365162.3) | type=LINE
+032 | len=1175.6 | angle=135.00 | center=(-15974435.6, 3304868.4) | type=LINE
+033 | len=1043.5 | angle=-135.00 | center=(-15974888.8, 3362983.9) | type=LINE
+
+[짧은 STRUT 후보 length < 1000]
+001 | len=424.3 | angle=-90.00 | center=(-15975257.8, 3305902.8) | type=LINE
+002 | len=424.3 | angle=-73.70 | center=(-15812440.8, 3336406.4) | type=LINE
+003 | len=424.3 | angle=-73.70 | center=(-15747338.6, 3366385.8) | type=LINE
+004 | len=424.3 | angle=16.30 | center=(-15780120.6, 3344348.0) | type=LINE
+005 | len=424.3 | angle=16.30 | center=(-15778009.0, 3344965.5) | type=LINE
+006 | len=424.3 | angle=-163.70 | center=(-15806802.9, 3336544.5) | type=LINE
+007 | len=424.3 | angle=106.30 | center=(-15786668.8, 3500867.6) | type=LINE
+008 | len=424.3 | angle=-73.70 | center=(-15773185.2, 3347887.0) | type=LINE
+009 | len=424.3 | angle=-73.70 | center=(-15813563.6, 3340245.6) | type=LINE
+010 | len=424.3 | angle=-163.70 | center=(-15808722.5, 3335983.1) | type=LINE
+011 | len=424.3 | angle=-73.70 | center=(-15774308.0, 3351726.2) | type=LINE
+012 | len=424.3 | angle=16.30 | center=(-15776089.4, 3345526.9) | type=LINE
+013 | len=424.3 | angle=16.30 | center=(-15780120.6, 3344348.0) | type=LINE
+014 | len=424.3 | angle=16.30 | center=(-15778009.0, 3344965.5) | type=LINE
+015 | len=424.3 | angle=16.30 | center=(-15774169.8, 3346088.3) | type=LINE
+016 | len=424.3 | angle=16.30 | center=(-15776089.4, 3345526.9) | type=LINE
+017 | len=424.3 | angle=-163.70 | center=(-15806802.9, 3336544.5) | type=LINE
+018 | len=424.3 | angle=-163.70 | center=(-15808722.5, 3335983.1) | type=LINE
+019 | len=424.3 | angle=-163.70 | center=(-15810642.1, 3335421.7) | type=LINE
+020 | len=424.3 | angle=-180.00 | center=(-15973807.8, 3304452.8) | type=LINE
+021 | len=424.3 | angle=180.00 | center=(-15974307.8, 3363352.8) | type=LINE
+022 | len=300.0 | angle=61.30 | center=(-15812309.2, 3336334.4) | type=LINE
+023 | len=300.0 | angle=151.30 | center=(-15747410.7, 3366254.3) | type=LINE
+024 | len=300.0 | angle=-118.70 | center=(-15786800.4, 3500939.7) | type=LINE
+025 | len=300.0 | angle=151.30 | center=(-15773257.2, 3347755.4) | type=LINE
+026 | len=300.0 | angle=151.30 | center=(-15774380.0, 3351594.6) | type=LINE
+027 | len=300.0 | angle=61.30 | center=(-15808854.1, 3336055.1) | type=LINE
+028 | len=300.0 | angle=151.30 | center=(-15780048.6, 3344479.5) | type=LINE
+029 | len=300.0 | angle=151.30 | center=(-15776017.4, 3345658.5) | type=LINE
+030 | len=300.0 | angle=45.00 | center=(-15975151.7, 3305796.7) | type=LINE
+031 | len=300.0 | angle=61.30 | center=(-15813432.0, 3340173.6) | type=LINE
+032 | len=300.0 | angle=151.30 | center=(-15812368.8, 3336538.0) | type=LINE
+033 | len=300.0 | angle=135.00 | center=(-15975151.7, 3306008.9) | type=LINE
+034 | len=300.0 | angle=-118.70 | center=(-15780252.2, 3344420.0) | type=LINE
+035 | len=300.0 | angle=-28.70 | center=(-15808650.5, 3336114.7) | type=LINE
+036 | len=300.0 | angle=61.30 | center=(-15773316.7, 3347959.0) | type=LINE
+037 | len=300.0 | angle=61.30 | center=(-15747470.2, 3366457.9) | type=LINE
+038 | len=300.0 | angle=-28.70 | center=(-15786740.8, 3500736.0) | type=LINE
+039 | len=300.0 | angle=-118.70 | center=(-15776221.0, 3345598.9) | type=LINE
+040 | len=300.0 | angle=151.30 | center=(-15813491.6, 3340377.2) | type=LINE
+041 | len=300.0 | angle=61.30 | center=(-15774439.5, 3351798.2) | type=LINE
+042 | len=300.0 | angle=-28.70 | center=(-15806730.9, 3336676.1) | type=LINE
+043 | len=300.0 | angle=-118.70 | center=(-15778140.6, 3345037.5) | type=LINE
+044 | len=300.0 | angle=61.30 | center=(-15809358.4, 3336331.3) | type=LINE
+045 | len=300.0 | angle=61.30 | center=(-15811804.9, 3336058.3) | type=LINE
+046 | len=300.0 | angle=61.30 | center=(-15812927.7, 3339897.4) | type=LINE
+047 | len=300.0 | angle=45.00 | center=(-15974745.1, 3305390.1) | type=LINE
+048 | len=300.0 | angle=151.30 | center=(-15779772.4, 3344983.9) | type=LINE
+049 | len=300.0 | angle=151.30 | center=(-15775741.3, 3346162.8) | type=LINE
+050 | len=300.0 | angle=-118.70 | center=(-15787304.8, 3501215.8) | type=LINE
+051 | len=300.0 | angle=151.30 | center=(-15774656.1, 3351090.2) | type=LINE
+052 | len=300.0 | angle=151.30 | center=(-15773533.3, 3347251.1) | type=LINE

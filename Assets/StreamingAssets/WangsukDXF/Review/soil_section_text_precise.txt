@@ -1,0 +1,1367 @@
+지층/토사 후보 도면 정밀 텍스트 추출 결과
+========================================================================================================================
+
+[대상 파일]
+C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\1.토공사\C-106~110 단지횡단면도(1)~(5).dxf
+C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\6.가시설공사\C-648 흙막이시공 및 해체 순서도 (1).dxf
+C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\단면도 모음.dxf
+C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\가시설 상세도 합본.dxf
+
+[키워드 후보 텍스트]
+------------------------------------------------------------------------------------------------------------------------
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.04 | x=4799.4, y=2831.2, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.10 | x=4799.3, y=2776.3, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.23 | x=4799.3, y=2721.4, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.82 | x=4971.2, y=2831.0, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.53 | x=4971.9, y=2775.7, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.41 | x=4971.9, y=2720.6, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.98 | x=5135.8, y=2721.1, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.84 | x=5135.0, y=2831.0, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.93 | x=5307.6, y=2832.1, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.54 | x=5307.6, y=2776.7, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.15 | x=5307.6, y=2721.3, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.91 | x=5135.5, y=2776.1, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.80 | x=5472.4, y=2721.0, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.74 | x=5472.5, y=2775.9, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.68 | x=5472.5, y=2830.8, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:43.14 | x=5643.6, y=2833.3, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:42.74 | x=5643.6, y=2777.9, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:42.34 | x=5644.0, y=2722.5, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.61 | x=5809.0, y=2720.8, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.57 | x=5808.3, y=2775.7, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.70 | x=5807.4, y=2830.9, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:42.54 | x=5948.9, y=2832.7, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:43.88 | x=5980.0, y=2779.0, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:43.53 | x=5980.0, y=2723.7, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.84 | x=6143.8, y=2721.0, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:42.03 | x=6221.4, y=2722.2, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5002.0, y=2711.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5002.0, y=2766.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5002.0, y=2821.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5338.4, y=2711.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5338.4, y=2766.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5338.4, y=2821.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5674.8, y=2711.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5674.8, y=2766.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5674.8, y=2821.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=6011.2, y=2711.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=6011.2, y=2766.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=6011.2, y=2821.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=6347.6, y=2711.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=6347.6, y=2821.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.91 | x=6143.5, y=2776.1, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.64 | x=6162.5, y=2776.8, layer=@원지반, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=6347.6, y=2766.7, layer=0, type=TEXT, source=modelspace
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 39.497 | x=4822.1, y=2719.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=4820.8, y=2718.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4820.8, y=2716.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4820.8, y=2714.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=4820.8, y=2712.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 보통암 | x=4820.8, y=2707.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.346 | x=4881.2, y=2718.1, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=4879.9, y=2717.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4879.9, y=2716.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4879.9, y=2714.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=4879.9, y=2711.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4879.9, y=2715.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 41.182 | x=4955.1, y=2721.0, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=4953.7, y=2719.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4953.7, y=2717.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4953.7, y=2714.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=4953.7, y=2710.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=4953.7, y=2712.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4953.7, y=2716.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 39.497 | x=4822.1, y=2774.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=4820.8, y=2773.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4820.8, y=2771.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4820.8, y=2769.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=4820.8, y=2767.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 보통암 | x=4820.8, y=2762.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.346 | x=4881.2, y=2773.1, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=4879.9, y=2772.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4879.9, y=2771.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4879.9, y=2769.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=4879.9, y=2766.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4879.9, y=2770.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 41.182 | x=4955.1, y=2776.0, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=4953.7, y=2774.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4953.7, y=2772.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4953.7, y=2769.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=4953.7, y=2765.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=4953.7, y=2767.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4953.7, y=2771.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.552 | x=4822.2, y=2828.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=4820.9, y=2827.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4820.9, y=2826.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=4820.9, y=2822.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=4820.9, y=2822.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4820.9, y=2824.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.537 | x=4853.1, y=2828.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=4851.8, y=2827.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4851.8, y=2826.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4851.8, y=2824.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=4851.8, y=2822.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 39.350 | x=4936.5, y=2829.1, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=4935.2, y=2828.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4935.2, y=2827.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=4935.2, y=2821.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=4935.2, y=2822.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=4935.2, y=2824.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.986 | x=5157.3, y=2718.8, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5156.0, y=2718.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5156.0, y=2717.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5156.0, y=2711.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5156.0, y=2712.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5156.0, y=2714.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 39.036 | x=5234.7, y=2718.8, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5233.4, y=2718.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5233.4, y=2716.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5233.4, y=2710.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5233.4, y=2712.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5233.4, y=2714.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.475 | x=5297.0, y=2718.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5295.7, y=2717.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5295.7, y=2717.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5295.7, y=2714.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5295.7, y=2710.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5295.7, y=2712.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.716 | x=5203.0, y=2773.5, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5201.6, y=2772.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5201.6, y=2771.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5201.6, y=2769.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5201.6, y=2766.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5201.6, y=2770.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 39.139 | x=5273.0, y=2773.9, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5271.6, y=2773.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5271.6, y=2772.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5271.6, y=2769.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5271.6, y=2767.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5271.6, y=2771.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.897 | x=5295.3, y=2773.7, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5294.0, y=2773.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5294.0, y=2771.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5294.0, y=2769.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5294.0, y=2772.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.539 | x=5153.7, y=2828.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5152.4, y=2827.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5152.4, y=2825.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5152.4, y=2823.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5152.4, y=2819.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5152.4, y=2820.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 37.619 | x=5194.8, y=2827.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5193.5, y=2826.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5193.5, y=2825.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5193.5, y=2820.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5193.5, y=2822.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5193.5, y=2823.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.594 | x=5220.3, y=2828.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5218.9, y=2827.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5218.9, y=2826.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5218.9, y=2823.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5218.9, y=2820.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5218.9, y=2821.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5218.9, y=2825.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.716 | x=5548.3, y=2718.5, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5547.0, y=2717.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5547.0, y=2716.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5547.0, y=2714.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5547.0, y=2715.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5547.0, y=2710.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5547.0, y=2712.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.767 | x=5581.7, y=2718.6, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5580.4, y=2718.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5580.4, y=2716.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5580.4, y=2714.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5580.4, y=2712.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 39.121 | x=5629.5, y=2718.9, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5628.2, y=2718.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5628.2, y=2715.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5628.2, y=2714.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5628.2, y=2709.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5628.2, y=2711.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5628.2, y=2717.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.614 | x=5503.2, y=2773.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5501.8, y=2772.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5501.8, y=2771.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5501.8, y=2769.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5501.8, y=2766.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5501.8, y=2767.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 보통암 | x=5501.8, y=2764.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.603 | x=5630.0, y=2773.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5628.7, y=2772.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5628.7, y=2771.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5628.7, y=2768.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5628.7, y=2765.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5628.7, y=2766.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5628.7, y=2770.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 보통암 | x=5628.7, y=2763.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.538 | x=5528.0, y=2828.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5526.7, y=2827.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5526.7, y=2825.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5526.7, y=2827.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5526.7, y=2823.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5526.7, y=2821.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5526.7, y=2819.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 39.010 | x=5608.6, y=2828.8, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5607.3, y=2828.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5607.3, y=2827.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5607.3, y=2823.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5607.3, y=2819.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5607.3, y=2821.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5607.3, y=2825.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 보통암 | x=5607.3, y=2817.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 37.561 | x=5827.4, y=2717.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5826.0, y=2716.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5826.0, y=2715.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5826.0, y=2713.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5826.0, y=2710.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 40.878 | x=5883.3, y=2720.7, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5882.0, y=2719.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5882.0, y=2716.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5882.0, y=2713.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5882.0, y=2709.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 39.037 | x=5964.1, y=2718.8, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5962.8, y=2718.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5962.8, y=2716.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 보통암 | x=5962.8, y=2708.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5962.8, y=2710.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5962.8, y=2711.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5962.8, y=2714.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 40.713 | x=5836.1, y=2775.5, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5834.7, y=2774.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5834.7, y=2771.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5834.7, y=2768.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5834.7, y=2762.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5834.7, y=2765.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 40.718 | x=5868.2, y=2775.5, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5866.9, y=2774.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5866.9, y=2772.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5866.9, y=2763.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5866.9, y=2765.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5866.9, y=2769.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 39.211 | x=5948.9, y=2774.0, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5947.6, y=2773.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5947.6, y=2771.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5947.6, y=2765.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5947.6, y=2766.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 보통암 | x=5947.6, y=2763.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5947.6, y=2769.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.364 | x=5929.2, y=2828.2, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=5927.9, y=2827.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5927.9, y=2823.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=5927.9, y=2820.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화토 | x=5927.9, y=2822.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=5927.9, y=2825.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.489 | x=6183.4, y=2718.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=6182.1, y=2717.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=6182.1, y=2715.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 보통암 | x=6182.1, y=2707.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=6182.1, y=2709.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=6182.1, y=2712.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | EL.(+) 38.489 | x=6183.4, y=2773.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 매립층 | x=6182.1, y=2772.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=6182.1, y=2770.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 보통암 | x=6182.1, y=2762.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 풍화암 | x=6182.1, y=2764.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-106~110 단지횡단면도(1)~(5).dxf | 퇴적층 | x=6182.1, y=2767.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 보걸이 설치가 용이하도록 함. (띠장 중앙부에서 1m 이내 굴착이 진행되도록 현장관리가 필요 함) | x=-16036384.6, y=336725.1, layer=_지시, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 굴착종료 즉시 앵커를 설치하여 흙막이 벽체를 충분히 지지시킨 후 다음 단계의 굴착을 시행하며, 보걸이 설치 위치의 경우 50cm를 추가 굴착하여 | x=-16036384.6, y=337831.7, layer=_지시, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 4. 어스앵커(E/A) 설치 전 다음 단계의 굴착을 50cm 이상 시행하는 경우 배면지반에 무리한 변형이 유발될 수 있으므로 50cm 이상 과굴착을 피하고 | x=-16037313.1, y=338912.5, layer=_지시, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 3. 내부에 사면을 형성하여 굴착시에는 깊이 5m마다 소단 1m를 형성한 후 시공할 것. | x=-16037313.1, y=340112.5, layer=_지시, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 2. 지지체 설치를 위한 굴착시 지하 1층 슬래브 타설 전까지는 최소 5m(구배1:1.5)이상 소단을 형성하고, 다음 굴착 시 토사일 경우 최소 5m이상 | x=-16037313.1, y=342524.6, layer=_지시, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 1. 본 도면에 제시된 시공순서는 예시도 이므로, 착공전 공사 책임자는 감독원(감리자)과 사전 협의 후 시공순서를 반드시 확인 하여야 하며, 지층상태 | x=-16037313.1, y=344936.7, layer=_지시, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | ※한국산업안전공단 "토공사(굴착공사)안전 p.26 참조 | x=-15979821.7, y=342743.6, layer=0, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 3. 굴착면의 균열, 함수, 용출 등의 확인 및 | x=-15919513.6, y=340323.9, layer=_지시, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 2. 시공순서도에 의한 굴착 진행 | x=-15919513.6, y=341644.1, layer=_지시, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | *굴착방법 | x=-15919513.6, y=344146.9, layer=_지시, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 풍화토, 풍화암 | x=-15934603.0, y=339814.4, layer=_지시, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 자갈 | x=-15932695.4, y=341246.7, layer=_지시, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 4단계 굴착 후 4단 ANCHOR 설치 | x=-15991657.8, y=389354.5, layer=C-LEVEL, type=MTEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 3단계 굴착 후 3단 ANCHOR 설치 | x=-16036824.4, y=389354.5, layer=C-LEVEL, type=MTEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 2단계 굴착 후 2단 ANCHOR 설치 | x=-15946491.1, y=427687.9, layer=C-LEVEL, type=MTEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 최종 굴착 | x=-15946491.1, y=389354.5, layer=C-LEVEL, type=MTEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 1단계 굴착 후 1단 ANCHOR 설치 | x=-15991657.8, y=427687.9, layer=C-LEVEL, type=MTEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | ※지반공학 시리즈 "굴착 및 흙막이 공법" p.523 참조 | x=-15979821.7, y=343379.4, layer=0, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 굴착소단 계획폭 및 높이 기준 | x=-15980116.3, y=344029.6, layer=설계기준$0$CS-NOTE, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 최종굴착 | x=-15936265.4, y=365584.7, layer=$EL-text, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | 토공사(굴착공사) 안전 (한국산업안전공단 자료 참조) | x=-15992018.6, y=423937.7, layer=설계기준$0$CS-NOTE, type=TEXT, source=modelspace
+C-648 흙막이시공 및 해체 순서도 (1).dxf | - 굴착면 기울기 : 사질지반 (1:1.5) | x=-15992018.6, y=422817.4, layer=설계기준$0$CS-NOTE, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:41.04 | x=4799.4, y=2831.2, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:41.10 | x=4799.3, y=2776.3, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:41.23 | x=4799.3, y=2721.4, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.82 | x=4971.2, y=2831.0, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.53 | x=4971.9, y=2775.7, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.41 | x=4971.9, y=2720.6, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.98 | x=5135.8, y=2721.1, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.84 | x=5135.0, y=2831.0, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:41.93 | x=5307.6, y=2832.1, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:41.54 | x=5307.6, y=2776.7, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:41.15 | x=5307.6, y=2721.3, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.91 | x=5135.5, y=2776.1, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.80 | x=5472.4, y=2721.0, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.74 | x=5472.5, y=2775.9, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.68 | x=5472.5, y=2830.8, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:43.14 | x=5643.6, y=2833.3, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:42.74 | x=5643.6, y=2777.9, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:42.34 | x=5644.0, y=2722.5, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.61 | x=5809.0, y=2720.8, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.57 | x=5808.3, y=2775.7, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.70 | x=5807.4, y=2830.9, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:42.54 | x=5948.9, y=2832.7, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:43.88 | x=5980.0, y=2779.0, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:43.53 | x=5980.0, y=2723.7, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.84 | x=6143.8, y=2721.0, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:42.03 | x=6221.4, y=2722.2, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=5002.0, y=2711.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=5002.0, y=2766.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=5002.0, y=2821.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=5338.4, y=2711.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=5338.4, y=2766.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=5338.4, y=2821.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=5674.8, y=2711.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=5674.8, y=2766.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=5674.8, y=2821.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=6011.2, y=2711.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=6011.2, y=2766.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=6011.2, y=2821.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=6347.6, y=2711.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=6347.6, y=2821.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.91 | x=6143.5, y=2776.1, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:41.64 | x=6162.5, y=2776.8, layer=@원지반, type=TEXT, source=modelspace
+단면도 모음.dxf | 풍화암 | x=6347.6, y=2766.7, layer=0, type=TEXT, source=modelspace
+단면도 모음.dxf | EL.(+) 39.497 | x=4822.1, y=2719.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4820.8, y=2718.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4820.8, y=2716.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4820.8, y=2714.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=4820.8, y=2712.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 보통암 | x=4820.8, y=2707.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.346 | x=4881.2, y=2718.1, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4879.9, y=2717.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4879.9, y=2716.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4879.9, y=2714.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=4879.9, y=2711.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4879.9, y=2715.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 41.182 | x=4955.1, y=2721.0, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4953.7, y=2719.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4953.7, y=2717.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4953.7, y=2714.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=4953.7, y=2710.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=4953.7, y=2712.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4953.7, y=2716.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 39.497 | x=4822.1, y=2774.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4820.8, y=2773.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4820.8, y=2771.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4820.8, y=2769.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=4820.8, y=2767.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 보통암 | x=4820.8, y=2762.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.346 | x=4881.2, y=2773.1, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4879.9, y=2772.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4879.9, y=2771.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4879.9, y=2769.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=4879.9, y=2766.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4879.9, y=2770.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 41.182 | x=4955.1, y=2776.0, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4953.7, y=2774.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4953.7, y=2772.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4953.7, y=2769.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=4953.7, y=2765.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=4953.7, y=2767.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4953.7, y=2771.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.552 | x=4822.2, y=2828.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4820.9, y=2827.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4820.9, y=2826.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=4820.9, y=2822.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=4820.9, y=2822.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4820.9, y=2824.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.537 | x=4853.1, y=2828.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4851.8, y=2827.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4851.8, y=2826.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4851.8, y=2824.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=4851.8, y=2822.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 39.350 | x=4936.5, y=2829.1, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4935.2, y=2828.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4935.2, y=2827.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=4935.2, y=2821.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=4935.2, y=2822.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4935.2, y=2824.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.986 | x=5157.3, y=2718.8, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5156.0, y=2718.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5156.0, y=2717.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5156.0, y=2711.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5156.0, y=2712.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5156.0, y=2714.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 39.036 | x=5234.7, y=2718.8, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5233.4, y=2718.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5233.4, y=2716.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5233.4, y=2710.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5233.4, y=2712.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5233.4, y=2714.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.475 | x=5297.0, y=2718.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5295.7, y=2717.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5295.7, y=2717.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5295.7, y=2714.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5295.7, y=2710.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5295.7, y=2712.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.716 | x=5203.0, y=2773.5, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5201.6, y=2772.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5201.6, y=2771.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5201.6, y=2769.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5201.6, y=2766.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5201.6, y=2770.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 39.139 | x=5273.0, y=2773.9, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5271.6, y=2773.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5271.6, y=2772.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5271.6, y=2769.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5271.6, y=2767.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5271.6, y=2771.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.897 | x=5295.3, y=2773.7, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5294.0, y=2773.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5294.0, y=2771.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5294.0, y=2769.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5294.0, y=2772.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.539 | x=5153.7, y=2828.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5152.4, y=2827.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5152.4, y=2825.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5152.4, y=2823.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5152.4, y=2819.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5152.4, y=2820.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 37.619 | x=5194.8, y=2827.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5193.5, y=2826.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5193.5, y=2825.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5193.5, y=2820.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5193.5, y=2822.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5193.5, y=2823.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.594 | x=5220.3, y=2828.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5218.9, y=2827.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5218.9, y=2826.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5218.9, y=2823.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5218.9, y=2820.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5218.9, y=2821.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5218.9, y=2825.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.716 | x=5548.3, y=2718.5, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5547.0, y=2717.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5547.0, y=2716.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5547.0, y=2714.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5547.0, y=2715.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5547.0, y=2710.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5547.0, y=2712.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.767 | x=5581.7, y=2718.6, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5580.4, y=2718.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5580.4, y=2716.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5580.4, y=2714.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5580.4, y=2712.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 39.121 | x=5629.5, y=2718.9, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5628.2, y=2718.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5628.2, y=2715.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5628.2, y=2714.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5628.2, y=2709.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5628.2, y=2711.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5628.2, y=2717.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.614 | x=5503.2, y=2773.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5501.8, y=2772.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5501.8, y=2771.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5501.8, y=2769.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5501.8, y=2766.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5501.8, y=2767.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 보통암 | x=5501.8, y=2764.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.603 | x=5630.0, y=2773.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5628.7, y=2772.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5628.7, y=2771.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5628.7, y=2768.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5628.7, y=2765.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5628.7, y=2766.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5628.7, y=2770.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 보통암 | x=5628.7, y=2763.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.538 | x=5528.0, y=2828.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5526.7, y=2827.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5526.7, y=2825.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5526.7, y=2827.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5526.7, y=2823.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5526.7, y=2821.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5526.7, y=2819.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 39.010 | x=5608.6, y=2828.8, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5607.3, y=2828.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5607.3, y=2827.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5607.3, y=2823.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5607.3, y=2819.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5607.3, y=2821.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5607.3, y=2825.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 보통암 | x=5607.3, y=2817.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 37.561 | x=5827.4, y=2717.4, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5826.0, y=2716.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5826.0, y=2715.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5826.0, y=2713.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5826.0, y=2710.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 40.878 | x=5883.3, y=2720.7, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5882.0, y=2719.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5882.0, y=2716.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5882.0, y=2713.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5882.0, y=2709.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 39.037 | x=5964.1, y=2718.8, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5962.8, y=2718.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5962.8, y=2716.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 보통암 | x=5962.8, y=2708.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5962.8, y=2710.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5962.8, y=2711.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5962.8, y=2714.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 40.713 | x=5836.1, y=2775.5, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5834.7, y=2774.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5834.7, y=2771.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5834.7, y=2768.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5834.7, y=2762.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5834.7, y=2765.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 40.718 | x=5868.2, y=2775.5, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5866.9, y=2774.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5866.9, y=2772.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5866.9, y=2763.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5866.9, y=2765.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5866.9, y=2769.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 39.211 | x=5948.9, y=2774.0, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5947.6, y=2773.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5947.6, y=2771.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5947.6, y=2765.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5947.6, y=2766.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 보통암 | x=5947.6, y=2763.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5947.6, y=2769.2, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.364 | x=5929.2, y=2828.2, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=5927.9, y=2827.6, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5927.9, y=2823.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=5927.9, y=2820.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=5927.9, y=2822.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=5927.9, y=2825.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.489 | x=6183.4, y=2718.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=6182.1, y=2717.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=6182.1, y=2715.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 보통암 | x=6182.1, y=2707.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=6182.1, y=2709.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=6182.1, y=2712.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.489 | x=6183.4, y=2773.3, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=6182.1, y=2772.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=6182.1, y=2770.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 보통암 | x=6182.1, y=2762.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=6182.1, y=2764.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=6182.1, y=2767.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 계획고 | x=4800.7, y=2998.8, layer=_CR_종단테이블제목문자, type=TEXT, source=modelspace
+단면도 모음.dxf | EL.(+) 38.537 | x=4835.3, y=3084.5, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4832.2, y=3083.1, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4832.2, y=3080.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4832.2, y=3075.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=4832.2, y=3070.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 37.619 | x=4895.8, y=3082.2, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4892.7, y=3080.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4892.7, y=3076.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=4892.7, y=3064.4, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=4892.7, y=3068.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4892.7, y=3072.9, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 38.538 | x=4956.1, y=3084.5, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4953.0, y=3083.3, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4953.0, y=3078.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4953.0, y=3081.8, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4953.0, y=3072.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=4953.0, y=3067.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=4953.0, y=3062.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL.(+) 40.718 | x=5000.0, y=3089.9, layer=주상도, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 매립층 | x=4996.9, y=3086.5, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4996.9, y=3082.0, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화암 | x=4996.9, y=3060.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 풍화토 | x=4996.9, y=3065.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | 퇴적층 | x=4996.9, y=3073.7, layer=Layer, type=BLOCK_TEXT, source=virtual_block
+단면도 모음.dxf | EL=41.20 | x=5509.8, y=3039.3, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.20 | x=5507.9, y=3038.7, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.19 | x=5506.0, y=3038.2, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.17 | x=5500.5, y=3036.6, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.11 | x=5481.3, y=3031.0, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.05 | x=5462.1, y=3025.4, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.99 | x=5442.9, y=3019.7, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.93 | x=5423.7, y=3014.1, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.87 | x=5404.5, y=3008.5, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.86 | x=5402.1, y=3007.8, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.81 | x=5385.3, y=3002.9, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.75 | x=5366.1, y=2997.3, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.68 | x=5346.9, y=2991.7, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.57 | x=5327.8, y=2986.1, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.70 | x=5308.6, y=2980.4, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.84 | x=5289.4, y=2974.8, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.96 | x=5274.0, y=2970.3, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.98 | x=5270.2, y=2969.2, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.03 | x=5265.0, y=2984.6, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.10 | x=5266.4, y=2994.1, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.43 | x=5268.5, y=3043.4, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.89 | x=5269.9, y=3109.4, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=42.03 | x=5279.1, y=3148.9, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=42.01 | x=5298.4, y=3154.1, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.85 | x=5317.5, y=3159.9, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.88 | x=5336.7, y=3165.8, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.83 | x=5353.3, y=3170.8, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.82 | x=5355.8, y=3171.6, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.89 | x=5374.9, y=3177.4, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.51 | x=5394.1, y=3183.2, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=41.15 | x=5413.2, y=3189.0, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.83 | x=5432.3, y=3194.9, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.56 | x=5451.5, y=3200.7, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.49 | x=5456.9, y=3202.3, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.47 | x=5458.8, y=3202.9, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | EL=40.45 | x=5460.7, y=3203.5, layer=@레벨, type=TEXT, source=modelspace
+단면도 모음.dxf | GH:40.68 | x=5803.3, y=2977.0, layer=@원지반, type=TEXT, source=modelspace
+가시설 상세도 합본.dxf | ② 오거 굴착 | x=-16028375.8, y=2951338.3, layer=Text, type=TEXT, source=modelspace
+가시설 상세도 합본.dxf | ③ 전회전식 굴착 | x=-16027669.5, y=2951339.7, layer=Text, type=TEXT, source=modelspace
+가시설 상세도 합본.dxf | ④ 굴착 완료 | x=-16026733.0, y=2951345.8, layer=Text, type=TEXT, source=modelspace
+가시설 상세도 합본.dxf | 지지층 | x=-16028083.1, y=2948393.8, layer=Text, type=TEXT, source=modelspace
+가시설 상세도 합본.dxf | 나) 천공은 로터리 대구경 굴착기를 사용함을 원칙으로 하나 감독관의 승인하에 AUGER보링기를 사용할 수 있다. | x=-16034751.2, y=2949551.8, layer=Text, type=TEXT, source=modelspace
+가시설 상세도 합본.dxf | 라) 3-WING BIT를 사용하여 굴진시 토사 절삭이 용이하고 저항력에 WING이 파손되지 않도록 높은 강도의 것을 사용한다. | x=-16034751.2, y=2949231.0, layer=Text, type=TEXT, source=modelspace
+가시설 상세도 합본.dxf | 다) 니수는 점토광물과 순수한 물과 혼합으로 조성해야 하며 점토광물은 BENTONITE 또는 이와 유사한 성분이어야 하며 | x=-16034751.2, y=2948592.1, layer=Text, type=TEXT, source=modelspace
+가시설 상세도 합본.dxf | 8) 타설된 콘크리트가 경화될 때까지 콘크리트에 영향을 주는 굴착은 피해야 한다. | x=-16034753.7, y=2945589.8, layer=Text, type=TEXT, source=modelspace
+가시설 상세도 합본.dxf | 11) C.I.P 천공 및 SLIME 제거시의 굴착토는 주변환경을 훼손하지 않도록 즉시 처리하여야 한다. | x=-16034792.0, y=2945140.7, layer=Text, type=TEXT, source=modelspace
+가시설 상세도 합본.dxf | 13) 굴착 중 C.I.P항의 수직도가 규정에 벗어날 경우에 대한 보완책을 수립하여 감독원의 승인을 얻어 건축구조물의 | x=-16034792.0, y=2944841.2, layer=Text, type=TEXT, source=modelspace
+가시설 상세도 합본.dxf | 사) 모래로 되메우기 할 경우 충분한 물다짐을 실시하고, 현장 굴착토를 재사용 할 경우 세립질 토사를 제외하고 되메우기 | x=-16034751.2, y=2947756.8, layer=Text, type=TEXT, source=modelspace
+
+
+[레이어 목록 상위]
+------------------------------------------------------------------------------------------------------------------------
+
+## C-106~110 단지횡단면도(1)~(5).dxf
+주상도: 24294
+횡단면도-표시선: 1337
+0: 562
+_CR_폴대: 270
+Layer: 221
+@지하층: 210
+횡단면도-계획고: 146
+@경계석: 142
+@아파트: 128
+@원지반: 70
+-$대지경계: 56
+지하수위: 34
+center: 30
+블럭체인: 18
+@계획선: 16
+블럭체인번호: 15
+@2퇴적층하부: 14
+@4풍화암하부: 13
+@3풍화토하부: 12
+XR-TEXT: 10
+TXT: 10
+0.토목 타이틀: 10
+_CT_계획사면: 5
+_CR_인출문자: 5
+TEXT: 5
+_CR_종단테이블내용문자: 5
+BASE$0$0택지도로중심선: 2
+0택지도로중심선: 1
+BASE$0$심볼-INS: 1
+#지하수위: 1
+
+## C-648 흙막이시공 및 해체 순서도 (1).dxf
+CS-PATT: 1568
+0: 735
+PILE: 265
+1: 260
+0-0: 72
+form: 71
+C-ANCH-FREE: 70
+FTEXT: 53
+LH마크: 47
+C-ANCH-BOND: 42
+CONCM: 42
+-$$TEXT: 38
+_지시: 30
+Text: 28
+-$$DIM-C: 24
+__PILE: 18
+_CT_택지현황: 18
+DIM: 14
+ANCHOR: 14
+토목: 14
+P: 14
+HEAD: 14
+Defpoint: 14
+MSP-ER: 13
+C-LEVEL: 12
+플래그: 12
+-계획선: 12
+.: 12
+0-fe: 12
+CIP: 12
+토류판: 10
+GL: 8
+설계기준$0$CS-NOTE: 7
+C-GROUND: 7
+00.가설계획: 6
+매치라인: 6
+$EL-text: 5
+TEXT1: 4
+TEXT-ER: 4
+R-CON: 4
+Defpoints: 4
+CORNER: 3
+0.토목 타이틀: 2
+-$$굴착심도: 1
+KZ_횡단_인접도로정보: 1
+
+## 단면도 모음.dxf
+주상도: 27395
+0: 12049
+54_5000지형: 3973
+횡단면도-표시선: 1661
+BASE$0$G-STR: 1042
+BASE$0$_CQ_공사-조경석쌓기: 779
+BASE$0$CON: 590
+BASE$0$--0-plan: 560
+02_계획선_통심의용: 532
+BASE$0$-bs-05: 464
+BASE$0$WAL: 418
+_CR_폴대: 378
+BASE$0$동딱지PD: 346
+@지하층: 278
+@경계석: 267
+BASE$0$INS: 264
+BASE$0$FIN-ER: 262
+Layer: 248
+BASE$0$Defpoint: 207
+BASE$0$WIN: 201
+_CR_종단테이블내용문자: 195
+BASE$0$동딱지OUTLINE_코어: 190
+BASE$0$0개선-횡단보도: 188
+09_획지선(단독주택)_3차변경: 176
+횡단면도-계획고: 172
+BASE$0$FUR-BATH: 172
+BASE$0$TEXT: 165
+@아파트: 156
+BASE$0$0개선-도로: 153
+BASE$0$G-차단기: 140
+BASE$0$3: 138
+BASE$0$FIN: 136
+BASE$0$DOOR: 128
+BASE$0$A-주차-근생용: 116
+BASE$0$동딱지OUTLINE: 108
+BASE$0$동딱지SERVICE: 104
+BASE$0$지하주차장 OUTLINE: 102
+BASE$0$AA-CONC: 95
+BASE$0$AA-GYPS: 95
+BASE$0$동딱지OUTLINE_창호: 91
+블럭체인: 80
+@원지반: 77
+BASE$0$도로계획고점: 76
+BASE$0$10_13-4.노면표시_좌@우회전: 72
+BASE$0$0현황-도로: 71
+-$대지경계: 69
+BASE$0$동딱지ETC: 67
+BASE$0$02_계획선_통심의용: 65
+BASE$0$00-조경: 64
+BASE$0$AA-DOOR: 64
+화살표: 60
+BASE$0$0택지도로중심선: 57
+BASE$0$G-FIN: 53
+BASE$0$0L-조경패턴: 50
+BASE$0$0L-조경시설물: 48
+블럭체인번호: 45
+BASE$0$NOPLOT: 45
+BASE$0$GYPS: 43
+BASE$0$ELE-6: 40
+BASE$0$LEVEL: 39
+지하수위: 38
+C-키맵: 37
+$$차선: 36
+@레벨: 36
+BASE$0$레벨-단지: 35
+BASE$0$_CT_계획고: 35
+BASE$0$!개선: 35
+center: 32
+@계획선: 32
+BASE$0$-bs-02: 32
+BASE$0$G-WALL: 27
+BASE$0$G-ELE3: 26
+BASE$0$DOOR-ER: 25
+BASE$0$def: 24
+BASE$0$@건물외곽선: 24
+BASE$0$0개선-중앙선: 23
+BASE$0$DC-메지1: 21
+BASE$0$G-배치도-메지: 21
+BASE$0$10_13-5.노면표시_좌@유턴: 21
+BASE$0$10_10.횡단보도: 21
+
+## 가시설 상세도 합본.dxf
+4: 3251
+Text: 1500
+-$BOX: 841
+C-STRUT: 728
+0: 704
+form: 639
+2: 556
+FTEXT: 477
+1: 457
+LH마크: 423
+3: 389
+DIM2: 333
+DIM: 277
+LEAD 선: 164
+STRUT: 160
+BOLT: 144
+WALE: 135
+_DIMENSION: 128
+jack: 122
+단면: 120
+MSP-ER: 117
+Bolt24: 116
+_BAR_MARK_LNE: 102
+STIF: 97
+6: 78
+b범례: 76
+_leader: 74
+Defpoint: 72
+00-TEXT: 62
+CS-DIMS: 53
+새 블럭1$0$text: 53
+C-PILE: 49
+DETL: 39
+__BAR: 38
+Defpoints: 37
+L: 37
+TEXT-ER: 36
+BRACKET: 31
+angle channel1: 31
+__DIM-C: 30
+C-보걸이: 27
+설계기준$0$CS-NOTE: 27
+5: 27
+C-BOLT: 25
+0.토목 타이틀: 18
+DI: 18
+지시선: 17
+Ansi2: 16
+ansi1: 16
+title: 15
+_center line: 15
+__DIM_LINE: 15
+7: 14
+weld: 12
+0-지시선: 12
+__CON'C: 12
+Plate1: 11
+proj: 11
+X: 10
+__CIP: 10
+__PILE: 10
+00-소제목: 10
+-$$DIM-C: 9
+C-지시선: 8
+버팀보: 7
+__Wale: 6
+A-FLOR-GRID: 6
+H-PILE: 4
+HACH: 4
+Plate2: 4
+TEXT1: 4
+C-HATCH: 3
+Plate: 3
+0-HAT: 3
+angle channel2: 2
+Hpile1: 2
+0-H BEAM: 2
+TEX: 2
+CEN: 2
+HPILE: 2
+
+
+[전체 텍스트 일부]
+------------------------------------------------------------------------------------------------------------------------
+C-106~110 단지횡단면도(1)~(5).dxf | 단 지 횡 단 면 도 (1) | x=5046.6, y=2690.6, layer=XR-TEXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 106 | x=5055.4, y=2698.1, layer=XR-TEXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 800 | x=5060.7, y=2721.1, layer=TXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 400 | x=5060.7, y=2723.7, layer=TXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 단 지 횡 단 면 도 (2) | x=5383.0, y=2690.6, layer=XR-TEXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 800 | x=5397.1, y=2721.1, layer=TXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 400 | x=5397.1, y=2723.7, layer=TXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 단 지 횡 단 면 도 (3) | x=5719.4, y=2690.6, layer=XR-TEXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 800 | x=5733.5, y=2721.1, layer=TXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 400 | x=5733.5, y=2723.7, layer=TXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 단 지 횡 단 면 도 (4) | x=6055.8, y=2690.6, layer=XR-TEXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 800 | x=6069.9, y=2721.1, layer=TXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 400 | x=6069.9, y=2723.7, layer=TXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 단 지 횡 단 면 도 (5) | x=6392.2, y=2690.6, layer=XR-TEXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 800 | x=6406.3, y=2721.1, layer=TXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 400 | x=6406.3, y=2723.7, layer=TXT, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | ◈ KEY PLAN | x=4975.9, y=2894.4, layer=_CR_인출문자, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=4802.7, y=2729.2, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=4966.5, y=2783.5, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=4802.8, y=2784.2, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=4802.8, y=2839.1, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=4966.5, y=2728.4, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=4966.3, y=2838.8, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=4769.6, y=2729.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=4769.6, y=2719.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=4769.6, y=2709.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=4769.6, y=2784.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=4769.6, y=2774.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=4769.6, y=2764.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=4769.6, y=2839.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=4769.6, y=2829.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=4769.6, y=2819.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.45 | x=4964.6, y=2720.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.56 | x=4964.5, y=2775.7, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.20 | x=4804.8, y=2721.4, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.17 | x=4804.8, y=2776.3, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.11 | x=4804.9, y=2831.3, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.83 | x=4964.3, y=2831.0, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.04 | x=4799.4, y=2831.2, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.10 | x=4799.3, y=2776.3, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.23 | x=4799.3, y=2721.4, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.82 | x=4971.2, y=2831.0, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.53 | x=4971.9, y=2775.7, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.41 | x=4971.9, y=2720.6, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 605동 | x=4829.7, y=2779.0, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 피트니스센터/코인세탁실/사회적기업 | x=4873.5, y=2778.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 607동 | x=4954.2, y=2778.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 605동 | x=4826.5, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 근로자휴게소/관리사무소 | x=4884.8, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 606동 | x=4921.4, y=2833.7, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 607동 | x=4954.3, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=4829.6, y=2775.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=4881.2, y=2775.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=4954.1, y=2775.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=4826.4, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=4889.5, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=4921.3, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=4954.2, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=4878.3, y=2771.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=4876.9, y=2772.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:32.50 | x=4878.3, y=2767.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B2) | x=4876.9, y=2769.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=4831.5, y=2772.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=4831.5, y=2768.4, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=4955.1, y=2772.7, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=4867.9, y=2826.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=4866.5, y=2827.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:32.50 | x=4867.9, y=2822.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B2) | x=4866.5, y=2824.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=4827.4, y=2827.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=4827.4, y=2823.4, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=4922.3, y=2827.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=4955.1, y=2827.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=4942.0, y=2826.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=4940.6, y=2827.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4808.9, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4808.9, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=4814.2, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4819.6, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 605동 | x=4830.0, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=4848.2, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=4856.8, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4862.0, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 피트니스센터/코인세탁실/사회적기업 | x=4875.3, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=4899.3, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=4901.0, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4905.4, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 어린이놀이터 | x=4919.1, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4936.6, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=4940.5, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4946.8, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 607동 | x=4954.5, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4962.9, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=4813.4, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4819.5, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 605동 | x=4826.8, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4843.2, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=4855.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4868.0, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=4878.4, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4880.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 근로자휴게소/관리사무소 | x=4886.0, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4899.3, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=4901.0, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4905.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 606동 | x=4921.7, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4937.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=4940.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4946.8, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 607동 | x=4954.5, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4962.9, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=4885.5, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5139.3, y=2729.0, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5139.3, y=2784.0, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5139.4, y=2838.9, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5302.5, y=2729.1, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5302.4, y=2784.5, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5302.2, y=2839.9, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=5106.0, y=2729.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=5106.0, y=2719.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=5106.0, y=2709.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=5106.0, y=2784.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=5106.0, y=2774.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=5106.0, y=2764.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=5106.0, y=2839.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=5106.0, y=2829.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=5106.0, y=2819.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.05 | x=5141.3, y=2721.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.99 | x=5141.4, y=2776.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.93 | x=5141.4, y=2831.1, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.15 | x=5300.6, y=2721.3, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.51 | x=5300.4, y=2776.7, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.89 | x=5300.3, y=2832.0, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.98 | x=5135.8, y=2721.1, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.84 | x=5135.0, y=2831.0, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.93 | x=5307.6, y=2832.1, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.54 | x=5307.6, y=2776.7, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:41.15 | x=5307.6, y=2721.3, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 근린생활시설 | x=5149.0, y=2723.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 사회복지관 | x=5180.6, y=2723.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 604동 | x=5209.2, y=2723.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 607동 | x=5290.0, y=2723.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 608동 | x=5257.3, y=2778.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 609동 | x=5290.8, y=2778.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 603동 | x=5169.3, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 603동 | x=5189.6, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 어린이집 | x=5220.0, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 609동 | x=5290.8, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5250.4, y=2721.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5187.7, y=2776.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5234.9, y=2831.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5150.7, y=2720.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5209.1, y=2720.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5289.9, y=2720.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5257.2, y=2775.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5290.7, y=2775.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5290.7, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.36 | x=5189.5, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5169.2, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5220.6, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5181.7, y=2720.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.91 | x=5135.5, y=2776.1, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5178.5, y=2716.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5177.1, y=2717.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:32.50 | x=5178.5, y=2712.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B2) | x=5177.1, y=2714.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5240.5, y=2716.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5239.1, y=2717.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:32.50 | x=5240.5, y=2712.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B2) | x=5239.1, y=2714.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5202.7, y=2771.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5201.3, y=2772.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:32.50 | x=5202.7, y=2767.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B2) | x=5201.3, y=2769.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5220.6, y=2826.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5219.2, y=2827.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:32.50 | x=5220.6, y=2822.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B2) | x=5219.2, y=2824.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5151.7, y=2717.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5210.1, y=2717.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5290.9, y=2717.7, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5210.1, y=2713.4, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5159.6, y=2771.5, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5258.2, y=2772.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5291.6, y=2772.7, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5278.5, y=2771.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5277.1, y=2772.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5179.0, y=2826.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5177.6, y=2827.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:32.50 | x=5179.0, y=2822.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B2) | x=5177.6, y=2824.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5190.5, y=2827.7, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 열교환실 | x=5158.6, y=2826.5, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5190.5, y=2823.4, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5169.9, y=2827.7, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5169.9, y=2823.4, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5291.7, y=2827.7, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5144.1, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5148.7, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 경비실-2 | x=5147.1, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 근린생활시설 | x=5149.7, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5160.7, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5166.6, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5172.8, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 사회복지관 | x=5181.1, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5190.3, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5193.1, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5198.9, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 604동 | x=5209.5, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5224.4, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 604동 | x=5232.4, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5235.7, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5237.5, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5257.7, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5277.0, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5282.6, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 607동 | x=5290.3, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5299.2, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5232.8, y=2717.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5232.8, y=2713.4, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 604동 | x=5231.9, y=2723.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5231.8, y=2720.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5223.4, y=2716.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5222.0, y=2717.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:32.50 | x=5223.4, y=2712.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B2) | x=5222.0, y=2714.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 차도 | x=5177.4, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5219.1, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5241.5, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 608동 | x=5257.6, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5274.1, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5277.1, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5283.3, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 609동 | x=5291.1, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5299.2, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5143.8, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5145.7, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5151.3, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5158.7, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 603동 | x=5169.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5180.1, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 603동 | x=5189.8, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5198.0, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5201.9, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5203.9, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 유아놀이터 | x=5207.5, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 어린이집 | x=5220.4, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5233.1, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5237.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5257.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5277.0, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5283.4, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 609동 | x=5291.1, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5299.1, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5475.8, y=2728.9, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5475.9, y=2783.8, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5475.9, y=2838.7, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5638.4, y=2729.8, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5638.3, y=2784.9, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5638.1, y=2839.8, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=5442.4, y=2729.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=5442.4, y=2719.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=5442.4, y=2709.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=5442.4, y=2784.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=5442.4, y=2774.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=5442.4, y=2764.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=5442.4, y=2839.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=5442.4, y=2829.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=5442.4, y=2819.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.87 | x=5477.9, y=2721.0, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.81 | x=5477.9, y=2776.0, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.75 | x=5478.0, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.82 | x=5636.5, y=2722.0, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.88 | x=5636.3, y=2777.0, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.85 | x=5636.2, y=2832.0, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.80 | x=5472.4, y=2721.0, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.74 | x=5472.5, y=2775.9, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.68 | x=5472.5, y=2830.8, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:43.14 | x=5643.6, y=2833.3, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:42.74 | x=5643.6, y=2777.9, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:42.34 | x=5644.0, y=2722.5, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 610동 | x=5593.7, y=2723.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 경로당 | x=5625.7, y=2723.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 602동 | x=5553.2, y=2778.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 611동 | x=5626.7, y=2778.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 601동 | x=5499.4, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 601동 | x=5525.2, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 612동 | x=5593.3, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 611동 | x=5627.4, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5523.1, y=2721.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5507.0, y=2776.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5595.1, y=2776.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5552.9, y=2831.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5593.6, y=2720.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5625.7, y=2720.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5626.5, y=2775.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5553.1, y=2775.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5499.3, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5525.1, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5593.2, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5627.3, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5540.3, y=2716.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5538.8, y=2717.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:32.50 | x=5540.3, y=2712.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B2) | x=5538.8, y=2714.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5519.0, y=2771.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5517.6, y=2772.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:32.50 | x=5519.0, y=2767.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B2) | x=5517.6, y=2769.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5515.1, y=2826.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5513.7, y=2827.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:32.50 | x=5515.1, y=2822.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B2) | x=5513.7, y=2824.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5614.2, y=2716.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5612.8, y=2717.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5594.5, y=2717.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5626.7, y=2717.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5595.0, y=2771.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5593.5, y=2772.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5554.1, y=2772.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 전기실 | x=5495.8, y=2771.5, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5627.5, y=2772.7, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5554.1, y=2768.4, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5500.3, y=2827.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5500.3, y=2823.4, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5526.1, y=2827.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5526.1, y=2823.4, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5594.2, y=2827.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5628.2, y=2827.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5552.8, y=2826.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5551.4, y=2827.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5614.5, y=2826.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5613.1, y=2827.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5480.2, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5480.3, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5507.1, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5544.6, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5556.1, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5565.2, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5574.0, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5578.0, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 610동 | x=5594.0, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5610.5, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5612.6, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5618.2, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 경로당 | x=5626.0, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5634.7, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5480.6, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5483.7, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5507.5, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5513.5, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 어린이놀이터-1 | x=5521.2, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5527.2, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5532.3, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5535.4, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 602동 | x=5569.5, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5571.8, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5574.9, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5609.3, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5615.4, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5619.8, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 611동 | x=5632.1, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5636.0, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5483.9, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5489.5, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 601동 | x=5499.7, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5516.1, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 601동 | x=5525.5, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5529.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5554.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5571.8, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5578.1, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 612동 | x=5593.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5610.1, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5613.7, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5619.9, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 611동 | x=5627.7, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5635.3, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5535.0, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5812.4, y=2728.7, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5812.4, y=2783.6, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5812.5, y=2838.7, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5974.4, y=2730.0, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5974.9, y=2785.0, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=5939.5, y=2839.9, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=5778.8, y=2729.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=5778.8, y=2719.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=5778.8, y=2709.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=5778.8, y=2784.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=5778.8, y=2774.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=5778.8, y=2764.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=5778.8, y=2839.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=5778.8, y=2829.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=5778.8, y=2819.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.68 | x=5814.4, y=2720.8, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.57 | x=5814.5, y=2775.7, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.70 | x=5814.5, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.89 | x=5937.6, y=2832.1, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:42.01 | x=5972.4, y=2722.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:42.03 | x=5972.9, y=2777.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.61 | x=5809.0, y=2720.8, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.57 | x=5808.3, y=2775.7, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.70 | x=5807.4, y=2830.9, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:42.54 | x=5948.9, y=2832.7, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:43.88 | x=5980.0, y=2779.0, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:43.53 | x=5980.0, y=2723.7, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 611동 | x=5963.8, y=2723.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 615동 | x=5836.3, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 614동 | x=5879.6, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 613동 | x=5919.3, y=2833.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5886.4, y=2721.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5863.3, y=2776.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5951.3, y=2776.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 613동 | x=5919.6, y=2778.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5901.7, y=2831.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=5857.6, y=2831.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5963.7, y=2720.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5919.5, y=2775.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5836.2, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5879.4, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=5919.2, y=2830.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5897.5, y=2716.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5896.1, y=2717.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5964.7, y=2717.7, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5874.3, y=2771.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5872.9, y=2772.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5858.0, y=2826.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5856.5, y=2827.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | SL:36.00 | x=5901.6, y=2826.1, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 지하 주차장(B1) | x=5900.2, y=2827.6, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5880.4, y=2827.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5837.2, y=2827.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5920.1, y=2827.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=5920.5, y=2772.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 펌프실 | x=5931.8, y=2771.5, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 저수조 | x=5943.2, y=2771.5, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 차도 | x=5822.4, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 경비실-1 | x=5820.9, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5817.0, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5847.9, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 중앙광장 | x=5885.9, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5906.8, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5916.4, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5924.2, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5942.1, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 611동 | x=5964.1, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5816.8, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5818.5, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5826.0, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5827.9, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5833.7, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5841.2, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5843.5, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5846.6, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5849.1, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5854.0, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5861.6, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5877.0, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5888.5, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5896.4, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5905.2, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5910.8, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 613동 | x=5919.8, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5950.9, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5929.7, y=2795.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5820.9, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5827.2, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 615동 | x=5836.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5846.4, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 보도 | x=5849.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5857.0, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=5865.2, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5871.4, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 614동 | x=5879.8, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5902.6, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 613동 | x=5919.5, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=5930.0, y=2850.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=6148.9, y=2728.8, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 대지경계 | x=6213.0, y=2729.4, layer=-$대지경계, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=6115.2, y=2729.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=6115.2, y=2719.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=6115.2, y=2709.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 50.0 | x=6115.2, y=2839.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 40.0 | x=6115.2, y=2829.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 30.0 | x=6115.2, y=2819.9, layer=_CR_폴대, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:40.84 | x=6151.0, y=2721.0, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.43 | x=6211.0, y=2721.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:40.84 | x=6143.8, y=2721.0, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | GH:42.03 | x=6221.4, y=2722.2, layer=@원지반, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 615동 | x=6176.0, y=2723.6, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FH:41.00 | x=6191.2, y=2721.2, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | FL:41.00 | x=6175.9, y=2720.9, layer=횡단면도-계획고, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | PIT | x=6181.4, y=2717.8, layer=@지하층, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=6156.4, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 비상차로 | x=6163.2, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=6168.8, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 615동 | x=6176.3, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 녹지 | x=6197.4, y=2740.0, layer=횡단면도-표시선, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 41.20 | x=5009.8, y=2716.4, layer=0, type=TEXT
+C-106~110 단지횡단면도(1)~(5).dxf | 경 암 | x=5002.0, y=2707.0, layer=0, type=TEXT

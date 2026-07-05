@@ -1,0 +1,395 @@
+C-605 전체 텍스트 정밀 추출 결과
+========================================================================================================================
+source: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\SourceDXF\unzipped\dxf\6.가시설공사\C-605 굴착계획 평면도.dxf
+all text count: 700
+candidate count: 83
+
+[후보 텍스트]
+------------------------------------------------------------------------------------------------------------------------
+[etc] 엄지말뚝을 H형강으로 적용 할 경우 KS F 4603에 적합한 제품을 사용하여야 한다. / x=-15727258.9, y=3256738.0, layer=Text, type=BLOCK_TEXT, source=virtual_block
+[el] +49.90 / x=-16029977.7, y=3262140.0, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[etc] 605 / x=-15652777.0, y=3269399.6, layer=TEXT-ER, type=TEXT, source=modelspace
+[el] +49.70 / x=-16011434.8, y=3276846.4, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] +40.50 / x=-15951003.8, y=3278966.2, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] +40.50 / x=-15909659.6, y=3291057.6, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] +40.57 / x=-15871874.4, y=3302108.2, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] NO. 21+16.00 / x=-15983681.7, y=3308344.2, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+[el] +49.80 / x=-16009722.2, y=3310235.8, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] +40.69 / x=-15842246.2, y=3310773.2, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] EL+35.04m / x=-15959300.7, y=3311019.6, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[el] EL(+)38.09 / x=-15922164.0, y=3311798.5, layer=터파기, type=BLOCK_TEXT, source=virtual_block
+[etc] 615동 / x=-15956917.6, y=3313580.1, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[etc] (대표번호 : 031-8069-8602) / x=-15668873.2, y=3317685.2, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+[el] +40.80 / x=-15814367.5, y=3318926.5, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] +51.50 / x=-16034563.6, y=3323602.1, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] +40.90 / x=-15784770.6, y=3327582.3, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] EL+33.24m / x=-15873992.5, y=3331182.2, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[electric] 전기실/발전기실 / x=-15876559.3, y=3333742.7, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] +41.00 / x=-15757264.8, y=3335430.5, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] +48.70 / x=-16010116.4, y=3341564.4, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] EL+31.54m / x=-15908237.8, y=3341915.5, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 601동 / x=-15905854.7, y=3344476.0, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] EL+33.54m / x=-15828136.7, y=3344481.3, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[el] EL(+)35.44 / x=-15790195.2, y=3344527.7, layer=터파기, type=BLOCK_TEXT, source=virtual_block
+[el] EL+35.44m / x=-15796505.3, y=3345378.5, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[heat] 열교환실 / x=-15827159.9, y=3347041.8, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[pit] 근생PIT / x=-15794875.7, y=3347939.0, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] EL+35.04m / x=-15962911.0, y=3353831.3, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 614동 / x=-15960527.8, y=3356391.8, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] EL+31.54m / x=-15850695.7, y=3357855.9, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 603동 / x=-15848312.6, y=3360416.4, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] +52.40 / x=-16033636.3, y=3365975.5, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] EL+31.34m / x=-15767228.8, y=3369218.7, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 605동 / x=-15764845.7, y=3371779.2, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] +47.40 / x=-16009463.5, y=3374227.4, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] NO. 15+2.55 / x=-15864368.9, y=3375500.2, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+[el] EL+35.09m / x=-15930108.0, y=3380147.4, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[parking] 지하1층주차장 / x=-15931792.8, y=3382707.9, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] EL+31.54m / x=-15897483.8, y=3392435.7, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[el] EL+31.54m / x=-15850851.9, y=3393419.5, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 602동 / x=-15895100.7, y=3394996.2, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[parking] 지하2층주차장 / x=-15852536.7, y=3395979.9, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] EL+35.04m / x=-15962051.9, y=3397596.6, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 613동 / x=-15959668.7, y=3400157.1, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] EL+31.34m / x=-15808199.8, y=3401240.9, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[el] +46.60 / x=-16008227.5, y=3402113.4, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[building] 604동 / x=-15805816.7, y=3403801.4, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] NO. 9+14.34 / x=-15760613.2, y=3406247.7, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+[el] NO. 9+12.34 / x=-15758695.7, y=3406815.9, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+[el] NO. 9+10.34 / x=-15756778.1, y=3407384.2, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+[el] EL+32.44m / x=-15958210.7, y=3415540.7, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[pump] 저수조/펌프실 / x=-15959734.0, y=3418101.1, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] EL+35.04m / x=-15920750.1, y=3420621.2, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 612동 / x=-15918366.9, y=3423181.7, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] +40.55 / x=-15734623.3, y=3429257.0, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] EL+31.54m / x=-15885045.6, y=3431614.5, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 610동 / x=-15882662.5, y=3434174.9, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] EL(+)35.44 / x=-15959421.4, y=3440030.0, layer=터파기, type=BLOCK_TEXT, source=virtual_block
+[el] +45.30 / x=-16000075.5, y=3440066.4, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] EL+31.54m / x=-15845037.9, y=3444169.0, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 608동 / x=-15842654.8, y=3446729.4, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] EL+35.04m / x=-15924021.0, y=3453442.7, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 611동 / x=-15921637.9, y=3456003.1, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] EL+31.54m / x=-15801660.7, y=3456412.2, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[etc] 진동 및 소음에 대한 관리 규정에 따라 계측을 실시하여 민원발생과 / x=-15728668.9, y=3457616.4, layer=Text, type=BLOCK_TEXT, source=virtual_block
+[building] 606동 / x=-15799277.6, y=3458972.6, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] +44.70 / x=-16015185.5, y=3466124.5, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] EL+35.04m / x=-15869888.0, y=3469836.3, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 609동 / x=-15867504.9, y=3472396.7, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[etc] (유관부서)의 사전 동의를 득한 후 시공하여야 한다. / x=-15728621.4, y=3477077.8, layer=Text, type=BLOCK_TEXT, source=virtual_block
+[el] +43.70 / x=-15969543.0, y=3477912.1, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] EL+35.04m / x=-15820922.3, y=3484119.6, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+[building] 607동 / x=-15818539.2, y=3486680.1, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+[el] +42.80 / x=-15920622.0, y=3491270.2, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[etc] A-6BL 공동주택 / x=-15662934.4, y=3493537.7, layer=form, type=BLOCK_TEXT, source=virtual_block
+[el] +41.00 / x=-15752937.6, y=3495826.1, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] +41.70 / x=-15874078.1, y=3505268.3, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] +52.80 / x=-16031626.5, y=3511013.2, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[el] +44.60 / x=-16010288.5, y=3513374.4, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+[etc] 변동이 발생하면 이에 따른 토목설계도 변경하여야 한다. / x=-15728433.8, y=3515433.9, layer=Text, type=BLOCK_TEXT, source=virtual_block
+[el] NO. 9+9.90 / x=-15788413.7, y=3516078.2, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+[el] +40.70 / x=-15824900.8, y=3517855.7, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+
+
+[전체 텍스트 상위 300개]
+------------------------------------------------------------------------------------------------------------------------
+49.145 / x=-16003531.3, y=3256171.1, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+39.69 / x=-15983072.1, y=3256538.5, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+엄지말뚝을 H형강으로 적용 할 경우 KS F 4603에 적합한 제품을 사용하여야 한다. / x=-15727258.9, y=3256738.0, layer=Text, type=BLOCK_TEXT, source=virtual_block
+남양주왕숙 A-6BL [2025.11. 셀파이엔씨(주) 시행] / x=-16034394.0, y=3257144.6, layer=범례, type=BLOCK_TEXT, source=virtual_block
+지하1층 / x=-15681508.7, y=3257314.0, layer=Defpoint, type=BLOCK_TEXT, source=virtual_block
+지하2층 / x=-15681508.7, y=3257314.0, layer=Defpoint, type=BLOCK_TEXT, source=virtual_block
+아파트 / x=-15680819.0, y=3257314.0, layer=Defpoint, type=BLOCK_TEXT, source=virtual_block
+지하1층 / x=-15681508.7, y=3257314.0, layer=Defpoint, type=BLOCK_TEXT, source=virtual_block
+지하2층 / x=-15681508.7, y=3257314.0, layer=Defpoint, type=BLOCK_TEXT, source=virtual_block
+잡석콘크리트지정 / x=-15973448.6, y=3257709.2, layer=범례, type=BLOCK_TEXT, source=virtual_block
+45.617 / x=-15996949.2, y=3258096.1, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+엄지말뚝, 버팀대 및 띠장등에 사용되는 강재는 국가건설기준에서 정하는 품질수준에 적합하여야 하며, / x=-15727258.2, y=3258819.8, layer=Text, type=BLOCK_TEXT, source=virtual_block
+굴착계획 평면도 / x=-15661785.6, y=3260037.7, layer=TEXT-ER, type=TEXT, source=modelspace
+※ 주 기 ※ / x=-15707991.1, y=3260377.0, layer=Text, type=BLOCK_TEXT, source=virtual_block
+40.617 / x=-15987351.3, y=3260903.1, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+40.569 / x=-15912459.4, y=3261968.0, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
++49.90 / x=-16029977.7, y=3262140.0, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+잡 석 지 정 / x=-15969732.6, y=3262400.3, layer=범례, type=BLOCK_TEXT, source=virtual_block
+: 탄성파시험공 (3공, H-11, 18, 30) / x=-16026699.4, y=3262572.1, layer=범례, type=BLOCK_TEXT, source=virtual_block
+토 류 판 / x=-15724893.6, y=3264223.8, layer=Text, type=BLOCK_TEXT, source=virtual_block
+목 재 / x=-15710972.3, y=3264223.8, layer=Text, type=BLOCK_TEXT, source=virtual_block
+T = 100mm / x=-15695420.9, y=3264223.8, layer=Text, type=BLOCK_TEXT, source=virtual_block
+도면명 / x=-15668864.4, y=3265162.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+SUBJECT TITLE / x=-15654864.4, y=3265162.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+21M 도로 / x=-15909271.8, y=3266582.6, layer=_CT_택지현황, type=BLOCK_TEXT, source=virtual_block
+연립주택 / x=-15954578.2, y=3267039.5, layer=_CT_택지현황, type=BLOCK_TEXT, source=virtual_block
+지내력기초 / x=-15969662.2, y=3267091.4, layer=범례, type=BLOCK_TEXT, source=virtual_block
+H-1~36 / x=-16001689.1, y=3267263.2, layer=범례, type=BLOCK_TEXT, source=virtual_block
+본조사 / x=-16030476.2, y=3267340.3, layer=범례, type=BLOCK_TEXT, source=virtual_block
+36공 / x=-16017057.9, y=3267340.3, layer=범례, type=BLOCK_TEXT, source=virtual_block
+보 걸 이 / x=-15724893.6, y=3267751.4, layer=Text, type=BLOCK_TEXT, source=virtual_block
+ㄱ 형 강 / x=-15711230.4, y=3267751.4, layer=Text, type=BLOCK_TEXT, source=virtual_block
+ㄱ-100X100X7 / x=-15696393.2, y=3267751.4, layer=Text, type=BLOCK_TEXT, source=virtual_block
+SS275 / x=-15678652.8, y=3267751.4, layer=Text, type=BLOCK_TEXT, source=virtual_block
+605 / x=-15652777.0, y=3269399.6, layer=TEXT-ER, type=TEXT, source=modelspace
+C / x=-15657011.0, y=3269411.4, layer=Text, type=BLOCK_TEXT, source=virtual_block
+- / x=-15654542.4, y=3269537.7, layer=Text, type=BLOCK_TEXT, source=virtual_block
+띠 장 / x=-15724941.1, y=3271278.9, layer=Text, type=BLOCK_TEXT, source=virtual_block
+H 형 강 / x=-15710991.0, y=3271278.9, layer=Text, type=BLOCK_TEXT, source=virtual_block
+SS275 / x=-15678652.8, y=3271278.9, layer=Text, type=BLOCK_TEXT, source=virtual_block
+H-300X300X10X15 / x=-15697690.2, y=3271286.2, layer=Text, type=BLOCK_TEXT, source=virtual_block
+말 뚝 기 초 / x=-15969732.6, y=3271782.5, layer=범례, type=BLOCK_TEXT, source=virtual_block
+구 분 / x=-16031756.2, y=3272142.5, layer=범례, type=BLOCK_TEXT, source=virtual_block
+비 고 / x=-15999191.5, y=3272167.8, layer=범례, type=BLOCK_TEXT, source=virtual_block
+홀 수 / x=-16018104.8, y=3272267.2, layer=범례, type=BLOCK_TEXT, source=virtual_block
+도면번호 / x=-15668864.4, y=3272662.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+SHEET NO. / x=-15654864.4, y=3272662.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+39.62 / x=-15923897.0, y=3273942.8, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+스 트 러 트 / x=-15724846.0, y=3274806.5, layer=Text, type=BLOCK_TEXT, source=virtual_block
+H 형 강 / x=-15710991.0, y=3274806.5, layer=Text, type=BLOCK_TEXT, source=virtual_block
+SS275 / x=-15678652.8, y=3274806.5, layer=Text, type=BLOCK_TEXT, source=virtual_block
+H-300X300X10X15 / x=-15697690.2, y=3274813.8, layer=Text, type=BLOCK_TEXT, source=virtual_block
++49.70 / x=-16011434.8, y=3276846.4, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+범 례 / x=-15972832.1, y=3277240.7, layer=범례, type=BLOCK_TEXT, source=virtual_block
+범 례 / x=-16032717.1, y=3277242.1, layer=범례, type=BLOCK_TEXT, source=virtual_block
+37.52 / x=-15885843.1, y=3277348.7, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH:48.57 / x=-15999698.1, y=3277546.6, layer=도로체인계획고, type=BLOCK_TEXT, source=virtual_block
+엄 지 말 뚝 / x=-15724846.0, y=3278334.0, layer=Text, type=BLOCK_TEXT, source=virtual_block
+H 형 강 / x=-15710991.0, y=3278334.0, layer=Text, type=BLOCK_TEXT, source=virtual_block
+SHP275(W) / x=-15680666.3, y=3278334.0, layer=Text, type=BLOCK_TEXT, source=virtual_block
+H-300X300X10X15 / x=-15697690.2, y=3278341.3, layer=Text, type=BLOCK_TEXT, source=virtual_block
++40.50 / x=-15951003.8, y=3278966.2, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+H-300x300x10x15 / x=-15990250.1, y=3278984.8, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+P.C Strand Ø12.7mm / x=-15952558.6, y=3278984.8, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+도면화일명 / x=-15668864.4, y=3280162.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+DWG. FILE NAME / x=-15654864.4, y=3280162.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+엄지말뚝@1.5m / x=-15990588.4, y=3281063.0, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+제거식 E/ANCHOR / x=-15953159.4, y=3281063.0, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+S.G.R (%%C600 @500) / x=-15917830.8, y=3281149.7, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+40.617 / x=-15918073.4, y=3281163.9, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+S-1BL / x=-15809070.2, y=3281531.8, layer=_CT_택지현황, type=BLOCK_TEXT, source=virtual_block
+E / x=-15922174.8, y=3281639.7, layer=계산용단면, type=BLOCK_TEXT, source=virtual_block
+구 분 / x=-15723718.3, y=3281861.5, layer=Text, type=BLOCK_TEXT, source=virtual_block
+사 용 자 재 / x=-15713017.1, y=3281861.5, layer=Text, type=BLOCK_TEXT, source=virtual_block
+규 격 (MM) / x=-15695432.7, y=3281861.5, layer=Text, type=BLOCK_TEXT, source=virtual_block
+재 질 / x=-15679750.6, y=3281861.5, layer=Text, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.98 / x=-15980375.2, y=3283021.0, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+C.I.P (Ø500 @500) / x=-15990588.4, y=3283097.8, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+40.957 / x=-15976536.0, y=3284143.8, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.96 / x=-15976536.0, y=3284143.9, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+B1 / x=-15973304.9, y=3285210.5, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+B2 / x=-15968204.9, y=3285214.9, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+B7 / x=-15940906.8, y=3285227.9, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+B4 / x=-15955954.9, y=3285227.9, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+B6 / x=-15944954.9, y=3285228.5, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+B8 / x=-15934054.9, y=3285228.5, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+B9 / x=-15929654.9, y=3285228.5, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+B3 / x=-15961454.9, y=3285228.5, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+B5 / x=-15950454.9, y=3285241.5, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+■ 재료표 / x=-15727963.2, y=3285248.2, layer=-$$범례TEXT, type=BLOCK_TEXT, source=virtual_block
+40.957 / x=-15977102.4, y=3286062.0, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+40.957 / x=-15977102.4, y=3286062.0, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+설계번호 / x=-15668864.4, y=3287662.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+PROJECT NO. / x=-15654864.4, y=3287662.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+40.038 / x=-15977668.7, y=3287980.1, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+X1 / x=-15902796.3, y=3288029.9, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+연결녹지 / x=-15725390.8, y=3288321.9, layer=_CT_택지현황, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.84 / x=-15961179.2, y=3288635.0, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+40.845 / x=-15961179.2, y=3288635.0, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+40.038 / x=-15977873.2, y=3288672.4, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH(L):41.03 / x=-15980867.0, y=3288711.9, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+X2 / x=-15897038.7, y=3289718.3, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+40.845 / x=-15961745.6, y=3290553.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
++40.50 / x=-15909659.6, y=3291057.6, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+2025. 11. / x=-15658386.1, y=3291537.7, layer=Text, type=BLOCK_TEXT, source=virtual_block
+X3 / x=-15890323.9, y=3291696.3, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+D1 / x=-15883426.2, y=3291884.5, layer=계산용단면, type=BLOCK_TEXT, source=virtual_block
+39.845 / x=-15962312.0, y=3292471.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+X4 / x=-15885044.9, y=3293239.6, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+FH:40.54 / x=-15901951.2, y=3294235.4, layer=도로체인계획고, type=BLOCK_TEXT, source=virtual_block
+40.705 / x=-15941983.2, y=3294249.0, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.70 / x=-15941983.2, y=3294249.0, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+41.079 / x=-15979530.5, y=3294285.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+NO.35 / x=-15900348.4, y=3294704.2, layer=도로체인번호, type=BLOCK_TEXT, source=virtual_block
+X5 / x=-15879769.7, y=3294796.5, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+일 자 / x=-15668864.4, y=3295162.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+DATE / x=-15654864.4, y=3295162.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+X6 / x=-15876670.8, y=3295689.2, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+40.705 / x=-15942549.6, y=3296167.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH(L):41.10 / x=-15980319.7, y=3296958.0, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+X7 / x=-15871391.8, y=3297232.5, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+39.705 / x=-15943116.0, y=3298085.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+1 / / x=-15650837.2, y=3298162.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+1,000 / x=-15647111.3, y=3298186.9, layer=TEXT-ER, type=TEXT, source=modelspace
+A3 / x=-15665375.9, y=3298194.1, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+X8 / x=-15864673.4, y=3299198.0, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+FH:40.57 / x=-15921739.4, y=3299648.5, layer=도로체인계획고, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.57 / x=-15922787.3, y=3299863.0, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+40.570 / x=-15922787.3, y=3299863.0, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+41.117 / x=-15981187.8, y=3299898.0, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+NO.0 / x=-15923623.0, y=3300139.6, layer=도로체인번호, type=BLOCK_TEXT, source=virtual_block
+026 / x=-15979104.5, y=3300210.5, layer=$$_PILE, type=BLOCK_TEXT, source=virtual_block
+001 / x=-15942047.9, y=3300210.5, layer=$$_PILE, type=BLOCK_TEXT, source=virtual_block
+492 / x=-15937922.6, y=3300210.5, layer=$$_PILE, type=BLOCK_TEXT, source=virtual_block
+X9 / x=-15860402.3, y=3300447.1, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+1 / / x=-15650837.2, y=3301412.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+500 / x=-15645518.8, y=3301436.9, layer=TEXT-ER, type=TEXT, source=modelspace
+A1 / x=-15665375.9, y=3301563.2, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+40.570 / x=-15923353.6, y=3301781.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+40.570 / x=-15923353.6, y=3301781.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
++40.57 / x=-15871874.4, y=3302108.2, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+X10 / x=-15853194.1, y=3302553.3, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+NO. 22 / x=-15986331.2, y=3303192.4, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+FH:43.59 / x=-15985219.1, y=3303531.0, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+39.570 / x=-15923920.0, y=3303699.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+축 척 / x=-15668864.4, y=3305162.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+SCALE / x=-15654864.4, y=3305162.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.68 / x=-15903591.3, y=3305477.0, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+40.684 / x=-15903591.3, y=3305477.0, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+X11 / x=-15836761.6, y=3307345.0, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+40.684 / x=-15904157.6, y=3307395.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+40.684 / x=-15904157.6, y=3307395.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+NO. 21+16.00 / x=-15983681.7, y=3308344.2, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+주 임 : 이진영 02-881-5622 / x=-15668873.2, y=3309185.2, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+39.684 / x=-15904724.0, y=3309313.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+X12 / x=-15829886.6, y=3309355.6, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
++49.80 / x=-16009722.2, y=3310235.8, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+S=1:2.0 / x=-15930123.6, y=3310563.1, layer=터파기, type=BLOCK_TEXT, source=virtual_block
+D / x=-15821915.5, y=3310672.2, layer=계산용단면, type=BLOCK_TEXT, source=virtual_block
++40.69 / x=-15842246.2, y=3310773.2, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+X13 / x=-15824611.4, y=3310912.5, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+EL+35.04m / x=-15959300.7, y=3311019.6, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+40.746 / x=-15884395.3, y=3311091.0, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.75 / x=-15884395.3, y=3311091.0, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+차 장 : 구명석 02-881-5624 / x=-15668873.2, y=3311685.2, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+EL(+)38.09 / x=-15922164.0, y=3311798.5, layer=터파기, type=BLOCK_TEXT, source=virtual_block
+X14 / x=-15819328.8, y=3312443.3, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+40.746 / x=-15884961.7, y=3313009.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+615동 / x=-15956917.6, y=3313580.1, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+X15 / x=-15814053.7, y=3314000.2, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+이 사 : 진광석 02-881-5550 / x=-15668873.2, y=3314185.2, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+A1 / x=-15993154.4, y=3314510.4, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+39.746 / x=-15885528.0, y=3314927.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+20M 도로 / x=-15839494.8, y=3315309.4, layer=_CT_택지현황, type=BLOCK_TEXT, source=virtual_block
+X16 / x=-15808774.8, y=3315544.1, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+S=1:2.0 / x=-15911805.5, y=3315714.6, layer=터파기, type=BLOCK_TEXT, source=virtual_block
+H-29 / x=-15935731.6, y=3315740.1, layer=#시추위치_탄성파탐사, type=BLOCK_TEXT, source=virtual_block
+H-30 / x=-15974273.9, y=3315778.7, layer=#시추위치_탄성파탐사, type=BLOCK_TEXT, source=virtual_block
+H-1 / x=-15903161.2, y=3316254.8, layer=#시추위치_탄성파탐사, type=BLOCK_TEXT, source=virtual_block
+X17 / x=-15806074.0, y=3316319.8, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+H-300x300x10x15 / x=-15824295.4, y=3316369.9, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+H-300x200x9x14 / x=-15791021.1, y=3316369.9, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+H-300x300x10x15 / x=-15807377.7, y=3316369.9, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+H-300x200x9x14 / x=-15773411.7, y=3316369.9, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+A-1BL / x=-15693410.9, y=3316647.9, layer=_CT_택지현황, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.81 / x=-15865199.3, y=3316705.0, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+40.807 / x=-15865199.3, y=3316705.0, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+(대표번호 : 031-8069-8602) / x=-15668873.2, y=3317685.2, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+POST PILE / x=-15790966.4, y=3318243.1, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+WALE / x=-15824355.4, y=3318243.1, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+CORNER STRUT / x=-15807391.3, y=3318243.1, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+BEAM / x=-15773425.3, y=3318243.1, layer=-$$TEXT, type=BLOCK_TEXT, source=virtual_block
+X18 / x=-15799359.2, y=3318297.7, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+S=1:2.0 / x=-15923643.7, y=3318338.0, layer=터파기, type=BLOCK_TEXT, source=virtual_block
+40.807 / x=-15865765.7, y=3318623.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
++40.80 / x=-15814367.5, y=3318926.5, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+A2 / x=-15993154.4, y=3319214.7, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+38.11 / x=-15743568.6, y=3320185.1, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+설계담당자 / x=-15668873.2, y=3320185.2, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+X19 / x=-15792640.6, y=3320262.6, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+39.807 / x=-15866332.1, y=3320541.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+F / x=-15787680.4, y=3321001.6, layer=계산용단면, type=BLOCK_TEXT, source=virtual_block
+40.859 / x=-15852666.3, y=3321140.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.86 / x=-15848454.3, y=3321602.2, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+FH:40.84 / x=-15805952.7, y=3322310.9, layer=도로체인계획고, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.87 / x=-15846003.3, y=3322319.1, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+40.867 / x=-15846003.3, y=3322319.1, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+X20 / x=-15784963.5, y=3322512.4, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+NO.40 / x=-15804349.8, y=3322779.7, layer=도로체인번호, type=BLOCK_TEXT, source=virtual_block
+40.859 / x=-15853232.7, y=3323058.4, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
++51.50 / x=-16034563.6, y=3323602.1, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+F1 / x=-15775958.6, y=3323694.3, layer=계산용단면, type=BLOCK_TEXT, source=virtual_block
+정 진 교 / x=-15652945.9, y=3324162.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+40.867 / x=-15846569.7, y=3324237.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+X21 / x=-15778787.0, y=3324300.1, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+39.859 / x=-15853799.1, y=3324976.5, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+E / x=-15935169.5, y=3326072.6, layer=계산용단면, type=BLOCK_TEXT, source=virtual_block
+39.867 / x=-15847136.1, y=3326155.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+X22 / x=-15772069.7, y=3326269.1, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+A3 / x=-15993154.4, y=3326428.3, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
++40.90 / x=-15784770.6, y=3327582.3, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+PROFESSIONAL ENG. NAME / x=-15659364.4, y=3327787.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+X23 / x=-15766794.5, y=3327826.0, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+40.928 / x=-15826807.4, y=3327933.1, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.93 / x=-15826807.4, y=3327933.1, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+NO. 21 / x=-15973083.5, y=3328951.5, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+기술사명 / x=-15659364.4, y=3329287.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+FH:41.59 / x=-15971971.4, y=3329290.1, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+X24 / x=-15761511.9, y=3329356.8, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+39.47 / x=-15717218.1, y=3329601.7, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+40.928 / x=-15827373.7, y=3329851.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+A4 / x=-15993154.4, y=3330427.8, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+0.8m 치환 / x=-15865266.6, y=3330476.4, layer=Defpoint, type=BLOCK_TEXT, source=virtual_block
+DESIGN / x=-15668170.2, y=3330912.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+X25 / x=-15756236.8, y=3330913.7, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+G / x=-15753063.9, y=3330956.9, layer=계산용단면, type=BLOCK_TEXT, source=virtual_block
+400 / x=-15815614.7, y=3331102.3, layer=$$_PILE, type=BLOCK_TEXT, source=virtual_block
+EL+33.24m / x=-15873992.5, y=3331182.2, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+39.928 / x=-15827940.1, y=3331769.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+X26 / x=-15753040.6, y=3331848.5, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+설 계 / x=-15667159.2, y=3333412.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+FH(L):40.99 / x=-15807611.4, y=3333547.1, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+40.989 / x=-15807611.4, y=3333547.1, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+전기실/발전기실 / x=-15876559.3, y=3333742.7, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+X27 / x=-15746318.3, y=3333800.3, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+(주)대웅엔지니어링그룹건축사사무소 / x=-15659474.4, y=3334561.5, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+NO.0 / x=-15726473.3, y=3334877.4, layer=도로체인번호, type=BLOCK_TEXT, source=virtual_block
+X28 / x=-15741403.1, y=3335251.9, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+H-5 / x=-15836221.1, y=3335326.3, layer=#시추위치_탄성파탐사, type=BLOCK_TEXT, source=virtual_block
+40.358 / x=-15974988.3, y=3335402.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
++41.00 / x=-15757264.8, y=3335430.5, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+40.989 / x=-15808177.7, y=3335465.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+D1 / x=-15896421.0, y=3336317.5, layer=계산용단면, type=BLOCK_TEXT, source=virtual_block
+405 / x=-15817695.4, y=3336689.9, layer=$$_PILE, type=BLOCK_TEXT, source=virtual_block
+FH:41.17 / x=-15725982.3, y=3336761.0, layer=도로체인계획고, type=BLOCK_TEXT, source=virtual_block
+39.989 / x=-15808744.1, y=3337383.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+A5 / x=-15993154.4, y=3337441.3, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+H-31 / x=-15872826.2, y=3337927.9, layer=#시추위치_탄성파탐사, type=BLOCK_TEXT, source=virtual_block
+FH(L):41.05 / x=-15788415.4, y=3339161.1, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+41.050 / x=-15788415.4, y=3339161.1, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+DRAWING OFFICE NAME / x=-15659364.4, y=3339287.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+설계사무소명 / x=-15659364.4, y=3340787.7, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+41.396 / x=-15976645.6, y=3341015.0, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+41.050 / x=-15788981.8, y=3341079.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
++48.70 / x=-16010116.4, y=3341564.4, layer=LEVEL, type=BLOCK_TEXT, source=virtual_block
+EL+31.54m / x=-15908237.8, y=3341915.5, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+S=1:1.5 / x=-15912424.1, y=3341936.8, layer=터파기, type=BLOCK_TEXT, source=virtual_block
+A6 / x=-15993154.4, y=3342328.3, layer=열넘버-ER, type=BLOCK_TEXT, source=virtual_block
+40.050 / x=-15789548.1, y=3342997.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+1.6m 치환 / x=-15819160.9, y=3343304.0, layer=Defpoint, type=BLOCK_TEXT, source=virtual_block
+FH(R):46.67 / x=-15998243.3, y=3343535.2, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+46.667 / x=-15998243.4, y=3343535.4, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+372 / x=-15770755.9, y=3344151.2, layer=$$_PILE, type=BLOCK_TEXT, source=virtual_block
+601동 / x=-15905854.7, y=3344476.0, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+EL+33.54m / x=-15828136.7, y=3344481.3, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+EL(+)35.44 / x=-15790195.2, y=3344527.7, layer=터파기, type=BLOCK_TEXT, source=virtual_block
+대 리 : 우기범 070-4742-2715 / x=-15668873.2, y=3344685.2, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+41.111 / x=-15769219.4, y=3344775.1, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH(L):41.11 / x=-15769219.4, y=3344775.1, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+EL+35.44m / x=-15796505.3, y=3345378.5, layer=T-text, type=BLOCK_TEXT, source=virtual_block
+41.433 / x=-15978302.8, y=3346627.8, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+NO. 20 / x=-15957451.5, y=3346635.6, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+41.111 / x=-15769785.8, y=3346693.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH:41.43 / x=-15978714.1, y=3346787.1, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+FH:40.51 / x=-15956339.4, y=3346974.3, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+열교환실 / x=-15827159.9, y=3347041.8, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+H-27 / x=-15942823.1, y=3347113.3, layer=#시추위치_탄성파탐사, type=BLOCK_TEXT, source=virtual_block
+과 장 : 김찬우 070-4633-4355 / x=-15668873.2, y=3347185.2, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+근생PIT / x=-15794875.7, y=3347939.0, layer=RGB255, type=BLOCK_TEXT, source=virtual_block
+FH:41.15 / x=-15705608.2, y=3348500.5, layer=도로체인계획고, type=BLOCK_TEXT, source=virtual_block
+40.111 / x=-15770352.2, y=3348611.3, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+H-32 / x=-15801910.3, y=3349264.6, layer=#시추위치_탄성파탐사, type=BLOCK_TEXT, source=virtual_block
+실 장 : 송봉건 02-6238-2714 / x=-15668873.2, y=3349685.2, layer=FTEXT, type=BLOCK_TEXT, source=virtual_block
+NO.0 / x=-15706076.9, y=3350103.3, layer=도로체인번호, type=BLOCK_TEXT, source=virtual_block
+FH(L):41.17 / x=-15750023.4, y=3350389.1, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+41.172 / x=-15750023.4, y=3350389.1, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH(L):41.19 / x=-15744589.0, y=3351978.3, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block
+41.190 / x=-15744597.1, y=3352005.7, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+41.172 / x=-15750589.8, y=3352307.2, layer=블록계획고점, type=BLOCK_TEXT, source=virtual_block
+FH(L):41.20 / x=-15742669.4, y=3352539.7, layer=블럭체인계획고, type=BLOCK_TEXT, source=virtual_block

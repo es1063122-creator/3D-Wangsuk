@@ -1,0 +1,906 @@
+﻿using System.Collections.Generic;
+using UnityEngine;
+
+public class WangsukFullModelBuilder : MonoBehaviour
+{
+    public ModelGroupRegistry registry;
+
+    [Header("C-605 PF/CIP 표현")]
+    public float pfLineWidth = 0.45f;
+    public float pfWallHeight = 6.0f;
+    public float pfWallThickness = 0.35f;
+
+    public float cipRadius = 0.26f;
+    public float cipHeight = 7.5f;
+
+    [Header("WALE 띠장 단수")]
+    public bool buildWaleLevel1 = true;
+    public bool buildWaleLevel2 = true;
+    public bool buildWaleLevel3 = true;
+
+    // 기존 도면 검토값 기준
+    public float waleDepth1 = 0.6f;
+    public float waleDepth2 = 3.6f;
+    public float waleDepth3 = 5.6f;
+
+    public float waleWidth = 0.42f;
+    public float waleHeight = 0.28f;
+    public float waleOffsetFromWall = 0.10f;
+
+    private Material pfLineMaterial;
+    private Material pfWallMaterial;
+    private Material cipMaterial;
+    private Material cipTopMaterial;
+    private Material waleMaterial;
+
+    private void Awake()
+    {
+        if (registry == null)
+            registry = GetComponent<ModelGroupRegistry>();
+
+        if (registry == null)
+            registry = gameObject.AddComponent<ModelGroupRegistry>();
+
+        registry.Init();
+        CreateDefaultMaterials();
+    }
+
+    private Material MakeOpaqueMat(string name, Color color)
+    {
+        Material mat = new Material(Shader.Find("Standard"));
+        mat.name = name;
+        mat.color = color;
+        return mat;
+    }
+
+    private Material MakeTransparentMat(string name, Color color, float alpha)
+    {
+        Material mat = new Material(Shader.Find("Standard"));
+        mat.name = name;
+
+        Color c = color;
+        c.a = alpha;
+        mat.color = c;
+
+        mat.SetFloat("_Mode", 3);
+        mat.SetInt("_SrcBlend", (int)UnityEngine.Rendering.BlendMode.SrcAlpha);
+        mat.SetInt("_DstBlend", (int)UnityEngine.Rendering.BlendMode.OneMinusSrcAlpha);
+        mat.SetInt("_ZWrite", 0);
+        mat.DisableKeyword("_ALPHATEST_ON");
+        mat.EnableKeyword("_ALPHABLEND_ON");
+        mat.DisableKeyword("_ALPHAPREMULTIPLY_ON");
+        mat.renderQueue = 3000;
+
+        return mat;
+    }
+
+    private void CreateDefaultMaterials()
+    {
+        pfLineMaterial = MakeOpaqueMat("C605_PF_Line_Red", new Color(1.0f, 0.05f, 0.02f));
+        pfWallMaterial = MakeTransparentMat("C605_PF_Wall_Red_Transparent", new Color(1.0f, 0.05f, 0.02f), 0.38f);
+
+        cipMaterial = MakeTransparentMat("C605_CIP_Cyan_Transparent", new Color(0.0f, 0.75f, 1.0f), 0.42f);
+        cipTopMaterial = MakeOpaqueMat("C605_CIP_Top_Cyan", new Color(0.0f, 0.95f, 1.0f));
+
+        // 띠장: 도면 검토용으로 노랑/주황
+        waleMaterial = MakeOpaqueMat("C605_WALE_2H_Orange", new Color(1.0f, 0.65f, 0.0f));
+    }
+
+    public void BuildAll()
+    {
+        ClearAll();
+
+        registry = GetComponent<ModelGroupRegistry>();
+        if (registry == null)
+            registry = gameObject.AddComponent<ModelGroupRegistry>();
+
+        registry.root = null;
+        registry.Init();
+
+        BuildPFPolyline("c605_pf_hpile.json", "PF_HPILE");
+        BuildCIPCylinders("c605_cip.json", "CIP");
+
+        // C-612~C-619 굴착계획 전개도 기준:
+        // 구간별 2단 / 3단 띠장 적용
+        BuildWaleLevelsByPfCenters("c605_pf_hpile.json", "WALE");
+
+        // C-605 평면도 STRUT / BEAM-BRACING 레이어 기준
+        // C-612~C-619 전개도 분석 결과 STRUT는 WALE 1단 높이군과 일치.
+        // 따라서 현재는 STRUT_L1 / CORNER_STRUT_L1 1단만 생성한다.
+        BuildStrutPlanFromDxf("c605_strut_plan.json", "STRUT_L1");
+
+        // C-605 평면도 Anchor_1단 / ANCHOR 레이어 기준
+        // 길이 1000 이상 본체만 ANCHOR_L1로 생성
+        BuildAnchorL1FromDxf("c605_anchor_l1.json", "ANCHOR_L1");
+
+        GameObject root = GameObject.Find("Wangsuk_CAD_3D_ROOT");
+        if (root != null)
+        {
+            WangsukSceneNormalizer.NormalizeRootToOrigin(root, 3f);
+        }
+
+        Debug.Log("C-605 PF/CIP + WALE 단수 반영 모델 생성 완료");
+    }
+
+    public void ClearAll()
+    {
+        GameObject oldRoot = GameObject.Find("Wangsuk_CAD_3D_ROOT");
+        if (oldRoot != null)
+            DestroyImmediate(oldRoot);
+    }
+
+    private void BuildPFPolyline(string fileName, string groupKey)
+    {
+        WangsukDxfGroupData data = DxfJsonLoader.LoadGroup(fileName);
+        if (data == null || data.entities == null)
+            return;
+
+        GameObject group = registry.GetGroup(groupKey);
+        if (group == null)
+            return;
+
+        int lineCreated = 0;
+        int wallCreated = 0;
+
+        foreach (var e in data.entities)
+        {
+            if (!e.has_points || e.points == null || e.points.Count < 2)
+                continue;
+
+            List<Vector3> pts = ConvertEntityPoints(e, 0.2f);
+
+            GameObject lineObj = new GameObject("C605_PF_TOP_LINE_" + lineCreated);
+            lineObj.transform.SetParent(group.transform, false);
+
+            LineRenderer lr = lineObj.AddComponent<LineRenderer>();
+            lr.useWorldSpace = false;
+            SetLineRendererPoints(lr, pts, e.closed);
+
+            lr.startWidth = pfLineWidth;
+            lr.endWidth = pfLineWidth;
+            lr.numCapVertices = 6;
+            lr.numCornerVertices = 6;
+
+            if (pfLineMaterial != null)
+                lr.material = pfLineMaterial;
+
+            lineCreated++;
+
+            int segCount = e.closed && pts.Count > 2 ? pts.Count : pts.Count - 1;
+
+            for (int i = 0; i < segCount; i++)
+            {
+                Vector3 a = pts[i];
+                Vector3 b = pts[(i + 1) % pts.Count];
+
+                float len = Vector3.Distance(a, b);
+                if (len < 0.05f)
+                    continue;
+
+                Vector3 mid = (a + b) * 0.5f;
+                Vector3 dir = (b - a).normalized;
+
+                GameObject wall = GameObject.CreatePrimitive(PrimitiveType.Cube);
+                wall.name = "C605_PF_WALL_SEG_" + wallCreated;
+                wall.transform.SetParent(group.transform, false);
+
+                wall.transform.position = new Vector3(mid.x, -pfWallHeight * 0.5f, mid.z);
+                wall.transform.localScale = new Vector3(pfWallThickness, pfWallHeight, len);
+                wall.transform.rotation = Quaternion.LookRotation(dir, Vector3.up);
+
+                if (pfWallMaterial != null)
+                    wall.GetComponent<Renderer>().material = pfWallMaterial;
+
+                wallCreated++;
+            }
+        }
+
+        Debug.Log("C605 PF 상단라인 생성: " + lineCreated);
+        Debug.Log("C605 PF 벽체패널 생성: " + wallCreated);
+    }
+
+    private void BuildCIPCylinders(string fileName, string groupKey)
+    {
+        WangsukDxfGroupData data = DxfJsonLoader.LoadGroup(fileName);
+        if (data == null || data.entities == null)
+            return;
+
+        GameObject group = registry.GetGroup(groupKey);
+        if (group == null)
+            return;
+
+        int created = 0;
+
+        foreach (var e in data.entities)
+        {
+            if (!e.has_center || e.center == null)
+                continue;
+
+            Vector3 pos = CadCoordinateSystem.ToUnityPoint(e.center);
+
+            GameObject obj = GameObject.CreatePrimitive(PrimitiveType.Cylinder);
+            obj.name = "C605_CIP_" + created;
+            obj.transform.SetParent(group.transform, true);
+
+            obj.transform.position = new Vector3(pos.x, -cipHeight / 2f, pos.z);
+            obj.transform.localScale = new Vector3(cipRadius * 2f, cipHeight / 2f, cipRadius * 2f);
+
+            if (cipMaterial != null)
+                obj.GetComponent<Renderer>().material = cipMaterial;
+
+            GameObject cap = GameObject.CreatePrimitive(PrimitiveType.Cylinder);
+            cap.name = "C605_CIP_TOP_" + created;
+            cap.transform.SetParent(group.transform, true);
+            cap.transform.position = new Vector3(pos.x, 0.18f, pos.z);
+            cap.transform.localScale = new Vector3(cipRadius * 2.15f, 0.08f, cipRadius * 2.15f);
+
+            if (cipTopMaterial != null)
+                cap.GetComponent<Renderer>().material = cipTopMaterial;
+
+            created++;
+        }
+
+        Debug.Log("C605 CIP 원형말뚝 생성: " + created);
+        Debug.Log("C605 CIP 상단캡 생성: " + created);
+    }
+
+    private void BuildWaleLevelsFromPF(string fileName, string groupKey)
+    {
+        WangsukDxfGroupData data = DxfJsonLoader.LoadGroup(fileName);
+        if (data == null || data.entities == null)
+            return;
+
+        GameObject group = registry.GetGroup(groupKey);
+        if (group == null)
+        {
+            Debug.LogWarning("WALE 그룹 없음: " + groupKey);
+            return;
+        }
+
+        int created = 0;
+
+        foreach (var e in data.entities)
+        {
+            if (!e.has_points || e.points == null || e.points.Count < 2)
+                continue;
+
+            if (buildWaleLevel1)
+                created += BuildWaleBeamSegments(e, waleDepth1, "L1_0.6m");
+
+            if (buildWaleLevel2)
+                created += BuildWaleBeamSegments(e, waleDepth2, "L2_3.6m");
+
+            if (buildWaleLevel3)
+                created += BuildWaleBeamSegments(e, waleDepth3, "L3_5.6m");
+        }
+
+        Debug.Log("C605 WALE 단수 띠장 생성: " + created + " / levels="
+            + (buildWaleLevel1 ? "1" : "")
+            + (buildWaleLevel2 ? ",2" : "")
+            + (buildWaleLevel3 ? ",3" : ""));
+    }
+
+    private int BuildWaleBeamSegments(WangsukDxfEntity e, float depthMeter, string levelName)
+    {
+        GameObject group = registry.GetGroup("WALE");
+        if (group == null)
+            return 0;
+
+        List<Vector3> pts = ConvertEntityPoints(e, -depthMeter);
+
+        int segCount = e.closed && pts.Count > 2 ? pts.Count : pts.Count - 1;
+        int created = 0;
+
+        for (int i = 0; i < segCount; i++)
+        {
+            Vector3 a = pts[i];
+            Vector3 b = pts[(i + 1) % pts.Count];
+
+            float len = Vector3.Distance(a, b);
+            if (len < 0.08f)
+                continue;
+
+            Vector3 mid = (a + b) * 0.5f;
+            Vector3 dir = (b - a).normalized;
+
+            GameObject beam = GameObject.CreatePrimitive(PrimitiveType.Cube);
+            beam.name = "C605_WALE_2H_" + levelName + "_" + created;
+            beam.transform.SetParent(group.transform, false);
+
+            // Z축 방향이 부재 길이
+            beam.transform.position = mid;
+            beam.transform.localScale = new Vector3(waleWidth, waleHeight, len);
+            beam.transform.rotation = Quaternion.LookRotation(dir, Vector3.up);
+
+            // 벽체와 겹침을 조금 줄이기 위해 아주 살짝 안쪽/밖쪽으로 띄움
+            beam.transform.position += beam.transform.right * waleOffsetFromWall;
+
+            if (waleMaterial != null)
+                beam.GetComponent<Renderer>().material = waleMaterial;
+
+            created++;
+        }
+
+        return created;
+    }
+
+    private List<Vector3> ConvertEntityPoints(WangsukDxfEntity e, float y)
+    {
+        List<Vector3> pts = new List<Vector3>();
+
+        foreach (var p in e.points)
+        {
+            Vector3 v = CadCoordinateSystem.ToUnityPoint(p);
+            v.y = y;
+            pts.Add(v);
+        }
+
+        return pts;
+    }
+
+    private void SetLineRendererPoints(LineRenderer lr, List<Vector3> pts, bool closed)
+    {
+        if (closed && pts.Count > 2)
+        {
+            lr.positionCount = pts.Count + 1;
+            for (int i = 0; i < pts.Count; i++)
+                lr.SetPosition(i, pts[i]);
+            lr.SetPosition(pts.Count, pts[0]);
+        }
+        else
+        {
+            lr.positionCount = pts.Count;
+            lr.SetPositions(pts.ToArray());
+        }
+    }
+
+    private int GetWaleLevelByPfNo(int pfNo)
+    {
+        // 굴착계획 전개도 C-612~C-619 기준 1차 반영
+        // 2단 구간: P001~P097, P365~P405, P492~P001 폐합부
+        // 3단 구간: P097~P365, P405~P492
+
+        if (pfNo >= 1 && pfNo <= 97)
+            return 2;
+
+        if (pfNo >= 98 && pfNo <= 365)
+            return 3;
+
+        if (pfNo >= 366 && pfNo <= 405)
+            return 2;
+
+        if (pfNo >= 406 && pfNo <= 492)
+            return 3;
+
+        return 2;
+    }
+
+    private void BuildWaleLevelsByPfNo(string fileName, string groupKey)
+    {
+        WangsukDxfGroupData data = DxfJsonLoader.LoadGroup(fileName);
+        if (data == null || data.entities == null)
+        {
+            Debug.LogError("WALE 생성 실패: PF JSON 데이터 없음");
+            return;
+        }
+
+        GameObject group = registry.GetGroup(groupKey);
+
+        if (group == null)
+        {
+            GameObject root = GameObject.Find("Wangsuk_CAD_3D_ROOT");
+            if (root == null)
+            {
+                root = new GameObject("Wangsuk_CAD_3D_ROOT");
+            }
+
+            group = new GameObject("WALE");
+            group.transform.SetParent(root.transform, false);
+
+            Debug.LogWarning("WALE 그룹이 Registry에 없어 강제 생성했습니다.");
+        }
+
+        int created = 0;
+        int pfNo = 1;
+        int entityCount = 0;
+        int pointEntityCount = 0;
+
+        foreach (var e in data.entities)
+        {
+            entityCount++;
+
+            if (!e.has_points || e.points == null || e.points.Count < 2)
+            {
+                pfNo++;
+                continue;
+            }
+
+            pointEntityCount++;
+
+            int levels = GetWaleLevelByPfNo(pfNo);
+
+            if (levels >= 1)
+                created += BuildWaleBeamSegmentsToGroup(group, e, waleDepth1, "P" + pfNo.ToString("000") + "_L1_0.6m");
+
+            if (levels >= 2)
+                created += BuildWaleBeamSegmentsToGroup(group, e, waleDepth2, "P" + pfNo.ToString("000") + "_L2_3.6m");
+
+            if (levels >= 3)
+                created += BuildWaleBeamSegmentsToGroup(group, e, waleDepth3, "P" + pfNo.ToString("000") + "_L3_5.6m");
+
+            pfNo++;
+        }
+
+        Debug.Log("========== WALE 생성 진단 ==========");
+        Debug.Log("PF JSON entityCount = " + entityCount);
+        Debug.Log("PF points entityCount = " + pointEntityCount);
+        Debug.Log("C605 WALE 구간별 단수 생성 = " + created);
+        Debug.Log("WALE 기준: P001~P097=2단, P098~P365=3단, P366~P405=2단, P406~P492=3단");
+        Debug.Log("==================================");
+    }
+
+    private int BuildWaleBeamSegmentsToGroup(GameObject group, WangsukDxfEntity e, float depthMeter, string levelName)
+    {
+        if (group == null)
+            return 0;
+
+        List<Vector3> pts = ConvertEntityPoints(e, -depthMeter);
+
+        int segCount = e.closed && pts.Count > 2 ? pts.Count : pts.Count - 1;
+        int created = 0;
+
+        for (int i = 0; i < segCount; i++)
+        {
+            Vector3 a = pts[i];
+            Vector3 b = pts[(i + 1) % pts.Count];
+
+            float len = Vector3.Distance(a, b);
+            if (len < 0.08f)
+                continue;
+
+            Vector3 mid = (a + b) * 0.5f;
+            Vector3 dir = (b - a).normalized;
+
+            GameObject beam = GameObject.CreatePrimitive(PrimitiveType.Cube);
+            beam.name = "C605_WALE_VISIBLE_2H_" + levelName + "_" + created;
+            beam.transform.SetParent(group.transform, false);
+
+            beam.transform.position = mid;
+
+            // 일단 확실히 보이게 크게 표현
+            beam.transform.localScale = new Vector3(
+                Mathf.Max(waleWidth, 0.85f),
+                Mathf.Max(waleHeight, 0.45f),
+                len
+            );
+
+            beam.transform.rotation = Quaternion.LookRotation(dir, Vector3.up);
+
+            // PF 벽과 겹치지 않도록 오른쪽 방향으로 살짝 띄움
+            beam.transform.position += beam.transform.right * 0.45f;
+
+            Renderer r = beam.GetComponent<Renderer>();
+            if (waleMaterial != null)
+            {
+                r.material = waleMaterial;
+            }
+            else
+            {
+                Material mat = new Material(Shader.Find("Standard"));
+                mat.color = new Color(1f, 0.75f, 0f, 1f);
+                r.material = mat;
+            }
+
+            created++;
+        }
+
+        return created;
+    }
+
+    private Vector3 GetEntityCenterPoint(WangsukDxfEntity e, float y)
+    {
+        Vector3 sum = Vector3.zero;
+        int count = 0;
+
+        if (e == null || e.points == null)
+            return Vector3.zero;
+
+        foreach (var p in e.points)
+        {
+            Vector3 v = CadCoordinateSystem.ToUnityPoint(p);
+            sum += v;
+            count++;
+        }
+
+        if (count <= 0)
+            return Vector3.zero;
+
+        Vector3 center = sum / count;
+        center.y = y;
+        return center;
+    }
+
+    private void BuildWaleLevelsByPfCenters(string fileName, string groupKey)
+    {
+        WangsukDxfGroupData data = DxfJsonLoader.LoadGroup(fileName);
+        if (data == null || data.entities == null)
+        {
+            Debug.LogError("WALE 중심점 생성 실패: PF JSON 데이터 없음");
+            return;
+        }
+
+        GameObject group = registry.GetGroup(groupKey);
+
+        if (group == null)
+        {
+            GameObject root = GameObject.Find("Wangsuk_CAD_3D_ROOT");
+            if (root == null)
+                root = new GameObject("Wangsuk_CAD_3D_ROOT");
+
+            group = new GameObject("WALE");
+            group.transform.SetParent(root.transform, false);
+
+            Debug.LogWarning("WALE 그룹이 없어 강제 생성했습니다.");
+        }
+
+        List<Vector3> centers = new List<Vector3>();
+
+        foreach (var e in data.entities)
+        {
+            if (!e.has_points || e.points == null || e.points.Count < 2)
+                continue;
+
+            centers.Add(GetEntityCenterPoint(e, 0f));
+        }
+
+        int created = 0;
+
+        for (int i = 0; i < centers.Count - 1; i++)
+        {
+            int pfNo = i + 1;
+            int levels = GetWaleLevelByPfNo(pfNo);
+
+            Vector3 a = centers[i];
+            Vector3 b = centers[i + 1];
+
+            float dist = Vector3.Distance(a, b);
+
+            // 너무 큰 점프는 DXF 순서가 끊긴 구간일 가능성이 있어 제외
+            if (dist > 20f)
+                continue;
+
+            // 코너에서 띠장이 서로 과하게 겹쳐 삼각형처럼 보이는 현상 완화
+            Vector3 trimDir = (b - a).normalized;
+            float trim = Mathf.Min(0.25f, dist * 0.20f);
+            a += trimDir * trim;
+            b -= trimDir * trim;
+
+            if (levels >= 1)
+                created += CreateWaleBeamBetweenCenters(group, a, b, waleDepth1, "P" + pfNo.ToString("000") + "_L1_0.6m");
+
+            if (levels >= 2)
+                created += CreateWaleBeamBetweenCenters(group, a, b, waleDepth2, "P" + pfNo.ToString("000") + "_L2_3.6m");
+
+            if (levels >= 3)
+                created += CreateWaleBeamBetweenCenters(group, a, b, waleDepth3, "P" + pfNo.ToString("000") + "_L3_5.6m");
+        }
+
+        Debug.Log("========== WALE 중심점 생성 진단 ==========");
+        Debug.Log("PF center count = " + centers.Count);
+        Debug.Log("C605 WALE 중심점 기반 생성 = " + created);
+        Debug.Log("WALE 기준: P001~P097=2단, P098~P365=3단, P366~P405=2단, P406~P492=3단");
+        Debug.Log("========================================");
+    }
+
+    private int CreateWaleBeamBetweenCenters(GameObject group, Vector3 a, Vector3 b, float depthMeter, string levelName)
+    {
+        if (group == null)
+            return 0;
+
+        a.y = -depthMeter;
+        b.y = -depthMeter;
+
+        Vector3 dir = b - a;
+        float len = dir.magnitude;
+
+        if (len < 0.05f)
+            return 0;
+
+        Vector3 mid = (a + b) * 0.5f;
+
+        GameObject beam = GameObject.CreatePrimitive(PrimitiveType.Cube);
+        beam.name = "C605_WALE_CENTER_2H_" + levelName;
+        beam.transform.SetParent(group.transform, false);
+
+        beam.transform.position = mid;
+
+        // 2H 띠장처럼 눈에 보이게 두껍게 표현
+        beam.transform.localScale = new Vector3(1.05f, 0.55f, len);
+        beam.transform.rotation = Quaternion.LookRotation(dir.normalized, Vector3.up);
+
+        Material mat = new Material(Shader.Find("Standard"));
+        mat.color = new Color(1f, 0.72f, 0f, 1f);
+        beam.GetComponent<Renderer>().material = mat;
+
+        return 1;
+    }
+
+
+    private void BuildStrutPlanFromDxf(string fileName, string groupKey)
+    {
+        WangsukDxfGroupData data = DxfJsonLoader.LoadGroup(fileName);
+        if (data == null || data.entities == null)
+        {
+            Debug.LogError("C605 STRUT PLAN JSON 없음 또는 비어 있음: " + fileName);
+            return;
+        }
+
+        GameObject group = registry.GetGroup(groupKey);
+
+        GameObject root = GameObject.Find("Wangsuk_CAD_3D_ROOT");
+        if (root == null)
+            root = new GameObject("Wangsuk_CAD_3D_ROOT");
+
+        if (group == null)
+        {
+            group = new GameObject(groupKey);
+            group.transform.SetParent(root.transform, false);
+            Debug.LogWarning(groupKey + " 그룹이 없어 강제 생성했습니다.");
+        }
+
+        GameObject cornerGroup = registry.GetGroup("CORNER_STRUT_L1");
+        if (cornerGroup == null)
+        {
+            cornerGroup = new GameObject("CORNER_STRUT_L1");
+            cornerGroup.transform.SetParent(root.transform, false);
+            Debug.LogWarning("CORNER_STRUT_L1 그룹이 없어 강제 생성했습니다.");
+        }
+
+        int strutCreated = 0;
+        int beamBracingCreated = 0;
+
+        foreach (var e in data.entities)
+        {
+            if (!e.has_points || e.points == null || e.points.Count < 2)
+                continue;
+
+            string layer = e.layer != null ? e.layer.ToUpper() : "";
+
+            if (layer.Contains("BEAM-BRACING"))
+            {
+                // C-605 BEAM-BRACING 검토 결과:
+                // 긴 부재 2개는 코너 스트러트 본체, 짧은 200mm급 부재 2개는 단부/보강선 후보.
+                // Unity 좌표 변환 후 길이가 0.5 미만인 것은 단부선으로 보고 일단 제외. C-605 검토상 0.861 부재는 코너스트러트 본체.
+                List<Vector3> checkPts = ConvertEntityPoints(e, -waleDepth1);
+
+                if (checkPts == null || checkPts.Count < 2)
+                    continue;
+
+                float checkLen = Vector3.Distance(checkPts[0], checkPts[checkPts.Count - 1]);
+
+                if (checkLen < 0.5f)
+                {
+                    Debug.Log("BEAM-BRACING 짧은 단부/보강선 제외: len=" + checkLen.ToString("F3"));
+                    continue;
+                }
+
+                beamBracingCreated += CreateStrutPlanPolyline(cornerGroup, e, -waleDepth1, "CORNER_STRUT_BODY_L1", true);
+            }
+            else
+            {
+                strutCreated += CreateStrutPlanPolyline(group, e, -waleDepth1, "STRUT_BODY_L1", false);
+            }
+        }
+
+        Debug.Log("========== C605 STRUT / CORNER STRUT 생성 ==========");
+        Debug.Log("STRUT_L1 일반 버팀 본체 생성: " + strutCreated);
+        Debug.Log("CORNER_STRUT_L1 본체 생성: " + beamBracingCreated);
+        Debug.Log("도면 검토 결과: 일반 STRUT는 C-605 STRUT 레이어 기준, CORNER STRUT는 BEAM-BRACING 긴 부재만 본체로 생성.");
+        Debug.Log("========================================");
+    }
+
+    private int CreateStrutPlanPolyline(GameObject group, WangsukDxfEntity e, float y, string label, bool isBeamBracing)
+    {
+        List<Vector3> pts = ConvertEntityPoints(e, y);
+
+        int segCount = e.closed && pts.Count > 2 ? pts.Count : pts.Count - 1;
+        int created = 0;
+
+        Material mat = new Material(Shader.Find("Standard"));
+
+        if (isBeamBracing)
+            mat.color = new Color(1.0f, 0.05f, 0.75f, 1f);   // 코너/대각 후보: 진한 분홍
+        else
+            mat.color = new Color(0.65f, 0.1f, 1.0f, 1f);     // 일반 버팀: 보라
+
+        for (int i = 0; i < segCount; i++)
+        {
+            Vector3 a = pts[i];
+            Vector3 b = pts[(i + 1) % pts.Count];
+
+            Vector3 dir = b - a;
+            float len = dir.magnitude;
+
+            if (len < 0.20f)
+                continue;
+
+            // 코너에서 세그먼트가 과도하게 겹쳐 삼각형처럼 보이는 현상 방지
+            Vector3 forward = dir.normalized;
+            float endTrim = Mathf.Min(0.20f, len * 0.25f);
+            a += forward * endTrim;
+            b -= forward * endTrim;
+
+            dir = b - a;
+            len = dir.magnitude;
+
+            if (len < 0.10f)
+                continue;
+
+            GameObject beam = GameObject.CreatePrimitive(PrimitiveType.Cube);
+            beam.name = "C605_" + label + "_" + created;
+            beam.transform.SetParent(group.transform, false);
+
+            beam.transform.position = (a + b) * 0.5f;
+
+            // 검토용이라 우선 눈에 보이게 표현
+            float width = isBeamBracing ? 0.90f : 0.65f;
+            float height = isBeamBracing ? 0.70f : 0.55f;
+
+            beam.transform.localScale = new Vector3(width, height, len);
+            beam.transform.rotation = Quaternion.LookRotation(dir.normalized, Vector3.up);
+            beam.GetComponent<Renderer>().material = mat;
+
+            created++;
+        }
+
+        return created;
+    }
+
+
+    private void BuildAnchorL1FromDxf(string fileName, string groupKey)
+    {
+        WangsukDxfGroupData data = DxfJsonLoader.LoadGroup(fileName);
+        if (data == null || data.entities == null)
+        {
+            Debug.LogError("C605 ANCHOR_L1 JSON 없음 또는 비어 있음: " + fileName);
+            return;
+        }
+
+        GameObject root = GameObject.Find("Wangsuk_CAD_3D_ROOT");
+        if (root == null)
+            root = new GameObject("Wangsuk_CAD_3D_ROOT");
+
+        GameObject group = registry.GetGroup(groupKey);
+        if (group == null)
+        {
+            group = new GameObject(groupKey);
+            group.transform.SetParent(root.transform, false);
+            Debug.LogWarning(groupKey + " 그룹이 없어 강제 생성했습니다.");
+        }
+
+        List<Vector3> pfCentersForAnchor = LoadPfCentersForAnchorHead();
+
+        int created = 0;
+        foreach (var e in data.entities)
+        {
+            created += CreateAnchorPolyline(group, e, -waleDepth1, "ANCHOR_L1", pfCentersForAnchor);
+        }
+
+        Debug.Log("========== C605 ANCHOR 생성 ==========");
+        Debug.Log("ANCHOR_L1 본체 생성: " + created);
+        Debug.Log("도면 기준: C-605 Anchor_1단 / ANCHOR 레이어 중 길이 1000 이상 + PF 주변 앵커만 사용. 화면표시는 벽체 기준 4m로 축소.");
+        Debug.Log("====================================");
+    }
+
+    private int CreateAnchorPolyline(GameObject group, WangsukDxfEntity e, float y, string label, List<Vector3> pfCenters)
+    {
+        List<Vector3> pts = ConvertEntityPoints(e, y);
+        if (pts == null || pts.Count < 2)
+            return 0;
+
+        Vector3 p0 = pts[0];
+        Vector3 p1 = pts[pts.Count - 1];
+
+        Vector3 anchorHead = p0;
+        Vector3 anchorTail = p1;
+
+        // PF/CIP 벽체에 더 가까운 끝점을 앵커 머리점으로 사용
+        if (pfCenters != null && pfCenters.Count > 0)
+        {
+            float p0Dist = GetNearestDistanceXZ(p0, pfCenters);
+            float p1Dist = GetNearestDistanceXZ(p1, pfCenters);
+
+            if (p1Dist < p0Dist)
+            {
+                anchorHead = p1;
+                anchorTail = p0;
+            }
+
+            float headDistSq = GetNearestDistanceXZ(anchorHead, pfCenters);
+
+            // C-605 ANCHOR 레이어에는 실제 평면 앵커 외에 도면 외곽/상세/기호성 선도 포함됨.
+            // PF/CIP 벽체에서 너무 먼 앵커는 3D 모델 Bounds를 망가뜨리므로 제외.
+            if (headDistSq > 400f) // 20유닛 거리 제곱
+            {
+                return 0;
+            }
+        }
+
+        Vector3 dir = anchorTail - anchorHead;
+        float originalLen = dir.magnitude;
+
+        if (originalLen < 0.10f)
+            return 0;
+
+        dir.Normalize();
+
+        // 실제 앵커는 너무 길어서 3D 검토 화면을 망가뜨리므로 표시 길이를 제한한다.
+        // CAD 원본 길이는 JSON에 보존되어 있고, Unity에서는 벽체 외측 방향 표시용으로 짧게 표현.
+        float displayLen = Mathf.Min(originalLen, 4.0f);
+
+        Vector3 a = anchorHead;
+        Vector3 b = anchorHead + dir * displayLen;
+
+        GameObject anchor = GameObject.CreatePrimitive(PrimitiveType.Cube);
+        anchor.name = "C605_" + label;
+
+        anchor.transform.SetParent(group.transform, false);
+        anchor.transform.position = (a + b) * 0.5f;
+
+        anchor.transform.localScale = new Vector3(0.08f, 0.08f, displayLen);
+        anchor.transform.rotation = Quaternion.LookRotation(dir.normalized, Vector3.up);
+
+        Material mat = new Material(Shader.Find("Standard"));
+        mat.color = new Color(0.75f, 1.0f, 0.10f, 1f);
+        anchor.GetComponent<Renderer>().material = mat;
+
+        return 1;
+    }
+
+
+    private List<Vector3> LoadPfCentersForAnchorHead()
+    {
+        List<Vector3> centers = new List<Vector3>();
+
+        WangsukDxfGroupData pfData = DxfJsonLoader.LoadGroup("c605_pf_hpile.json");
+        if (pfData == null || pfData.entities == null)
+        {
+            Debug.LogWarning("ANCHOR 머리점 매칭용 PF JSON 없음");
+            return centers;
+        }
+
+        foreach (var pf in pfData.entities)
+        {
+            List<Vector3> pts = ConvertEntityPoints(pf, -waleDepth1);
+            if (pts == null || pts.Count == 0)
+                continue;
+
+            Vector3 sum = Vector3.zero;
+            foreach (var p in pts)
+                sum += p;
+
+            centers.Add(sum / pts.Count);
+        }
+
+        Debug.Log("ANCHOR 머리점 매칭용 PF center count = " + centers.Count);
+        return centers;
+    }
+
+    private float GetNearestDistanceXZ(Vector3 p, List<Vector3> centers)
+    {
+        float best = float.MaxValue;
+
+        foreach (var c in centers)
+        {
+            float dx = p.x - c.x;
+            float dz = p.z - c.z;
+            float d = dx * dx + dz * dz;
+
+            if (d < best)
+                best = d;
+        }
+
+        return best;
+    }
+
+}

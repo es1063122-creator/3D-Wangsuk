@@ -1,0 +1,99 @@
+도면 기반 지층 레벨 1차 추정 결과
+====================================================================================================
+C-106~110 단지횡단면도 주상도 텍스트 위치 기반 1차 추정. 최종 검토 필요.
+
+[추정 레벨]
+매립층: EL 39.418 ~ EL 36.949 / center=38.218 / samples=68
+퇴적층: EL 36.949 ~ EL 33.9 / center=35.681 / samples=162
+풍화토: EL 33.9 ~ EL 31.348 / center=32.12 / samples=54
+풍화암: EL 31.348 ~ EL 29.442 / center=30.576 / samples=54
+보통암: EL 29.442 ~ EL 25.809 / center=28.309 / samples=18
+
+[층별 중심 EL 샘플]
+매립층: count=68, avg=38.218, min=36.717, max=39.680
+퇴적층: count=162, avg=35.681, min=32.637, max=37.930
+풍화토: count=54, avg=32.120, min=30.461, max=33.065
+풍화암: count=54, avg=30.576, min=27.711, max=33.145
+보통암: count=18, avg=28.309, min=27.687, max=29.562
+
+[샘플 일부]
+매립층 / estimatedEL=38.345 / sourceEL=39.497 / dy=1.152 / x=4820.8, y=2718.1
+퇴적층 / estimatedEL=36.595 / sourceEL=39.497 / dy=2.902 / x=4820.8, y=2716.4
+퇴적층 / estimatedEL=34.645 / sourceEL=39.497 / dy=4.852 / x=4820.8, y=2714.4
+풍화암 / estimatedEL=33.145 / sourceEL=39.497 / dy=6.352 / x=4820.8, y=2712.9
+보통암 / estimatedEL=27.745 / sourceEL=39.497 / dy=11.752 / x=4820.8, y=2707.5
+매립층 / estimatedEL=37.744 / sourceEL=38.346 / dy=0.602 / x=4879.9, y=2717.5
+퇴적층 / estimatedEL=36.894 / sourceEL=38.346 / dy=1.452 / x=4879.9, y=2716.7
+퇴적층 / estimatedEL=34.344 / sourceEL=38.346 / dy=4.002 / x=4879.9, y=2714.1
+풍화토 / estimatedEL=31.494 / sourceEL=38.346 / dy=6.852 / x=4879.9, y=2711.3
+퇴적층 / estimatedEL=35.994 / sourceEL=38.346 / dy=2.352 / x=4879.9, y=2715.8
+매립층 / estimatedEL=39.680 / sourceEL=41.182 / dy=1.502 / x=4953.7, y=2719.5
+퇴적층 / estimatedEL=37.930 / sourceEL=41.182 / dy=3.252 / x=4953.7, y=2717.7
+퇴적층 / estimatedEL=34.930 / sourceEL=41.182 / dy=6.252 / x=4953.7, y=2714.7
+풍화암 / estimatedEL=30.680 / sourceEL=41.182 / dy=10.502 / x=4953.7, y=2710.5
+풍화토 / estimatedEL=32.430 / sourceEL=41.182 / dy=8.752 / x=4953.7, y=2712.2
+퇴적층 / estimatedEL=36.680 / sourceEL=41.182 / dy=4.502 / x=4953.7, y=2716.5
+매립층 / estimatedEL=38.345 / sourceEL=39.497 / dy=1.152 / x=4820.8, y=2773.1
+퇴적층 / estimatedEL=36.595 / sourceEL=39.497 / dy=2.902 / x=4820.8, y=2771.4
+퇴적층 / estimatedEL=34.645 / sourceEL=39.497 / dy=4.852 / x=4820.8, y=2769.4
+풍화암 / estimatedEL=33.145 / sourceEL=39.497 / dy=6.352 / x=4820.8, y=2767.9
+보통암 / estimatedEL=27.745 / sourceEL=39.497 / dy=11.752 / x=4820.8, y=2762.5
+매립층 / estimatedEL=37.744 / sourceEL=38.346 / dy=0.602 / x=4879.9, y=2772.5
+퇴적층 / estimatedEL=36.894 / sourceEL=38.346 / dy=1.452 / x=4879.9, y=2771.7
+퇴적층 / estimatedEL=34.344 / sourceEL=38.346 / dy=4.002 / x=4879.9, y=2769.1
+풍화토 / estimatedEL=31.494 / sourceEL=38.346 / dy=6.852 / x=4879.9, y=2766.3
+퇴적층 / estimatedEL=35.994 / sourceEL=38.346 / dy=2.352 / x=4879.9, y=2770.8
+매립층 / estimatedEL=39.680 / sourceEL=41.182 / dy=1.502 / x=4953.7, y=2774.5
+퇴적층 / estimatedEL=37.930 / sourceEL=41.182 / dy=3.252 / x=4953.7, y=2772.7
+퇴적층 / estimatedEL=34.930 / sourceEL=41.182 / dy=6.252 / x=4953.7, y=2769.7
+풍화암 / estimatedEL=30.680 / sourceEL=41.182 / dy=10.502 / x=4953.7, y=2765.5
+풍화토 / estimatedEL=32.430 / sourceEL=41.182 / dy=8.752 / x=4953.7, y=2767.2
+퇴적층 / estimatedEL=36.680 / sourceEL=41.182 / dy=4.502 / x=4953.7, y=2771.5
+매립층 / estimatedEL=37.900 / sourceEL=38.552 / dy=0.652 / x=4820.9, y=2827.7
+퇴적층 / estimatedEL=37.100 / sourceEL=38.552 / dy=1.452 / x=4820.9, y=2826.9
+풍화암 / estimatedEL=32.350 / sourceEL=38.552 / dy=6.202 / x=4820.9, y=2822.1
+풍화토 / estimatedEL=33.050 / sourceEL=38.552 / dy=5.502 / x=4820.9, y=2822.8
+퇴적층 / estimatedEL=35.100 / sourceEL=38.552 / dy=3.452 / x=4820.9, y=2824.9
+매립층 / estimatedEL=37.935 / sourceEL=38.537 / dy=0.602 / x=4851.8, y=2827.7
+퇴적층 / estimatedEL=37.035 / sourceEL=38.537 / dy=1.502 / x=4851.8, y=2826.8
+퇴적층 / estimatedEL=34.885 / sourceEL=38.537 / dy=3.652 / x=4851.8, y=2824.7
+풍화토 / estimatedEL=33.035 / sourceEL=38.537 / dy=5.502 / x=4851.8, y=2822.8
+매립층 / estimatedEL=38.698 / sourceEL=39.35 / dy=0.652 / x=4935.2, y=2828.5
+퇴적층 / estimatedEL=37.448 / sourceEL=39.35 / dy=1.902 / x=4935.2, y=2827.2
+풍화암 / estimatedEL=31.848 / sourceEL=39.35 / dy=7.502 / x=4935.2, y=2821.6
+풍화토 / estimatedEL=32.598 / sourceEL=39.35 / dy=6.752 / x=4935.2, y=2822.4
+퇴적층 / estimatedEL=34.848 / sourceEL=39.35 / dy=4.502 / x=4935.2, y=2824.6
+매립층 / estimatedEL=38.334 / sourceEL=38.986 / dy=0.652 / x=5156.0, y=2718.1
+퇴적층 / estimatedEL=37.484 / sourceEL=38.986 / dy=1.502 / x=5156.0, y=2717.3
+풍화암 / estimatedEL=31.384 / sourceEL=38.986 / dy=7.602 / x=5156.0, y=2711.2
+풍화토 / estimatedEL=32.434 / sourceEL=38.986 / dy=6.552 / x=5156.0, y=2712.2
+퇴적층 / estimatedEL=35.084 / sourceEL=38.986 / dy=3.902 / x=5156.0, y=2714.9
+매립층 / estimatedEL=38.384 / sourceEL=39.036 / dy=0.652 / x=5233.4, y=2718.2
+퇴적층 / estimatedEL=37.134 / sourceEL=39.036 / dy=1.902 / x=5233.4, y=2716.9
+풍화암 / estimatedEL=31.034 / sourceEL=39.036 / dy=8.002 / x=5233.4, y=2710.8
+풍화토 / estimatedEL=32.784 / sourceEL=39.036 / dy=6.252 / x=5233.4, y=2712.6
+퇴적층 / estimatedEL=35.034 / sourceEL=39.036 / dy=4.002 / x=5233.4, y=2714.8
+매립층 / estimatedEL=37.873 / sourceEL=38.475 / dy=0.602 / x=5295.7, y=2717.7
+퇴적층 / estimatedEL=37.223 / sourceEL=38.475 / dy=1.252 / x=5295.7, y=2717.0
+퇴적층 / estimatedEL=35.073 / sourceEL=38.475 / dy=3.402 / x=5295.7, y=2714.9
+풍화암 / estimatedEL=30.223 / sourceEL=38.475 / dy=8.252 / x=5295.7, y=2710.0
+풍화토 / estimatedEL=32.223 / sourceEL=38.475 / dy=6.252 / x=5295.7, y=2712.0
+매립층 / estimatedEL=38.114 / sourceEL=38.716 / dy=0.602 / x=5201.6, y=2772.9
+퇴적층 / estimatedEL=37.114 / sourceEL=38.716 / dy=1.602 / x=5201.6, y=2771.9
+퇴적층 / estimatedEL=34.264 / sourceEL=38.716 / dy=4.452 / x=5201.6, y=2769.1
+풍화토 / estimatedEL=31.914 / sourceEL=38.716 / dy=6.802 / x=5201.6, y=2766.7
+퇴적층 / estimatedEL=36.064 / sourceEL=38.716 / dy=2.652 / x=5201.6, y=2770.9
+매립층 / estimatedEL=38.387 / sourceEL=39.139 / dy=0.752 / x=5271.6, y=2773.2
+퇴적층 / estimatedEL=37.387 / sourceEL=39.139 / dy=1.752 / x=5271.6, y=2772.2
+퇴적층 / estimatedEL=35.137 / sourceEL=39.139 / dy=4.002 / x=5271.6, y=2769.9
+풍화토 / estimatedEL=32.637 / sourceEL=39.139 / dy=6.502 / x=5271.6, y=2767.4
+퇴적층 / estimatedEL=36.637 / sourceEL=39.139 / dy=2.502 / x=5271.6, y=2771.4
+매립층 / estimatedEL=38.245 / sourceEL=38.897 / dy=0.652 / x=5294.0, y=2773.0
+퇴적층 / estimatedEL=36.695 / sourceEL=38.897 / dy=2.202 / x=5294.0, y=2771.5
+퇴적층 / estimatedEL=34.645 / sourceEL=38.897 / dy=4.252 / x=5294.0, y=2769.4
+퇴적층 / estimatedEL=37.545 / sourceEL=38.897 / dy=1.352 / x=5294.0, y=2772.3
+매립층 / estimatedEL=37.437 / sourceEL=38.539 / dy=1.102 / x=5152.4, y=2827.2
+퇴적층 / estimatedEL=35.587 / sourceEL=38.539 / dy=2.952 / x=5152.4, y=2825.4
+퇴적층 / estimatedEL=33.187 / sourceEL=38.539 / dy=5.352 / x=5152.4, y=2823.0
+풍화암 / estimatedEL=30.037 / sourceEL=38.539 / dy=8.502 / x=5152.4, y=2819.8
+풍화토 / estimatedEL=31.037 / sourceEL=38.539 / dy=7.502 / x=5152.4, y=2820.8

@@ -1,0 +1,8 @@
+﻿StreamingAssets/WangsukDXF/SourceDXF/
+StreamingAssets/WangsukDXF/SourceDXF/**
+StreamingAssets/WangsukDXF/**/*.zip
+StreamingAssets/WangsukDXF/**/*.dxf
+StreamingAssets/WangsukDXF/**/*.dwg
+*.zip
+*.dxf
+*.dwg

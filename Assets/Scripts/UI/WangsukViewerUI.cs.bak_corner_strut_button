@@ -1,0 +1,135 @@
+﻿using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
+
+public class WangsukViewerUI : MonoBehaviour
+{
+    public WangsukFullModelBuilder builder;
+    public ModelGroupRegistry registry;
+    public WangsukFitView fitView;
+
+    private Canvas canvas;
+
+    private void Start()
+    {
+        if (builder == null) builder = FindObjectOfType<WangsukFullModelBuilder>();
+        if (registry == null) registry = FindObjectOfType<ModelGroupRegistry>();
+        if (fitView == null) fitView = FindObjectOfType<WangsukFitView>();
+
+        if (fitView == null && Camera.main != null)
+            fitView = Camera.main.gameObject.AddComponent<WangsukFitView>();
+
+        EnsureEventSystem();
+        CreateUI();
+    }
+
+    private void EnsureEventSystem()
+    {
+        if (FindObjectOfType<EventSystem>() != null)
+            return;
+
+        GameObject eventObj = new GameObject("EventSystem");
+        eventObj.AddComponent<EventSystem>();
+        eventObj.AddComponent<StandaloneInputModule>();
+    }
+
+    private void CreateUI()
+    {
+        GameObject canvasObj = new GameObject("Wangsuk_UI_Canvas");
+        canvas = canvasObj.AddComponent<Canvas>();
+        canvas.renderMode = RenderMode.ScreenSpaceOverlay;
+
+        CanvasScaler scaler = canvasObj.AddComponent<CanvasScaler>();
+        scaler.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
+        scaler.referenceResolution = new Vector2(1920, 1080);
+
+        canvasObj.AddComponent<GraphicRaycaster>();
+
+        CreateButton("PF+CIP 생성", 20, -20, 140, 40, () =>
+        {
+            if (builder != null)
+            {
+                builder.BuildAll();
+                if (fitView != null) fitView.Fit3D();
+            }
+        });
+
+        CreateButton("3D뷰", 170, -20, 80, 40, () =>
+        {
+            if (fitView != null) fitView.Fit3D();
+        });
+
+        CreateButton("평면뷰", 260, -20, 90, 40, () =>
+        {
+            if (fitView != null) fitView.FitTopView();
+        });
+
+        CreateButton("PF", 20, -70, 60, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("PF_HPILE");
+        });
+
+        CreateButton("CIP", 90, -70, 60, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("CIP");
+        });
+
+        CreateButton("띠장", 160, -70, 70, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("WALE");
+        });
+
+        CreateButton("버팀", 240, -70, 70, 36, () =>
+        {
+            if (registry != null) registry.ToggleGroup("STRUT");
+        });
+
+        CreateButton("전체보기", 20, -116, 90, 36, () =>
+        {
+            if (registry != null) registry.ShowAll();
+        });
+
+        CreateButton("전체숨김", 120, -116, 90, 36, () =>
+        {
+            if (registry != null) registry.HideAll();
+        });
+    }
+
+    private void CreateButton(string text, float x, float y, float w, float h, UnityEngine.Events.UnityAction action)
+    {
+        GameObject btnObj = new GameObject("BTN_" + text);
+        btnObj.transform.SetParent(canvas.transform, false);
+
+        RectTransform rt = btnObj.AddComponent<RectTransform>();
+        rt.anchorMin = new Vector2(0, 1);
+        rt.anchorMax = new Vector2(0, 1);
+        rt.pivot = new Vector2(0, 1);
+        rt.anchoredPosition = new Vector2(x, y);
+        rt.sizeDelta = new Vector2(w, h);
+
+        Image img = btnObj.AddComponent<Image>();
+        img.color = new Color(0.08f, 0.08f, 0.08f, 0.92f);
+
+        Button btn = btnObj.AddComponent<Button>();
+        btn.targetGraphic = img;
+        btn.onClick.AddListener(action);
+
+        GameObject txtObj = new GameObject("Text");
+        txtObj.transform.SetParent(btnObj.transform, false);
+
+        RectTransform trt = txtObj.AddComponent<RectTransform>();
+        trt.anchorMin = Vector2.zero;
+        trt.anchorMax = Vector2.one;
+        trt.offsetMin = Vector2.zero;
+        trt.offsetMax = Vector2.zero;
+
+        Text t = txtObj.AddComponent<Text>();
+        t.text = text;
+        t.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        t.fontSize = 15;
+        t.color = Color.white;
+        t.alignment = TextAnchor.MiddleCenter;
+        t.raycastTarget = false;
+    }
+}
+

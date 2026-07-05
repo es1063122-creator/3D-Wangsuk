@@ -1,0 +1,837 @@
+{
+  "name": "Wangsuk A-6BL Floor Review Candidates v2",
+  "status": "C-605 DXF TEXT/MTEXT/ATTRIB/BLOCK 텍스트 정밀 추출 후보",
+  "source_dxf": "C-605 굴착계획 평면도.dxf",
+  "markers": [
+    {
+      "label": "엄지말뚝을 H형강으로 적용 할 경우 KS F 4603에 적합한 제품을 사용하여야 한다.",
+      "category": "etc",
+      "color": "#CCCCCC",
+      "dxf_x": -15727258.853438834,
+      "dxf_y": 3256737.9707557755,
+      "layer": "Text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+49.90",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16029977.679271363,
+      "dxf_y": 3262139.9992205193,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "605",
+      "category": "etc",
+      "color": "#CCCCCC",
+      "dxf_x": -15652777.02152631,
+      "dxf_y": 3269399.575905489,
+      "layer": "TEXT-ER",
+      "entity_type": "TEXT",
+      "source": "modelspace"
+    },
+    {
+      "label": "+49.70",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16011434.813442046,
+      "dxf_y": 3276846.377277295,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+40.50",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15951003.789157096,
+      "dxf_y": 3278966.1969638267,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+40.50",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15909659.647805957,
+      "dxf_y": 3291057.5959905186,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+40.57",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15871874.357280709,
+      "dxf_y": 3302108.1828487613,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "NO. 21+16.00",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15983681.699356936,
+      "dxf_y": 3308344.2381294016,
+      "layer": "블럭체인계획고",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+49.80",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16009722.167043814,
+      "dxf_y": 3310235.755334189,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+40.69",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15842246.214132212,
+      "dxf_y": 3310773.151802545,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+35.04m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15959300.674983962,
+      "dxf_y": 3311019.6125862454,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL(+)38.09",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15922164.038255233,
+      "dxf_y": 3311798.4962087064,
+      "layer": "터파기",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "615동",
+      "category": "etc",
+      "color": "#CCCCCC",
+      "dxf_x": -15956917.56372398,
+      "dxf_y": 3313580.0904371007,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "(대표번호 : 031-8069-8602)",
+      "category": "etc",
+      "color": "#CCCCCC",
+      "dxf_x": -15668873.235333577,
+      "dxf_y": 3317685.1935041486,
+      "layer": "FTEXT",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+40.80",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15814367.46022958,
+      "dxf_y": 3318926.4989706655,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+51.50",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16034563.630361078,
+      "dxf_y": 3323602.1333912034,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+40.90",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15784770.627360031,
+      "dxf_y": 3327582.3110024747,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+33.24m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15873992.52447276,
+      "dxf_y": 3331182.179523408,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "전기실/발전기실",
+      "category": "electric",
+      "color": "#FFD84D",
+      "dxf_x": -15876559.311310604,
+      "dxf_y": 3333742.6573742633,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+41.00",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15757264.827229774,
+      "dxf_y": 3335430.5339198555,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+48.70",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16010116.35012478,
+      "dxf_y": 3341564.377277176,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+31.54m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15908237.826133696,
+      "dxf_y": 3341915.5074968617,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "601동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15905854.71487371,
+      "dxf_y": 3344475.985347717,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+33.54m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15828136.723167812,
+      "dxf_y": 3344481.314512545,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL(+)35.44",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15790195.182641849,
+      "dxf_y": 3344527.664194774,
+      "layer": "터파기",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+35.44m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15796505.271920398,
+      "dxf_y": 3345378.5245487425,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "열교환실",
+      "category": "heat",
+      "color": "#B06CFF",
+      "dxf_x": -15827159.861907829,
+      "dxf_y": 3347041.7923634,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "근생PIT",
+      "category": "pit",
+      "color": "#FF4D8D",
+      "dxf_x": -15794875.7272365,
+      "dxf_y": 3347939.002399598,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+35.04m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15962910.954232214,
+      "dxf_y": 3353831.3477208796,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "614동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15960527.842972232,
+      "dxf_y": 3356391.825571735,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+31.54m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15850695.701955443,
+      "dxf_y": 3357855.9346780484,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "603동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15848312.59069546,
+      "dxf_y": 3360416.4125289037,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+52.40",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16033636.327043729,
+      "dxf_y": 3365975.511447978,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+31.34m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15767228.81640144,
+      "dxf_y": 3369218.6966273165,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "605동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15764845.705141457,
+      "dxf_y": 3371779.174478172,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+47.40",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16009463.484295493,
+      "dxf_y": 3374227.377277295,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "NO. 15+2.55",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15864368.85326948,
+      "dxf_y": 3375500.181647802,
+      "layer": "블럭체인계획고",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+35.09m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15930107.99317625,
+      "dxf_y": 3380147.4497502516,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "지하1층주차장",
+      "category": "parking",
+      "color": "#4DC9FF",
+      "dxf_x": -15931792.816698877,
+      "dxf_y": 3382707.927601107,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+31.54m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15897483.800878769,
+      "dxf_y": 3392435.7330931765,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+31.54m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15850851.87008561,
+      "dxf_y": 3393419.451384108,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "602동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15895100.689618785,
+      "dxf_y": 3394996.210944032,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "지하2층주차장",
+      "category": "parking",
+      "color": "#4DC9FF",
+      "dxf_x": -15852536.693608237,
+      "dxf_y": 3395979.9292349634,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+35.04m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15962051.854558233,
+      "dxf_y": 3397596.580090147,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "613동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15959668.74329825,
+      "dxf_y": 3400157.0579410023,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+31.34m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15808199.808115264,
+      "dxf_y": 3401240.914703652,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+46.60",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16008227.484295463,
+      "dxf_y": 3402113.377277176,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "604동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15805816.69685528,
+      "dxf_y": 3403801.392554507,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "NO. 9+14.34",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15760613.242268465,
+      "dxf_y": 3406247.6698206905,
+      "layer": "블럭체인계획고",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "NO. 9+12.34",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15758695.670797251,
+      "dxf_y": 3406815.933188105,
+      "layer": "블럭체인계획고",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "NO. 9+10.34",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15756778.099246882,
+      "dxf_y": 3407384.1965258364,
+      "layer": "블럭체인계획고",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+32.44m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15958210.708414678,
+      "dxf_y": 3415540.660557413,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "저수조/펌프실",
+      "category": "pump",
+      "color": "#FF9A3D",
+      "dxf_x": -15959734.016991649,
+      "dxf_y": 3418101.1384082683,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+35.04m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15920750.05245504,
+      "dxf_y": 3420621.217941361,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "612동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15918366.941195054,
+      "dxf_y": 3423181.6957922163,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+40.55",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15734623.32873641,
+      "dxf_y": 3429257.034585971,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+31.54m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15885045.575630479,
+      "dxf_y": 3431614.4717029664,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "610동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15882662.464370493,
+      "dxf_y": 3434174.9495538217,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL(+)35.44",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15959421.419080423,
+      "dxf_y": 3440030.0098135746,
+      "layer": "터파기",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+45.30",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16000075.484295493,
+      "dxf_y": 3440066.3772774143,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+31.54m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15845037.874509374,
+      "dxf_y": 3444168.956715857,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "608동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15842654.763249388,
+      "dxf_y": 3446729.4345667125,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+35.04m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15924021.001911908,
+      "dxf_y": 3453442.6706103818,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "611동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15921637.890651923,
+      "dxf_y": 3456003.148461237,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+31.54m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15801660.708652204,
+      "dxf_y": 3456412.1592419003,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "진동 및 소음에 대한 관리 규정에 따라 계측을 실시하여 민원발생과",
+      "category": "etc",
+      "color": "#CCCCCC",
+      "dxf_x": -15728668.898557575,
+      "dxf_y": 3457616.3538584625,
+      "layer": "Text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "606동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15799277.597392218,
+      "dxf_y": 3458972.6370927556,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+44.70",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16015185.524104178,
+      "dxf_y": 3466124.475991364,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+35.04m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15869887.997003702,
+      "dxf_y": 3469836.267883523,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "609동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15867504.885743717,
+      "dxf_y": 3472396.745734378,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "(유관부서)의 사전 동의를 득한 후 시공하여야 한다.",
+      "category": "etc",
+      "color": "#CCCCCC",
+      "dxf_x": -15728621.414914988,
+      "dxf_y": 3477077.7953717792,
+      "layer": "Text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+43.70",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15969543.008295685,
+      "dxf_y": 3477912.0849634963,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "EL+35.04m",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15820922.275988262,
+      "dxf_y": 3484119.6030323063,
+      "layer": "T-text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "607동",
+      "category": "building",
+      "color": "#45F2B5",
+      "dxf_x": -15818539.164728278,
+      "dxf_y": 3486680.0808831616,
+      "layer": "RGB255",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+42.80",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15920621.96341923,
+      "dxf_y": 3491270.1893770383,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "A-6BL 공동주택",
+      "category": "etc",
+      "color": "#CCCCCC",
+      "dxf_x": -15662934.360006709,
+      "dxf_y": 3493537.696089293,
+      "layer": "form",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+41.00",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15752937.561285885,
+      "dxf_y": 3495826.05919618,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+41.70",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15874078.091290172,
+      "dxf_y": 3505268.346408334,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+52.80",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16031626.52456259,
+      "dxf_y": 3511013.1624558335,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+44.60",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -16010288.484295495,
+      "dxf_y": 3513374.377277295,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "변동이 발생하면 이에 따른 토목설계도 변경하여야 한다.",
+      "category": "etc",
+      "color": "#CCCCCC",
+      "dxf_x": -15728433.806998838,
+      "dxf_y": 3515433.9069352476,
+      "layer": "Text",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "NO. 9+9.90",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15788413.678909205,
+      "dxf_y": 3516078.1898782495,
+      "layer": "블럭체인계획고",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    },
+    {
+      "label": "+40.70",
+      "category": "el",
+      "color": "#FFFFFF",
+      "dxf_x": -15824900.81423324,
+      "dxf_y": 3517855.686548077,
+      "layer": "LEVEL",
+      "entity_type": "BLOCK_TEXT",
+      "source": "virtual_block"
+    }
+  ]
+}

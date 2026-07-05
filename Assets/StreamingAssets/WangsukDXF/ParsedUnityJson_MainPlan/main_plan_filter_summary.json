@@ -1,0 +1,56 @@
+[
+  {
+    "file": "wangsuk_pf_hpile.json",
+    "group": "PF_HPILE",
+    "before": 5068,
+    "after": 2584
+  },
+  {
+    "file": "wangsuk_cip.json",
+    "group": "CIP",
+    "before": 4537,
+    "after": 2974
+  },
+  {
+    "file": "wangsuk_wale.json",
+    "group": "WALE",
+    "before": 1653,
+    "after": 886
+  },
+  {
+    "file": "wangsuk_anchor.json",
+    "group": "ANCHOR",
+    "before": 4704,
+    "after": 2618
+  },
+  {
+    "file": "wangsuk_corner_strut.json",
+    "group": "CORNER_STRUT",
+    "before": 1926,
+    "after": 100
+  },
+  {
+    "file": "wangsuk_excavation.json",
+    "group": "EXCAVATION",
+    "before": 817,
+    "after": 425
+  },
+  {
+    "file": "wangsuk_ground_gl.json",
+    "group": "GROUND_GL",
+    "before": 669,
+    "after": 252
+  },
+  {
+    "file": "wangsuk_grid.json",
+    "group": "GRID",
+    "before": 1631,
+    "after": 769
+  },
+  {
+    "file": "wangsuk_building_parking.json",
+    "group": "BUILDING_PARKING",
+    "before": 3119,
+    "after": 2180
+  }
+]

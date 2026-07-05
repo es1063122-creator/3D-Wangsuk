@@ -1,0 +1,3408 @@
+{
+  "group": "C605_STRUT_PLAN",
+  "entity_count": 89,
+  "entities": [
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15773664.872478757,
+          "y": 3347323.094235393,
+          "z": 0.0
+        },
+        {
+          "x": -15774373.45145547,
+          "y": 3346028.747272686,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15774373.451226268,
+          "y": 3346028.7464889814,
+          "z": 0.0
+        },
+        {
+          "x": -15773966.24385273,
+          "y": 3346147.835342104,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15773966.244081933,
+          "y": 3346147.836125811,
+          "z": 0.0
+        },
+        {
+          "x": -15773401.724690381,
+          "y": 3347179.0363273984,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15773401.724690381,
+          "y": 3347179.0363273984,
+          "z": 0.0
+        },
+        {
+          "x": -15773664.872478757,
+          "y": 3347323.094235393,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15773388.76097053,
+          "y": 3347827.463762859,
+          "z": 0.0
+        },
+        {
+          "x": -15773244.701710295,
+          "y": 3348090.611876235,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15773244.701710295,
+          "y": 3348090.611876235,
+          "z": 0.0
+        },
+        {
+          "x": -15773125.612839974,
+          "y": 3347683.4044932197,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15773125.612839974,
+          "y": 3347683.4044932197,
+          "z": 0.0
+        },
+        {
+          "x": -15773388.76097053,
+          "y": 3347827.463762859,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15774169.847325962,
+          "y": 3346088.2903272486,
+          "z": 0.0
+        },
+        {
+          "x": -15773185.157283742,
+          "y": 3347887.008189473,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15774787.666079652,
+          "y": 3351162.269891488,
+          "z": 0.0
+        },
+        {
+          "x": -15778212.634290803,
+          "y": 3344905.9493581606,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15778212.634061601,
+          "y": 3344905.948574453,
+          "z": 0.0
+        },
+        {
+          "x": -15777805.426688064,
+          "y": 3345025.037427578,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15777805.426917266,
+          "y": 3345025.0382112823,
+          "z": 0.0
+        },
+        {
+          "x": -15774524.526368301,
+          "y": 3351018.216405192,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15774524.523771469,
+          "y": 3351018.214983576,
+          "z": 0.0
+        },
+        {
+          "x": -15774787.671559844,
+          "y": 3351162.2728915745,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15774511.560051616,
+          "y": 3351666.6424190393,
+          "z": 0.0
+        },
+        {
+          "x": -15774367.500791386,
+          "y": 3351929.7905324134,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15774367.500791386,
+          "y": 3351929.7905324134,
+          "z": 0.0
+        },
+        {
+          "x": -15774248.411921062,
+          "y": 3351522.5831494005,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15774248.411921062,
+          "y": 3351522.5831494005,
+          "z": 0.0
+        },
+        {
+          "x": -15774511.560051616,
+          "y": 3351666.6424190393,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15778009.032529611,
+          "y": 3344965.488086561,
+          "z": 0.0
+        },
+        {
+          "x": -15774307.956178252,
+          "y": 3351726.1862323545,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15779904.005986076,
+          "y": 3345055.918596701,
+          "z": 0.0
+        },
+        {
+          "x": -15774985.042665754,
+          "y": 3354041.344480969,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15774865.951120641,
+          "y": 3353634.135390114,
+          "z": 0.0
+        },
+        {
+          "x": -15779640.869993739,
+          "y": 3344911.867904892,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15774925.496453967,
+          "y": 3353837.738433695,
+          "z": 0.0
+        },
+        {
+          "x": -15780120.576651875,
+          "y": 3344347.955400423,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15778068.576141749,
+          "y": 3345169.0929624196,
+          "z": 0.0
+        },
+        {
+          "x": -15778212.633011237,
+          "y": 3344905.9435402593,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15778212.633011237,
+          "y": 3344905.9435402593,
+          "z": 0.0
+        },
+        {
+          "x": -15777805.426702403,
+          "y": 3345025.0360835283,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15780324.184621032,
+          "y": 3344288.409721464,
+          "z": 0.0
+        },
+        {
+          "x": -15779916.977247495,
+          "y": 3344407.49857459,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15779640.866529841,
+          "y": 3344911.866008625,
+          "z": 0.0
+        },
+        {
+          "x": -15779904.014637742,
+          "y": 3345055.9233329548,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15780180.12670118,
+          "y": 3344551.554109431,
+          "z": 0.0
+        },
+        {
+          "x": -15780324.183570672,
+          "y": 3344288.4046872673,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15780324.183570672,
+          "y": 3344288.4046872673,
+          "z": 0.0
+        },
+        {
+          "x": -15779916.977261838,
+          "y": 3344407.4972305372,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15779916.977261838,
+          "y": 3344407.4972305372,
+          "z": 0.0
+        },
+        {
+          "x": -15780180.12670118,
+          "y": 3344551.554109431,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15776293.04264393,
+          "y": 3345467.34753171,
+          "z": 0.0
+        },
+        {
+          "x": -15775885.835270394,
+          "y": 3345586.436384832,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15775609.72455274,
+          "y": 3346090.8038188703,
+          "z": 0.0
+        },
+        {
+          "x": -15775872.87266064,
+          "y": 3346234.8611432,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15776148.984724078,
+          "y": 3345730.491919676,
+          "z": 0.0
+        },
+        {
+          "x": -15776293.041593567,
+          "y": 3345467.3424975136,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15776293.041593567,
+          "y": 3345467.3424975136,
+          "z": 0.0
+        },
+        {
+          "x": -15775885.835284736,
+          "y": 3345586.435040782,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15775885.835284736,
+          "y": 3345586.435040782,
+          "z": 0.0
+        },
+        {
+          "x": -15776148.984724078,
+          "y": 3345730.491919676,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15775872.864008978,
+          "y": 3346234.856406945,
+          "z": 0.0
+        },
+        {
+          "x": -15773806.100668576,
+          "y": 3350010.1943401988,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15773687.012961585,
+          "y": 3349602.99837301,
+          "z": 0.0
+        },
+        {
+          "x": -15775609.728016634,
+          "y": 3346090.8057151376,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15773746.555428784,
+          "y": 3349806.5991768157,
+          "z": 0.0
+        },
+        {
+          "x": -15776089.434674773,
+          "y": 3345526.8932106653,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15811732.838633206,
+          "y": 3336189.8368014167,
+          "z": 0.0
+        },
+        {
+          "x": -15810438.490056943,
+          "y": 3335481.260772159,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15810438.489827748,
+          "y": 3335481.259988453,
+          "z": 0.0
+        },
+        {
+          "x": -15810845.696152605,
+          "y": 3335362.167549589,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15810845.696381807,
+          "y": 3335362.1683332953,
+          "z": 0.0
+        },
+        {
+          "x": -15811876.89603107,
+          "y": 3335926.688733771,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15811876.89603107,
+          "y": 3335926.688733771,
+          "z": 0.0
+        },
+        {
+          "x": -15811732.838633206,
+          "y": 3336189.8368014167,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15812237.207779568,
+          "y": 3336465.9490057933,
+          "z": 0.0
+        },
+        {
+          "x": -15812500.357161481,
+          "y": 3336610.005948817,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15812500.357161481,
+          "y": 3336610.005948817,
+          "z": 0.0
+        },
+        {
+          "x": -15812381.264732,
+          "y": 3336202.7996067028,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15812381.264732,
+          "y": 3336202.7996067028,
+          "z": 0.0
+        },
+        {
+          "x": -15812237.207779568,
+          "y": 3336465.9490057933,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15810642.092853073,
+          "y": 3335421.713158374,
+          "z": 0.0
+        },
+        {
+          "x": -15812440.810942046,
+          "y": 3336406.402786394,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15812855.63524041,
+          "y": 3340029.011578295,
+          "z": 0.0
+        },
+        {
+          "x": -15806599.306907859,
+          "y": 3336604.057613866,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15806599.306678656,
+          "y": 3336604.05683016,
+          "z": 0.0
+        },
+        {
+          "x": -15807006.513003517,
+          "y": 3336484.9643912963,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15807006.513232715,
+          "y": 3336484.9651750005,
+          "z": 0.0
+        },
+        {
+          "x": -15812999.688216593,
+          "y": 3339765.871587686,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15812999.689638197,
+          "y": 3339765.8689908492,
+          "z": 0.0
+        },
+        {
+          "x": -15812855.632240336,
+          "y": 3340029.017058497,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15813360.001386706,
+          "y": 3340305.1292628716,
+          "z": 0.0
+        },
+        {
+          "x": -15813623.150768612,
+          "y": 3340449.186205895,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15813623.150768612,
+          "y": 3340449.186205895,
+          "z": 0.0
+        },
+        {
+          "x": -15813504.05833913,
+          "y": 3340041.979863783,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15813504.05833913,
+          "y": 3340041.979863783,
+          "z": 0.0
+        },
+        {
+          "x": -15813360.001386706,
+          "y": 3340305.1292628716,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15806802.90537782,
+          "y": 3336544.507631769,
+          "z": 0.0
+        },
+        {
+          "x": -15813563.604375895,
+          "y": 3340245.582426287,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15806862.452924054,
+          "y": 3336748.111357072,
+          "z": 0.0
+        },
+        {
+          "x": -15806599.304850936,
+          "y": 3336604.052023308,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15806599.304850936,
+          "y": 3336604.052023308,
+          "z": 0.0
+        },
+        {
+          "x": -15807006.512267228,
+          "y": 3336484.9632667727,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15808518.898253199,
+          "y": 3336042.658409297,
+          "z": 0.0
+        },
+        {
+          "x": -15808926.10457806,
+          "y": 3335923.5659704334,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15809430.471930437,
+          "y": 3336199.6768372557,
+          "z": 0.0
+        },
+        {
+          "x": -15809286.413948908,
+          "y": 3336462.8245853814,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15808782.044498596,
+          "y": 3336186.712936211,
+          "z": 0.0
+        },
+        {
+          "x": -15808518.896425474,
+          "y": 3336042.653602445,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15808518.896425474,
+          "y": 3336042.653602445,
+          "z": 0.0
+        },
+        {
+          "x": -15808926.103841767,
+          "y": 3335923.5648459117,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15808926.103841767,
+          "y": 3335923.5648459117,
+          "z": 0.0
+        },
+        {
+          "x": -15808782.044498596,
+          "y": 3336186.712936211,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15809286.41868518,
+          "y": 3336462.8159337263,
+          "z": 0.0
+        },
+        {
+          "x": -15813061.750756972,
+          "y": 3338529.589981166,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15812942.663498651,
+          "y": 3338122.3938827603,
+          "z": 0.0
+        },
+        {
+          "x": -15809430.470034156,
+          "y": 3336199.680301146,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15813002.20981526,
+          "y": 3338325.9935607775,
+          "z": 0.0
+        },
+        {
+          "x": -15808722.505698014,
+          "y": 3335983.11093743,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15747818.343206555,
+          "y": 3365821.930103683,
+          "z": 0.0
+        },
+        {
+          "x": -15748526.92218326,
+          "y": 3364527.583140976,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15748119.714809723,
+          "y": 3364646.671994101,
+          "z": 0.0
+        },
+        {
+          "x": -15747555.195418172,
+          "y": 3365677.872195688,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15747542.231698327,
+          "y": 3366326.2996311486,
+          "z": 0.0
+        },
+        {
+          "x": -15747398.172438093,
+          "y": 3366589.4477445246,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15747398.172438093,
+          "y": 3366589.4477445246,
+          "z": 0.0
+        },
+        {
+          "x": -15747279.083567768,
+          "y": 3366182.2403615094,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15747279.083567768,
+          "y": 3366182.2403615094,
+          "z": 0.0
+        },
+        {
+          "x": -15747542.231698327,
+          "y": 3366326.2996311486,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15748323.31805376,
+          "y": 3364587.1261955383,
+          "z": 0.0
+        },
+        {
+          "x": -15747338.628011532,
+          "y": 3366385.8440577625,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15787376.788541805,
+          "y": 3501084.189825895,
+          "z": 0.0
+        },
+        {
+          "x": -15788671.137117952,
+          "y": 3501792.7658553575,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15788263.930793073,
+          "y": 3501911.858294156,
+          "z": 0.0
+        },
+        {
+          "x": -15787232.7311439,
+          "y": 3501347.3378935163,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15787232.7311439,
+          "y": 3501347.3378935163,
+          "z": 0.0
+        },
+        {
+          "x": -15787376.788541805,
+          "y": 3501084.189825895,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15786872.419395484,
+          "y": 3500808.077621436,
+          "z": 0.0
+        },
+        {
+          "x": -15786609.270013597,
+          "y": 3500664.0206783735,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15786609.270013597,
+          "y": 3500664.0206783735,
+          "z": 0.0
+        },
+        {
+          "x": -15786728.362443015,
+          "y": 3501071.2270205044,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15786728.362443015,
+          "y": 3501071.2270205044,
+          "z": 0.0
+        },
+        {
+          "x": -15786872.419395484,
+          "y": 3500808.077621436,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15788467.534321819,
+          "y": 3501852.3134691105,
+          "z": 0.0
+        },
+        {
+          "x": -15786668.816232998,
+          "y": 3500867.6238408056,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15974639.060897224,
+          "y": 3305496.2027527345,
+          "z": 0.0
+        },
+        {
+          "x": -15973595.647464123,
+          "y": 3304452.7916958015,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15973595.647464126,
+          "y": 3304452.790879268,
+          "z": 0.0
+        },
+        {
+          "x": -15974019.91153283,
+          "y": 3304452.78901127,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15974019.911532834,
+          "y": 3304452.789827804,
+          "z": 0.0
+        },
+        {
+          "x": -15974851.192065258,
+          "y": 3305284.0711734407,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15974851.192065258,
+          "y": 3305284.0711734407,
+          "z": 0.0
+        },
+        {
+          "x": -15974639.060897224,
+          "y": 3305496.2027527345,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15975045.6477446,
+          "y": 3305902.790161239,
+          "z": 0.0
+        },
+        {
+          "x": -15975257.780712992,
+          "y": 3306114.921261633,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15975257.780712992,
+          "y": 3306114.921261633,
+          "z": 0.0
+        },
+        {
+          "x": -15975257.778858837,
+          "y": 3305690.657178996,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15975257.778858837,
+          "y": 3305690.657178996,
+          "z": 0.0
+        },
+        {
+          "x": -15975045.6477446,
+          "y": 3305902.790161239,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15973807.779538292,
+          "y": 3304452.7893206878,
+          "z": 0.0
+        },
+        {
+          "x": -15975257.779778987,
+          "y": 3305902.7892272845,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15975257.775839016,
+          "y": 3362190.6596989324,
+          "z": 0.0
+        },
+        {
+          "x": -15974095.647464123,
+          "y": 3363352.7854273077,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15974095.647464126,
+          "y": 3363352.786243841,
+          "z": 0.0
+        },
+        {
+          "x": -15974519.91153283,
+          "y": 3363352.7881118394,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15974519.911532834,
+          "y": 3363352.787295305,
+          "z": 0.0
+        },
+        {
+          "x": -15975257.775839016,
+          "y": 3362614.9222672964,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "STRUT",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15974307.779538292,
+          "y": 3363352.7878024215,
+          "z": 0.0
+        },
+        {
+          "x": -15975257.775839016,
+          "y": 3362402.791720589,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LWPOLYLINE",
+      "layer": "BEAM-BRACING",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15772817.794186447,
+          "y": 3346631.0438273316,
+          "z": 0.0
+        },
+        {
+          "x": -15777868.90695941,
+          "y": 3349398.016884267,
+          "z": 0.0
+        },
+        {
+          "x": -15777964.96561268,
+          "y": 3349222.680510711,
+          "z": 0.0
+        },
+        {
+          "x": -15772913.827045735,
+          "y": 3346455.6218744987,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "BEAM-BRACING",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15772778.142902765,
+          "y": 3346495.3037838554,
+          "z": 0.0
+        },
+        {
+          "x": -15777916.936286043,
+          "y": 3349310.348697491,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LWPOLYLINE",
+      "layer": "BEAM-BRACING",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15812073.534544196,
+          "y": 3335150.413068361,
+          "z": 0.0
+        },
+        {
+          "x": -15810055.94342703,
+          "y": 3338838.322917506,
+          "z": 0.0
+        },
+        {
+          "x": -15809880.545943428,
+          "y": 3338742.3758930285,
+          "z": 0.0
+        },
+        {
+          "x": -15811898.112677332,
+          "y": 3335054.3800520333,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    },
+    {
+      "source_file": "dxf\\6.가시설공사\\C-605 굴착계획 평면도.dxf",
+      "type": "LINE",
+      "layer": "BEAM-BRACING",
+      "color": 0,
+      "linetype": "",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "",
+      "points": [
+        {
+          "x": -15812033.796864025,
+          "y": 3335014.698292175,
+          "z": 0.0
+        },
+        {
+          "x": -15809968.244685233,
+          "y": 3338790.349405268,
+          "z": 0.0
+        }
+      ],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "has_center": false,
+      "has_position": false,
+      "has_points": true
+    }
+  ]
+}

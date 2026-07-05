@@ -1,0 +1,67 @@
+포스트파일 번호 좌표 추출 결과 - points[] 평균좌표 기준
+====================================================================================================
+source: C:\UnityProjects\SafeAR_Wangsuk_Viewer\Assets\StreamingAssets\WangsukDXF\ParsedUnityJson_C605\c605_pf_hpile.json
+count: 492
+
+P001 x=-15772095.870, y=3346121.801, source=points_average, point_count=12
+P002 x=-15772516.920, y=3347561.494, source=points_average, point_count=12
+P003 x=-15772938.000, y=3349001.179, source=points_average, point_count=12
+P004 x=-15773359.080, y=3350440.863, source=points_average, point_count=12
+P005 x=-15773780.160, y=3351880.548, source=points_average, point_count=12
+P006 x=-15774201.240, y=3353320.233, source=points_average, point_count=12
+P007 x=-15775043.369, y=3356199.611, source=points_average, point_count=12
+P008 x=-15780734.032, y=3343595.506, source=points_average, point_count=12
+P009 x=-15779294.338, y=3344016.555, source=points_average, point_count=12
+P010 x=-15777854.645, y=3344437.604, source=points_average, point_count=12
+P011 x=-15776414.951, y=3344858.654, source=points_average, point_count=12
+P012 x=-15774975.258, y=3345279.703, source=points_average, point_count=12
+P013 x=-15773535.564, y=3345700.752, source=points_average, point_count=12
+P014 x=-15812407.300, y=3334332.426, source=points_average, point_count=12
+P015 x=-15812828.348, y=3335772.120, source=points_average, point_count=12
+P016 x=-15813249.366, y=3337211.823, source=points_average, point_count=12
+P017 x=-15813670.384, y=3338651.525, source=points_average, point_count=12
+P018 x=-15813951.053, y=3339611.330, source=points_average, point_count=12
+P019 x=-15805208.832, y=3336437.671, source=points_average, point_count=12
+P020 x=-15806648.526, y=3336016.622, source=points_average, point_count=12
+P021 x=-15808088.219, y=3335595.573, source=points_average, point_count=12
+P022 x=-15809527.913, y=3335174.524, source=points_average, point_count=12
+P023 x=-15810967.607, y=3334753.475, source=points_average, point_count=12
+P024 x=-15782173.726, y=3343174.457, source=points_average, point_count=12
+P025 x=-15783613.419, y=3342753.408, source=points_average, point_count=12
+P026 x=-15785053.113, y=3342332.359, source=points_average, point_count=12
+P027 x=-15786492.806, y=3341911.310, source=points_average, point_count=12
+P028 x=-15787932.500, y=3341490.261, source=points_average, point_count=12
+P029 x=-15789372.194, y=3341069.212, source=points_average, point_count=12
+P030 x=-15790811.887, y=3340648.163, source=points_average, point_count=12
+P031 x=-15792251.581, y=3340227.114, source=points_average, point_count=12
+P032 x=-15793691.274, y=3339806.065, source=points_average, point_count=12
+P033 x=-15795130.968, y=3339385.016, source=points_average, point_count=12
+P034 x=-15796570.662, y=3338963.967, source=points_average, point_count=12
+P035 x=-15798010.355, y=3338542.918, source=points_average, point_count=12
+P036 x=-15799450.049, y=3338121.869, source=points_average, point_count=12
+P037 x=-15800889.743, y=3337700.820, source=points_average, point_count=12
+P038 x=-15802329.436, y=3337279.771, source=points_average, point_count=12
+P039 x=-15803769.130, y=3336858.722, source=points_average, point_count=12
+P040 x=-15814231.752, y=3340571.126, source=points_average, point_count=12
+
+...
+P473 x=-15957321.869, y=3448843.833, source=points_average, point_count=12
+P474 x=-15956538.075, y=3450122.765, source=points_average, point_count=12
+P475 x=-15955754.280, y=3451401.697, source=points_average, point_count=12
+P476 x=-15954970.486, y=3452680.628, source=points_average, point_count=12
+P477 x=-15958889.458, y=3446285.970, source=points_average, point_count=12
+P478 x=-15959673.252, y=3445007.038, source=points_average, point_count=12
+P479 x=-15960457.046, y=3443728.106, source=points_average, point_count=12
+P480 x=-15961240.841, y=3442449.174, source=points_average, point_count=12
+P481 x=-15962024.635, y=3441170.243, source=points_average, point_count=12
+P482 x=-15962808.429, y=3439891.311, source=points_average, point_count=12
+P483 x=-15963592.224, y=3438612.379, source=points_average, point_count=12
+P484 x=-15964376.018, y=3437333.447, source=points_average, point_count=12
+P485 x=-15965159.812, y=3436054.516, source=points_average, point_count=12
+P486 x=-15965943.607, y=3434775.584, source=points_average, point_count=12
+P487 x=-15966675.148, y=3433581.914, source=points_average, point_count=12
+P488 x=-15938765.341, y=3304150.379, source=points_average, point_count=12
+P489 x=-15939611.860, y=3303902.789, source=points_average, point_count=12
+P490 x=-15967397.776, y=3432402.785, source=points_average, point_count=12
+P491 x=-15967678.226, y=3431442.920, source=points_average, point_count=12
+P492 x=-15774622.289, y=3354759.926, source=points_average, point_count=12
