@@ -1,0 +1,2706 @@
+{
+  "group": "CORNER_STRUT",
+  "entity_count": 100,
+  "entities": [
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -16001665.25965897,
+        "y": 3191050.146307992,
+        "z": -2.9978985729e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -16001665.25965929,
+        "y": 3193050.146307986,
+        "z": -6.3502701301e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15997665.24785533,
+        "y": 3191050.146307992,
+        "z": -2.9978985729e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15997665.24785501,
+        "y": 3193050.146307986,
+        "z": -6.3502701301e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15941065.2520466,
+        "y": 3191050.146306059,
+        "z": 1.4529e-12
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15941065.2520466,
+        "y": 3193050.146306059,
+        "z": 1.4529e-12
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15938265.26696296,
+        "y": 3191050.146306059,
+        "z": 1.4529e-12
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15938265.26696296,
+        "y": 3193050.146306059,
+        "z": 1.4529e-12
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15574822.73894352,
+        "y": 3194250.129285144,
+        "z": 4.4599888476e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15574821.63655156,
+        "y": 3191750.129183871,
+        "z": 5.9937165584e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15574822.73895367,
+        "y": 3189550.12918387,
+        "z": 1.23512877746e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15523053.53756267,
+        "y": 3194250.129285144,
+        "z": 4.4599888476e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15523052.43517071,
+        "y": 3191750.129183871,
+        "z": 5.9937165584e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15523053.53757282,
+        "y": 3189550.12918387,
+        "z": 1.23512877746e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15346460.18355088,
+        "y": 3194249.988446357,
+        "z": 2.74440450533e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15342459.9817417,
+        "y": 3194249.988446357,
+        "z": 2.74440450533e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15346460.18354703,
+        "y": 3192049.988446357,
+        "z": 2.74440450213e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15342459.98173785,
+        "y": 3192049.988446357,
+        "z": 2.74440450213e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15346460.18354677,
+        "y": 3190249.988446356,
+        "z": 2.74440717485e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15342459.98173759,
+        "y": 3190249.988446356,
+        "z": 2.74440717485e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15346460.18305628,
+        "y": 3187749.988346064,
+        "z": 1.29423233506e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15342459.98124709,
+        "y": 3187749.988346064,
+        "z": 1.29423233506e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15269760.50219027,
+        "y": 3194100.217428942,
+        "z": 4.1597515892e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15271760.5054891,
+        "y": 3194100.217428942,
+        "z": 4.1597515892e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15273760.50180542,
+        "y": 3194100.217428942,
+        "z": 4.1597515892e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15275960.50378067,
+        "y": 3194100.217428942,
+        "z": 4.159751592e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15269760.50219027,
+        "y": 3191800.217428229,
+        "z": 2.95740401293e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15271760.5054891,
+        "y": 3191800.217428229,
+        "z": 2.95740401293e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15273760.50180542,
+        "y": 3191800.217428229,
+        "z": 2.95740401293e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15275960.50378067,
+        "y": 3191800.217428229,
+        "z": 2.95740401321e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15265760.17282798,
+        "y": 3194100.217428942,
+        "z": 4.1597515892e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15263760.16952914,
+        "y": 3194100.217428942,
+        "z": 4.1597515892e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15261760.17321282,
+        "y": 3194100.217428942,
+        "z": 4.1597515892e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15259560.17123757,
+        "y": 3194100.217428942,
+        "z": 4.159751592e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15265760.17282798,
+        "y": 3191800.217428229,
+        "z": 2.95740401293e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15263760.16952914,
+        "y": 3191800.217428229,
+        "z": 2.95740401293e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15261760.17321282,
+        "y": 3191800.217428229,
+        "z": 2.95740401293e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15259560.17123757,
+        "y": 3191800.217428229,
+        "z": 2.95740401321e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15227760.66009342,
+        "y": 3194100.217428942,
+        "z": 4.1597516544e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15229760.66339226,
+        "y": 3194100.217428942,
+        "z": 4.1597516544e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15231760.65970858,
+        "y": 3194100.217428942,
+        "z": 4.1597516544e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15227760.66009342,
+        "y": 3191800.217428229,
+        "z": 2.95740401945e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15229760.66339226,
+        "y": 3191800.217428229,
+        "z": 2.95740401945e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15231760.65970858,
+        "y": 3191800.217428229,
+        "z": 2.95740401945e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15223760.33073114,
+        "y": 3194100.217428942,
+        "z": 4.1597516544e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15221760.3274323,
+        "y": 3194100.217428942,
+        "z": 4.1597516544e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15219760.33111598,
+        "y": 3194100.217428942,
+        "z": 4.1597516544e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15223760.33073114,
+        "y": 3191800.217428229,
+        "z": 2.95740401945e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15221760.3274323,
+        "y": 3191800.217428229,
+        "z": 2.95740401945e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15219760.33111598,
+        "y": 3191800.217428229,
+        "z": 2.95740401945e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15998189.94640171,
+        "y": 2922107.762742885,
+        "z": -2.9978985729e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15998189.94640203,
+        "y": 2924107.76274288,
+        "z": -6.3502701301e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15994189.93459807,
+        "y": 2922107.762742885,
+        "z": -2.9978985729e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15994189.93459775,
+        "y": 2924107.76274288,
+        "z": -6.3502701301e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15937589.93878933,
+        "y": 2922107.762740952,
+        "z": 1.4529e-12
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15937589.93878933,
+        "y": 2924107.762740952,
+        "z": 1.4529e-12
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15934789.9537057,
+        "y": 2922107.762740952,
+        "z": 1.4529e-12
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15934789.9537057,
+        "y": 2924107.762740952,
+        "z": 1.4529e-12
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15667495.89620292,
+        "y": 2925308.309055791,
+        "z": -2.376461882e-07
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15667494.79381096,
+        "y": 2922808.308954519,
+        "z": 1.2960815226e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15667495.89621308,
+        "y": 2920608.308954517,
+        "z": 7.6536527388e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15663495.6944102,
+        "y": 2925308.309055791,
+        "z": -5.659593184e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15663494.59201824,
+        "y": 2922808.308954519,
+        "z": -4.1258654732e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15663495.69442036,
+        "y": 2920608.308954517,
+        "z": 2.231705743e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15523381.16214187,
+        "y": 2925308.168217005,
+        "z": 8.976300428e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15519380.96033268,
+        "y": 2925308.168217005,
+        "z": 8.976300428e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15523381.16213802,
+        "y": 2923108.168217004,
+        "z": 8.976300396e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15519380.96032883,
+        "y": 2923108.168217004,
+        "z": 8.976300396e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15523381.16213776,
+        "y": 2921308.168217003,
+        "z": 8.9763271232e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15519380.96032857,
+        "y": 2921308.168217003,
+        "z": 8.9763271232e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15523381.16164726,
+        "y": 2918808.168116712,
+        "z": -5.5254212748e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15519380.95983808,
+        "y": 2918808.168116712,
+        "z": -5.5254212748e-06
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15482880.87637699,
+        "y": 2925158.39719959,
+        "z": -4.38037731417e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15484880.87967583,
+        "y": 2925158.39719959,
+        "z": -4.38037731417e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15486880.87599215,
+        "y": 2925158.39719959,
+        "z": -4.38037731417e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15489080.8779674,
+        "y": 2925158.39719959,
+        "z": -4.38037731389e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15482880.87637699,
+        "y": 2922858.397198876,
+        "z": -1.83894846016e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15484880.87967583,
+        "y": 2922858.397198876,
+        "z": -1.83894846016e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15486880.87599215,
+        "y": 2922858.397198876,
+        "z": -1.83894846016e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15489080.8779674,
+        "y": 2922858.397198876,
+        "z": -1.83894845988e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15478880.54701471,
+        "y": 2925158.39719959,
+        "z": -4.38037731417e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15476880.54371587,
+        "y": 2925158.39719959,
+        "z": -4.38037731417e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15474880.54739955,
+        "y": 2925158.39719959,
+        "z": -4.38037731417e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15472680.5454243,
+        "y": 2925158.39719959,
+        "z": -4.38037731389e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15478880.54701471,
+        "y": 2922858.397198876,
+        "z": -1.83894846016e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15476880.54371587,
+        "y": 2922858.397198876,
+        "z": -1.83894846016e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15474880.54739955,
+        "y": 2922858.397198876,
+        "z": -1.83894846016e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15472680.5454243,
+        "y": 2922858.397198876,
+        "z": -1.83894845988e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15440881.03428015,
+        "y": 2925158.39719959,
+        "z": -4.38037730765e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15442881.03757899,
+        "y": 2925158.39719959,
+        "z": -4.38037730765e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15444881.03389531,
+        "y": 2925158.39719959,
+        "z": -4.38037730765e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15440881.03428015,
+        "y": 2922858.397198877,
+        "z": -1.83894845364e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15442881.03757899,
+        "y": 2922858.397198877,
+        "z": -1.83894845364e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15444881.03389531,
+        "y": 2922858.397198877,
+        "z": -1.83894845364e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15436880.70491786,
+        "y": 2925158.39719959,
+        "z": -4.38037730765e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15434880.70161903,
+        "y": 2925158.39719959,
+        "z": -4.38037730765e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15432880.70530271,
+        "y": 2925158.39719959,
+        "z": -4.38037730765e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15436880.70491786,
+        "y": 2922858.397198877,
+        "z": -1.83894845364e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15434880.70161903,
+        "y": 2922858.397198877,
+        "z": -1.83894845364e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    },
+    {
+      "source_file": "dxf\\가시설합본.dxf",
+      "type": "INSERT",
+      "layer": "STRUT",
+      "color": 4,
+      "linetype": "BYLAYER",
+      "closed": false,
+      "radius": 0.0,
+      "height": 0.0,
+      "rotation": 0.0,
+      "text": "",
+      "block_name": "STRUT1",
+      "points": [],
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "position": {
+        "x": -15432880.70530271,
+        "y": 2922858.397198877,
+        "z": -1.83894845364e-05
+      },
+      "has_center": false,
+      "has_position": true,
+      "has_points": false
+    }
+  ]
+}

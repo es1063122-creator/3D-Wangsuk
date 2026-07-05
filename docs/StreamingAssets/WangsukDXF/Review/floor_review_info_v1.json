@@ -1,0 +1,16 @@
+{
+  "name": "Wangsuk A-6BL Floor Review Info v1",
+  "status": "검토용. C-605 바닥/동자리 도면 텍스트 기반 자동 추출.",
+  "source_dxf": "C-605 굴착계획 평면도.dxf",
+  "rules": {
+    "building": "동자리 / 601~614동",
+    "parking": "지하주차장",
+    "pump": "펌프실",
+    "electric": "전기실/발전기실/전기계",
+    "heat": "열교환실",
+    "pit": "PIT",
+    "machine": "기계실",
+    "el": "EL 표기"
+  },
+  "markers": []
+}

@@ -1,0 +1,302 @@
+{
+  "project": "Wangsuk A-6BL CAD/DXF 3D",
+  "source_dir": "C:\\UnityProjects\\SafeAR_Wangsuk_CAD_3D\\Assets\\StreamingAssets\\WangsukDXF\\SourceDXF\\unzipped",
+  "groups": [
+    {
+      "group": "PF_HPILE",
+      "entity_count": 5068,
+      "bounds": {
+        "min_x": -16044765.08214459,
+        "min_y": 113187.8120660799,
+        "min_z": -0.608454279796718,
+        "max_x": -14268698.40341125,
+        "max_y": 3195400.187921558,
+        "max_z": 4.31673832681e-05
+      },
+      "layer_counts": {
+        "PW1": 1770,
+        "__PILE": 1681,
+        "H-PILE": 1504,
+        "C-PILE": 98,
+        "Hpile1": 11,
+        "HPILE": 4
+      },
+      "type_counts": {
+        "LINE": 3294,
+        "LWPOLYLINE": 1726,
+        "ARC": 48
+      },
+      "file": "wangsuk_pf_hpile.json"
+    },
+    {
+      "group": "CIP",
+      "entity_count": 4537,
+      "bounds": {
+        "min_x": -16047027.44166356,
+        "min_y": 114087.8120678029,
+        "min_z": 0.0,
+        "max_x": -14268598.40341125,
+        "max_y": 3195400.634307553,
+        "max_z": 6.776771618e-07
+      },
+      "layer_counts": {
+        "CIP": 4517,
+        "__CIP": 20
+      },
+      "type_counts": {
+        "LWPOLYLINE": 4517,
+        "LINE": 20
+      },
+      "file": "wangsuk_cip.json"
+    },
+    {
+      "group": "WALE",
+      "entity_count": 1653,
+      "bounds": {
+        "min_x": -16047091.30151626,
+        "min_y": 2599253.312582504,
+        "min_z": -8.66710114636e-05,
+        "max_x": -14268848.39766395,
+        "max_y": 4199882.795926526,
+        "max_z": 2.98742773879e-05
+      },
+      "layer_counts": {
+        "C-WALE": 888,
+        "WALE": 747,
+        "__Wale": 12,
+        "-$$WALE": 6
+      },
+      "type_counts": {
+        "LINE": 1604,
+        "LWPOLYLINE": 49
+      },
+      "file": "wangsuk_wale.json"
+    },
+    {
+      "group": "ANCHOR",
+      "entity_count": 4704,
+      "bounds": {
+        "min_x": -16034805.18320336,
+        "min_y": 109840.4980730465,
+        "min_z": -764.8870703126053,
+        "max_x": -14269620.29832486,
+        "max_y": 3194550.855783957,
+        "max_z": 0.0003436682624298
+      },
+      "layer_counts": {
+        "ANCHOR": 3888,
+        "C-ANCH-FREE": 582,
+        "C-ANCH-BOND": 234
+      },
+      "type_counts": {
+        "INSERT": 3724,
+        "LINE": 697,
+        "LWPOLYLINE": 256,
+        "CIRCLE": 16,
+        "ARC": 9,
+        "TEXT": 2
+      },
+      "file": "wangsuk_anchor.json"
+    },
+    {
+      "group": "CORNER_STRUT",
+      "entity_count": 1926,
+      "bounds": {
+        "min_x": -16047103.31703725,
+        "min_y": 2918808.168116712,
+        "min_z": -4.38037731417e-05,
+        "max_x": -14431200.84714144,
+        "max_y": 3194250.129285144,
+        "max_z": 2.95740401945e-05
+      },
+      "layer_counts": {
+        "C-STRUT": 1456,
+        "STRUT": 470
+      },
+      "type_counts": {
+        "LINE": 910,
+        "ARC": 800,
+        "INSERT": 150,
+        "LWPOLYLINE": 50,
+        "POLYLINE": 16
+      },
+      "file": "wangsuk_corner_strut.json"
+    },
+    {
+      "group": "EXCAVATION",
+      "entity_count": 817,
+      "bounds": {
+        "min_x": -16036292.2216585,
+        "min_y": 115187.8120661009,
+        "min_z": -41883.76995851635,
+        "max_x": -14268095.76201343,
+        "max_y": 3205817.113001568,
+        "max_z": 79367.88186020874
+      },
+      "layer_counts": {
+        "-$$굴착심도": 761,
+        "-$$굴착선": 56
+      },
+      "type_counts": {
+        "TEXT": 514,
+        "INSERT": 247,
+        "LINE": 56
+      },
+      "file": "wangsuk_excavation.json"
+    },
+    {
+      "group": "GROUND_GL",
+      "entity_count": 669,
+      "bounds": {
+        "min_x": -16037947.59180812,
+        "min_y": 1467.199817060852,
+        "min_z": -6.17735116624e-05,
+        "max_x": 6287.874563705675,
+        "max_y": 3195400.159761909,
+        "max_z": 0.0001166121237622
+      },
+      "layer_counts": {
+        "GL": 515,
+        "@원지반": 154
+      },
+      "type_counts": {
+        "LINE": 308,
+        "LWPOLYLINE": 303,
+        "TEXT": 58
+      },
+      "file": "wangsuk_ground_gl.json"
+    },
+    {
+      "group": "SECTION_LINES",
+      "entity_count": 1833,
+      "bounds": {
+        "min_x": -16020943.73098914,
+        "min_y": -2051.573354614312,
+        "min_z": -2691.063809342026,
+        "max_x": 6212.778113321974,
+        "max_y": 2960234.083962859,
+        "max_z": 6.776771618e-07
+      },
+      "layer_counts": {
+        "횡단면도-표시선": 1704,
+        "@SECTION": 104,
+        "단면위치": 9,
+        "단면": 8,
+        "$$단면체인": 6,
+        "$ 단면": 2
+      },
+      "type_counts": {
+        "LWPOLYLINE": 740,
+        "TEXT": 550,
+        "INSERT": 527,
+        "CIRCLE": 16
+      },
+      "file": "wangsuk_section_lines.json"
+    },
+    {
+      "group": "GRID",
+      "entity_count": 1631,
+      "bounds": {
+        "min_x": -16046257.11918147,
+        "min_y": -521.6835019439459,
+        "min_z": -4.79635247309e-05,
+        "max_x": 42131.32931951341,
+        "max_y": 4201212.795926729,
+        "max_z": 0.0
+      },
+      "layer_counts": {
+        "그리드선": 1466,
+        "_CR_수직그리드": 134,
+        "_CR_수평그리드": 18,
+        "A-FLOR-GRID": 11,
+        "BASE$0$A-FLOR-GRID": 2
+      },
+      "type_counts": {
+        "LINE": 1184,
+        "TEXT": 242,
+        "LWPOLYLINE": 165,
+        "INSERT": 40
+      },
+      "file": "wangsuk_grid.json"
+    },
+    {
+      "group": "LABELS",
+      "entity_count": 22147,
+      "bounds": {
+        "min_x": -16047977.74018606,
+        "min_y": -3127100.657402106,
+        "min_z": -59249.9630836408,
+        "max_x": 4745838.338439203,
+        "max_y": 4325367.64538415,
+        "max_z": 32479.05375842272
+      },
+      "layer_counts": {
+        "TEXT": 13544,
+        "Text": 4567,
+        "-$$TEXT": 1482,
+        "-$$범례TEXT": 1121,
+        "FTEXT": 343,
+        "TEXT-ER": 341,
+        "XR-TEXT": 221,
+        "ZM_TEXT": 180,
+        "00-TEXT": 124,
+        "배치-Text-Dong": 68,
+        "A-TEXT03": 50,
+        "TEXT1": 36,
+        "BASE$0$TEXT": 31,
+        "TEXT-6": 16,
+        "dp-text": 5,
+        "FORM-TEXT": 5,
+        "$EL-text": 5,
+        "0-TEXT": 4,
+        "TEXT-2": 1,
+        "상수text": 1,
+        "TEXT02": 1,
+        "CH-TEXT": 1
+      },
+      "type_counts": {
+        "TEXT": 19886,
+        "LINE": 1502,
+        "LWPOLYLINE": 347,
+        "MTEXT": 291,
+        "CIRCLE": 88,
+        "INSERT": 25,
+        "ARC": 8
+      },
+      "file": "wangsuk_labels.json"
+    },
+    {
+      "group": "BUILDING_PARKING",
+      "entity_count": 3119,
+      "bounds": {
+        "min_x": -15899921.4074962,
+        "min_y": -5847190.832779954,
+        "min_z": -1.0541278e-09,
+        "max_x": 2228274.382347117,
+        "max_y": 3705228.735493371,
+        "max_z": 209.4077004538678
+      },
+      "layer_counts": {
+        "1.공사-계획 사면": 1409,
+        "-bs-[PLAN]조경선": 720,
+        "동딱지PD": 319,
+        "동딱지OUTLINE_코어": 245,
+        "지하주차장 OUTLINE": 141,
+        "동딱지OUTLINE": 118,
+        "동딱지SERVICE": 112,
+        "BASE$0$지하주차장 OUTLINE": 35,
+        "!S_7.FooT": 20
+      },
+      "type_counts": {
+        "LINE": 1998,
+        "LWPOLYLINE": 1000,
+        "ARC": 97,
+        "CIRCLE": 10,
+        "POLYLINE": 8,
+        "TEXT": 5,
+        "INSERT": 1
+      },
+      "file": "wangsuk_building_parking.json"
+    }
+  ]
+}
