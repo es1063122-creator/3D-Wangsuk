@@ -6,6 +6,20 @@
     <title>Unity Web Player | SafeAR_Wangsuk_Viewer</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
+  
+    <style>
+      html, body, canvas, #unity-container, #unity-canvas {
+        touch-action: none;
+        overscroll-behavior: none;
+        -webkit-user-select: none;
+        user-select: none;
+      }
+
+      #unity-canvas {
+        image-rendering: auto;
+        -webkit-font-smoothing: antialiased;
+      }
+    </style>
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
@@ -52,12 +66,13 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/docs.loader.js?v=20260706074651";
+      var loaderUrl = buildUrl + "/docs.loader.js?v=20260706095127";
       var config = {
+        devicePixelRatio: Math.min(window.devicePixelRatio || 1, 2),
         arguments: [],
-        dataUrl: buildUrl + "/docs.data?v=20260706074651",
-        frameworkUrl: buildUrl + "/docs.framework.js?v=20260706074651",
-        codeUrl: buildUrl + "/docs.wasm?v=20260706074651",
+        dataUrl: buildUrl + "/docs.data?v=20260706095127",
+        frameworkUrl: buildUrl + "/docs.framework.js?v=20260706095127",
+        codeUrl: buildUrl + "/docs.wasm?v=20260706095127",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "SafeAR_Wangsuk_Viewer",
@@ -92,7 +107,7 @@
 
         var meta = document.createElement('meta');
         meta.name = 'viewport';
-        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=yes';
         document.getElementsByTagName('head')[0].appendChild(meta);
         document.querySelector("#unity-container").className = "unity-mobile";
         canvas.className = "unity-mobile";
@@ -131,4 +146,6 @@
     </script>
   </body>
 </html>
+
+
 

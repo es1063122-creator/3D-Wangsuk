@@ -25,3 +25,16 @@ Recordings/
 
 # 백업 폴더
 *_BACKUPS/
+
+# Large original DXF source files
+Assets/StreamingAssets/WangsukDXF/SourceDXF/
+*.zip
+
+# Large original DXF source files
+Assets/StreamingAssets/WangsukDXF/SourceDXF/
+*.zip
+
+# Large original DXF source files
+Assets/StreamingAssets/WangsukDXF/SourceDXF/
+docs/StreamingAssets/WangsukDXF/SourceDXF/
+*.zip

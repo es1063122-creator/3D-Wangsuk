@@ -6234,6 +6234,224 @@ List<WaleSpecRange> specs = GetWaleSpecReviewRanges();
 
     
 
+
+    // 도면/동자리/최종바닥을 포스트파일 내부만 보이게 가볍게 필터링
+    public void ApplyInsideOnlyPlanClipLight()
+    {
+        ApplyInsideOnlyPlanClip("PLAN_VECTOR_OVERLAY");
+        ApplyInsideOnlyPlanClip("FINAL_BOTTOM_STEP");
+        ApplyInsideOnlyPlanClip("PLAN_OVERLAY");
+        ApplyInsideOnlyPlanClip("FLOOR_REVIEW_INFO");
+
+        Debug.Log("[INSIDE_ONLY_PLAN] 포스트파일 내부 도면만 표시 적용 완료");
+    }
+
+    private void ApplyInsideOnlyPlanClip(string groupName)
+    {
+        GameObject group = GameObject.Find(groupName);
+        if (group == null)
+            return;
+
+        Bounds pfBounds;
+        if (!TryGetPostPileInsideClipBounds(out pfBounds))
+        {
+            Debug.LogWarning("[INSIDE_ONLY_PLAN] PF/CIP 기준 Bounds 없음: " + groupName);
+            return;
+        }
+
+        // 포스트파일 중심선 바로 안쪽만 남기기 위한 여유값
+        float marginX = Mathf.Max(0.8f, pfBounds.size.x * 0.015f);
+        float marginZ = Mathf.Max(0.8f, pfBounds.size.z * 0.015f);
+
+        float minX = pfBounds.min.x + marginX;
+        float maxX = pfBounds.max.x - marginX;
+        float minZ = pfBounds.min.z + marginZ;
+        float maxZ = pfBounds.max.z - marginZ;
+
+        Renderer[] renderers = group.GetComponentsInChildren<Renderer>(true);
+
+        int shown = 0;
+        int hidden = 0;
+
+        foreach (Renderer r in renderers)
+        {
+            if (r == null)
+                continue;
+
+            if (r.GetComponentInParent<Canvas>() != null)
+                continue;
+
+            Vector3 c = r.bounds.center;
+
+            bool inside =
+                c.x >= minX &&
+                c.x <= maxX &&
+                c.z >= minZ &&
+                c.z <= maxZ;
+
+            r.gameObject.SetActive(inside);
+
+            if (inside) shown++;
+            else hidden++;
+        }
+
+        Debug.Log("[INSIDE_ONLY_PLAN] " + groupName +
+                  " 내부 표시=" + shown +
+                  " / 외곽 숨김=" + hidden +
+                  " / bounds=" + pfBounds.center + " size=" + pfBounds.size);
+    }
+
+    private bool TryGetPostPileInsideClipBounds(out Bounds bounds)
+    {
+        string[] candidates = new string[]
+        {
+            "CIP",
+            "PF",
+            "PF_HPILE",
+            "POST_PILE",
+            "C605_PF",
+            "C605_CIP"
+        };
+
+        foreach (string name in candidates)
+        {
+            GameObject go = GameObject.Find(name);
+            if (go == null)
+                continue;
+
+            if (TryCalculateBounds(go, out bounds))
+                return true;
+        }
+
+        bounds = new Bounds(Vector3.zero, Vector3.zero);
+        return false;
+    }
+
+
+
+    // CIP를 반투명하게 만들어 내부 PT/포스트파일/도면이 보이도록 처리
+
+    public void ScheduleCipTransparentApply()
+    {
+        CancelInvoke(nameof(ApplyCipTransparentForInsideView));
+        Invoke(nameof(ApplyCipTransparentForInsideView), 0.5f);
+        Invoke(nameof(ApplyCipTransparentForInsideView), 1.5f);
+        Invoke(nameof(ApplyCipTransparentForInsideView), 3.0f);
+        Invoke(nameof(ApplyCipTransparentForInsideView), 5.0f);
+
+        Debug.Log("[CIP_TRANSPARENT] 반투명 지연 재적용 예약 완료");
+    }
+
+
+    public void ApplyCipTransparentForInsideView()
+    {
+        string[] cipNames = new string[]
+        {
+            "CIP",
+            "C605_CIP",
+            "CIP_GROUP",
+            "CIP_WALL",
+            "CIP_PANEL"
+        };
+
+        int changed = 0;
+
+        foreach (string name in cipNames)
+        {
+            GameObject go = GameObject.Find(name);
+            if (go == null)
+                continue;
+
+            Renderer[] renderers = go.GetComponentsInChildren<Renderer>(true);
+
+            foreach (Renderer r in renderers)
+            {
+                if (r == null)
+                    continue;
+
+                Material mat = CreateCipTransparentMaterial();
+                r.sharedMaterial = mat;
+                changed++;
+            }
+        }
+
+        // 이름이 정확히 다를 경우 대비: 이름에 CIP가 들어간 Renderer도 처리
+        Renderer[] allRenderers = FindObjectsByType<Renderer>(FindObjectsInactive.Include, FindObjectsSortMode.None);
+
+        foreach (Renderer r in allRenderers)
+        {
+            if (r == null)
+                continue;
+
+            if (r.GetComponentInParent<Canvas>() != null)
+                continue;
+
+            string n = r.gameObject.name.ToUpper();
+            string pn = r.transform.parent != null ? r.transform.parent.name.ToUpper() : "";
+
+            if (n.Contains("CIP") || pn.Contains("CIP"))
+            {
+                Material mat = CreateCipTransparentMaterial();
+                r.sharedMaterial = mat;
+                changed++;
+            }
+        }
+
+        Debug.Log("[CIP_TRANSPARENT] CIP 반투명 적용 Renderer 수: " + changed);
+    }
+
+    private Material CreateCipTransparentMaterial()
+    {
+        Shader shader = Shader.Find("Universal Render Pipeline/Lit");
+        if (shader == null) shader = Shader.Find("Universal Render Pipeline/Unlit");
+        if (shader == null) shader = Shader.Find("Standard");
+        if (shader == null) shader = GetWebSafeTransparentShader();
+
+        Material mat = new Material(shader);
+
+        // 흰색 금지. 기존 CIP 느낌을 유지하는 청록색 반투명.
+        Color cipCyan = new Color(0.00f, 0.78f, 1.00f, 0.55f);
+
+        mat.color = cipCyan;
+
+        if (mat.HasProperty("_BaseColor"))
+            mat.SetColor("_BaseColor", cipCyan);
+
+        if (mat.HasProperty("_Color"))
+            mat.SetColor("_Color", cipCyan);
+
+        // URP Transparent 설정
+        if (mat.HasProperty("_Surface"))
+            mat.SetFloat("_Surface", 1f);      // Transparent
+
+        if (mat.HasProperty("_Blend"))
+            mat.SetFloat("_Blend", 0f);        // Alpha Blend
+
+        if (mat.HasProperty("_AlphaClip"))
+            mat.SetFloat("_AlphaClip", 0f);
+
+        if (mat.HasProperty("_ZWrite"))
+            mat.SetFloat("_ZWrite", 0f);
+
+        // Standard Shader Transparent 설정
+        if (mat.HasProperty("_Mode"))
+            mat.SetFloat("_Mode", 3f);
+
+        mat.SetInt("_SrcBlend", (int)UnityEngine.Rendering.BlendMode.SrcAlpha);
+        mat.SetInt("_DstBlend", (int)UnityEngine.Rendering.BlendMode.OneMinusSrcAlpha);
+        mat.SetInt("_ZWrite", 0);
+
+        mat.DisableKeyword("_ALPHATEST_ON");
+        mat.EnableKeyword("_ALPHABLEND_ON");
+        mat.DisableKeyword("_ALPHAPREMULTIPLY_ON");
+
+        mat.EnableKeyword("_SURFACE_TYPE_TRANSPARENT");
+        mat.renderQueue = 3000;
+
+        return mat;
+    }
+
+
     private Shader GetWebSafeShader()
     {
         Shader shader = Shader.Find("Universal Render Pipeline/Lit");
@@ -6274,6 +6492,8 @@ List<WaleSpecRange> specs = GetWaleSpecReviewRanges();
 
 
 }
+
+
 
 
 

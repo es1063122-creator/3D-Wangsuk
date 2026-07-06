@@ -109,6 +109,7 @@ public class WangsukViewerUI : MonoBehaviour
         CreateButton("바닥검토", 310, -60, 90, 34, () =>
         {
             ApplyViewPreset("bottom");
+            if (builder != null) builder.ScheduleCipTransparentApply();
 });
 
         CreateButton("도면검토", 410, -60, 90, 34, () =>
@@ -126,6 +127,7 @@ public class WangsukViewerUI : MonoBehaviour
         CreateButton("CIP", 85, -100, 55, 32, () =>
         {
             ToggleGroupSmart("CIP");
+            if (builder != null) builder.ScheduleCipTransparentApply();
         });
 
         CreateButton("띠장", 150, -100, 65, 32, () =>
@@ -742,6 +744,11 @@ private void ApplyViewPreset(string preset)
         else
             Debug.LogWarning("[UI] WangsukFullModelBuilder를 찾지 못했습니다.");
     }}
+
+
+
+
+
 
 
 
